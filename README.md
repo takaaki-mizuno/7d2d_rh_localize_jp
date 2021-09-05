@@ -20,7 +20,7 @@ It has been tested on macOS and Python 3.8.
 
 
 ----
-# 7 Days To Die RavenHearst Mod
+# 7 Days To Die RavenHearst Mod 日本語データ
 
 7 Days To DieのRavenHearst Modの日本語化データとスクリプト。( only for 7.6 / a19.6 )
 
