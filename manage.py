@@ -1,6 +1,6 @@
 import sys
 
-from commands import Generate
+from commands import Apply, Generate
 
 
 def manage():
@@ -11,6 +11,8 @@ def manage():
     command = sys.argv[1]
     if command == "generate":
         Generate().execute(sys.argv[2:])
+    elif command == "apply":
+        Apply().execute(sys.argv[2:])
 
 
 if __name__ == '__main__':

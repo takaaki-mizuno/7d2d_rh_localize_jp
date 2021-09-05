@@ -1,13 +1,13 @@
-﻿Key,Source,Context,English
-backpackRH,items,Item,"Backpack"
-backpackRHDesc,items,Item,"You have found a backpack. Learn this to unlock slots in your inventory. There are 10 backpacks to find. [a0ff94]The last row will remain locked until you open all normal slots. If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]"
-perkBackpack,Quest,Quest Info,Backpack Slots
-perkBackpack_subtitle,Quest,Quest Info,You have unlocked backpack slots
-perkBackpack_description,Quest,Quest Info,This will open up a few backpack slots in your inventory
-perkBackpack_offer,Quest,Quest Info,This will open up a few backpack slots in your inventory
-MilitaryBackpackRH,items,Item,"Military Backpack"
-MilitaryBackpackRHDesc,items,Item,"This backpack is military grade and can support any weight you can throw at it.[a0ff94]If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]"
-perkMilitaryBackpack,Quest,Quest Info,Military Backpack Upgrade
-perkMilitaryBackpack_subtitle,Quest,Quest Info,You have unlocked all backpack slots
-perkMilitaryBackpack_description,Quest,Quest Info,This will open up the final row in your inventory
-perkMilitaryBackpack_offer,Quest,Quest Info,This will open up the final row in your inventory
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+backpackRH,items,Item,"Backpack",,,,,,"バックパック"
+backpackRHDesc,items,Item,"You have found a backpack. Learn this to unlock slots in your inventory. There are 10 backpacks to find. [a0ff94]The last row will remain locked until you open all normal slots. If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",,,,,,"あなたはバックパックを見つけました。これを覚えると、インベントリのスロットがアンロックされます。10個のバックパックを見つけることができます。[a0ff94]最後の列は、通常のスロットをすべて開けるまでロックされたままです。10個のバックパックを見つける前に、軍用のバックパックを作って読んでしまうと、何も起こらず、材料を失うことになります[-]"
+perkBackpack,Quest,Quest Info,Backpack Slots,,,,,,"バックパックスロット"
+perkBackpack_subtitle,Quest,Quest Info,You have unlocked backpack slots,,,,,,"バックパックのスロットをアンロックしました"
+perkBackpack_description,Quest,Quest Info,This will open up a few backpack slots in your inventory,,,,,,"このアイテムで、インベントリ内のバックパックのスロットがいくつかアンロックできます"
+perkBackpack_offer,Quest,Quest Info,This will open up a few backpack slots in your inventory,,,,,,"このアイテムで、インベントリ内のバックパックのスロットがいくつかアンロックできます"
+MilitaryBackpackRH,items,Item,"Military Backpack",,,,,,"軍用バックパック"
+MilitaryBackpackRHDesc,items,Item,"This backpack is military grade and can support any weight you can throw at it.[a0ff94]If you craft and read a military backpack BEFORE finding all 10 backpacks first nothing will happen and you will lose your materials.[-]",,,,,,"このバックパックは軍用で、どんな重さにも耐えることができます。[a0ff94]最初に10個のバックパックをすべて見つける前に、軍用バックパックをクラフトして読んでしまうと、何も起こらず、材料を失うことになります[-]"
+perkMilitaryBackpack,Quest,Quest Info,Military Backpack Upgrade,,,,,,"軍用バックパックアップグレード"
+perkMilitaryBackpack_subtitle,Quest,Quest Info,You have unlocked all backpack slots,,,,,,"すべてのバックパックのスロットがアンロックされました"
+perkMilitaryBackpack_description,Quest,Quest Info,This will open up the final row in your inventory,,,,,,"このアイテムで、インベントリの一番下の行がアンロックされます"
+perkMilitaryBackpack_offer,Quest,Quest Info,This will open up the final row in your inventory,,,,,,"このアイテムで、インベントリの一番下の行がアンロックされます"

@@ -31,9 +31,8 @@ class Generate(Command):
 
         return path
 
-    @staticmethod
-    def copy_localized_text(original_path: Path):
-        data_path = Path("./data/Mods").absolute()
+    def copy_localized_text(self, original_path: Path):
+        data_path = self.get_data_path()
         for file in original_path.glob("**/Localization.txt"):
             relative_path = file.relative_to(str(original_path))
             destination_path = data_path.joinpath(relative_path)
