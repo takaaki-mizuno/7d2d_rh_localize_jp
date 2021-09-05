@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "7d2d_rh_localize_jp"
+version = "0.1.0"
+description = ""
+authors = ["Takaaki Mizuno <takaaki.mizuno@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+yapf = "^0.31.0"
+isort = "^5.9.3"
+flake8 = "^3.9.2"
+toml = "^0.10.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
