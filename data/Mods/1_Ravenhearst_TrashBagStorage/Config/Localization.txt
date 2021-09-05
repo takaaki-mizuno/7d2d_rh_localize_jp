@@ -1,5 +1,5 @@
-﻿Key,Source,Context,English
-cntTrashPile01RH,blocks,Container,Trash Bag (Storage)
-cntTrashPile01RHDesc,blocks,Container,Trash bag that can be used to store your belongings.
-resourceTrashBagEmptyRH,blocks,Container,Filthy Trash Bag
-resourceTrashBagEmptyRHDesc,blocks,Container,Trash bag that can be combined with other trash bags to make makeshift storage.
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+cntTrashPile01RH,blocks,Container,Trash Bag (Storage),,,,,,ゴミ袋（ストレージ）
+cntTrashPile01RHDesc,blocks,Container,Trash bag that can be used to store your belongings.,,,,,,持ち物を入れることができるゴミ袋。
+resourceTrashBagEmptyRH,blocks,Container,Filthy Trash Bag,,,,,,不潔なゴミ袋
+resourceTrashBagEmptyRHDesc,blocks,Container,Trash bag that can be combined with other trash bags to make makeshift storage.,,,,,,複数のゴミ袋と組み合わせて、その場しのぎの収納が可能なゴミ袋を作ることができます。

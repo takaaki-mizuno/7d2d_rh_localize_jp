@@ -1,3 +1,3 @@
-﻿Key,Source,Context,English
-personalWorkbenchRH,blocks,Workstation,Personal Craft Station,,,,,
-personalWorkbenchRHDesc,blocks,Workstation,"Your main crafting station. To pick it back up just destroy it.",,,,,
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+personalWorkbenchRH,blocks,Workstation,Personal Craft Station,,,,,,"個人用作業台"
+personalWorkbenchRHDesc,blocks,Workstation,"Your main crafting station. To pick it back up just destroy it.",,,,,,"あなた専用の作業台。破壊すれば拾うことができます"

@@ -1,17 +1,17 @@
-﻿Key,Source,Context,English
-survivalNutsRH,items,Food,Nuts,,,,,
-survivalNutsRHDesc,items,Food,"Nuts provide much needed nutrition. Keep a bunch of these on you for emergencies. Eating a handful may provide an extra boost.",,,,,
-survivalBerriesRH,items,Food,Berries,,,,,
-survivalBerriesRHDesc,items,Food,"Safe to eat and can provide a boost to your energy. Eating a handful may provide an extra boost.",,,,,
-handfulOfNutsRH,items,Food,Handful of Nuts,,,,,
-handfulOfNutsRHDesc,items,Food,"This handful of nuts will provide the boost you are looking for out there.",,,,,
-handfulOfBerriesRH,items,Food,Handful of Berries,,,,,
-handfulOfBerriesRHDesc,items,Food,"This handful of berries will provide the boost you are looking for out there.",,,,,
-plantedNuts1RH,blocks,Farming,Nuts Tree (Seed),,,,,
-plantedNuts1RHDesc,blocks,Farming,Plant yucca seeds in fertile dirt to grow yucca plants.,,,,,
-plantedNuts2RH,blocks,Farming,Nuts Tree (Growing),,,,,
-plantedNuts2RHDesc,blocks,Farming,Nuts Tree (Growing),,,,,
-plantedNuts3HarvestRH,blocks,Farming,Nuts Tree 3 (POI),,,,,
-plantedNuts3HarvestRHDesc,blocks,Farming,Nuts Tree,,,,,
-plantedNuts3HarvestPlayerRHDesc,blocks,Farming,Nuts Tree,,,,,
-plantedNuts3HarvestPlayerRH,blocks,Farming,Nuts Tree,,,,,
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+survivalNutsRH,items,Food,Nuts,,,,,,ナッツ
+survivalNutsRHDesc,items,Food,"Nuts provide much needed nutrition. Keep a bunch of these on you for emergencies. Eating a handful may provide an extra boost.",,,,,,ナッツは必要な栄養を補ってくれます。いざという時のために、たくさん持っておきましょう。手のひらいっぱい食べると、パワーアップを得ることができるでしょう
+survivalBerriesRH,items,Food,Berries,,,,,,ベリー
+survivalBerriesRHDesc,items,Food,"Safe to eat and can provide a boost to your energy. Eating a handful may provide an extra boost.",,,,,,安心して食べられ、エネルギーを高めることができます。手のひらいっぱい食べると、パワーアップを得ることができるでしょう
+handfulOfNutsRH,items,Food,Handful of Nuts,,,,,,手のひらいっぱいのナッツ
+handfulOfNutsRHDesc,items,Food,"This handful of nuts will provide the boost you are looking for out there.",,,,,,手のひらいっぱいのナッツは、あなたが求めているパワーアップをもたらします。
+handfulOfBerriesRH,items,Food,Handful of Berries,,,,,,手のひらいっぱいのベリー
+handfulOfBerriesRHDesc,items,Food,"This handful of berries will provide the boost you are looking for out there.",,,,,,手のひらいっぱいのベリーは、あなたが求めているパワーアップをもたらします。
+plantedNuts1RH,blocks,Farming,Nuts Tree (Seed),,,,,,ナッツの木（種）
+plantedNuts1RHDesc,blocks,Farming,Plant yucca seeds in fertile dirt to grow yucca plants.,,,,,,ナッツの木を育てるために、ナッツの種を肥沃な土に植えましょう
+plantedNuts2RH,blocks,Farming,Nuts Tree (Growing),,,,,,ナッツの木（成長中）
+plantedNuts2RHDesc,blocks,Farming,Nuts Tree (Growing),,,,,,ナッツの木（成長中）
+plantedNuts3HarvestRH,blocks,Farming,Nuts Tree 3 (POI),,,,,,ナッツの木3(POI)
+plantedNuts3HarvestRHDesc,blocks,Farming,Nuts Tree,,,,,,ナッツの木
+plantedNuts3HarvestPlayerRHDesc,blocks,Farming,Nuts Tree,,,,,,ナッツの木
+plantedNuts3HarvestPlayerRH,blocks,Farming,Nuts Tree,,,,,,ナッツの木

@@ -1,2 +1,2 @@
-﻿Key,Source,Context,English
-birdsNestEmptyRH,blocks,Container,Birdnest,,,,,
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+birdsNestEmptyRH,blocks,Container,Birdnest,,,,,,鳥の巣

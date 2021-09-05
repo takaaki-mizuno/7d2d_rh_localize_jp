@@ -1,7 +1,7 @@
-﻿Key,Source,Context,English
-meleeToolPickT0StonePickaxeRH,items,Tool,Stone Pickaxe,,,,,
-meleeToolPickT0StonePickaxeRHDesc,items,Tool,"A primitive tool useful for mining stone. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,
-meleeToolRepairT0StoneAxeRHDesc,items,Tool,"A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,
-meleeToolPickT0TazasStonePickaxeRH,items,Tool,Taza's Stone Pickaxe,,,,,
-meleeToolPickT0TazasStonePickaxeRHDesc,items,Tool,"Taza's stone pick axe is a rare, powerful, ancient Indian artifact. The Apache believed those who wielded it could tear through stone.\nRepair with Small Stone.",,,,,
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+meleeToolPickT0StonePickaxeRH,items,Tool,Stone Pickaxe,,,,,,石のつるはし
+meleeToolPickT0StonePickaxeRHDesc,items,Tool,"A primitive tool useful for mining stone. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,,"石の採掘に便利な原始的な道具。最良の武器ではありません。\n基本修理キットで修理可能"
+meleeToolRepairT0StoneAxeRHDesc,items,Tool,"A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\nRepair with Primitive Repair Kit.",,,,,,"木を切ったり、壁やドア、窓を修理したりするのに便利な原始的な道具。\n基本修理キットで修理可能"
+meleeToolPickT0TazasStonePickaxeRH,items,Tool,Taza's Stone Pickaxe,,,,,,"Tazaの石のつるはし"
+meleeToolPickT0TazasStonePickaxeRHDesc,items,Tool,"Taza's stone pick axe is a rare, powerful, ancient Indian artifact. The Apache believed those who wielded it could tear through stone.\nRepair with Small Stone.",,,,,,"Tazaの石のつるはしは、古代インディアンの貴重で強力な工芸品である。アパッチ族は、これを使う者は石を切り裂くことができると信じていた。"
 

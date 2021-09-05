@@ -1,5 +1,5 @@
-Key,Source,Context,English
-resourceBoxNailsRH,items,Item,Box of Nails,,,,,
-resourceBoxNailsRHDesc,items,Item,"A regular box nails. Open it up (with recipe) to get some nails.",,,,,
-resourceNailBentRH,items,Item,Bent Nails,,,,,
-resourceNailBentRHDesc,items,Item,"You have some bent nails, you can probably straighten them out.",,,,,
+Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+resourceBoxNailsRH,items,Item,Box of Nails,,,,,,箱詰めの釘
+resourceBoxNailsRHDesc,items,Item,"A regular box nails. Open it up (with recipe) to get some nails.",,,,,,普通の箱に入った釘。開けてみると（レシピ付きの）釘が出てきます。
+resourceNailBentRH,items,Item,Bent Nails,,,,,,曲がった釘
+resourceNailBentRHDesc,items,Item,"You have some bent nails, you can probably straighten them out.",,,,,,この釘は曲がってしまっていますが、まっすぐにすることができるでしょう。
