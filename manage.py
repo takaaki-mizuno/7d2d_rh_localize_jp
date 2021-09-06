@@ -1,6 +1,6 @@
 import sys
 
-from commands import Apply, Generate
+from sdtd_mod_localizer.commands import Apply, Generate
 
 
 def manage():

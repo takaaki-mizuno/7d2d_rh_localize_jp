@@ -1,27 +1,27 @@
-﻿Key,Source,Context,English
-resourceFlagPoleRH,items,Item,Flag Pole,,,,,
-resourceFlagPoleRHDesc,items,Item,This pole is used to create a flag.,,,,,
-resourceFlagCanvasRH,items,Item,Flag Canvas,,,,,
-resourceFlagCanvasRHDesc,items,Item,This canvas can be used to design a logo for a flag.,,,,,
-flagSOARH,blocks,Block,Flag SOA,,,,,
-flagMayansRH,blocks,Block,Flag Mayans,,,,,
-flagHelloKittyRH,blocks,Block,Flag Hello Kitty,,,,,
-flagGroupDesc,blocks,Block,A flag that can be planted in the ground,,,,,
-flagGrumbulRH,blocks,Block,Flag Grumbul,,,,,
-flagMSGTRH,blocks,Block,Flag MSgt Porkins,,,,,
-flagJaxRH,blocks,Block,Flag Jax,,,,,
-flagIR8RH,blocks,Block,Flag IR8 Gang,,,,,
-flagOverlordRH,blocks,Block,Flag Overlord,,,,,
-flagRavenRH,blocks,Block,Flag Ravenhearst,,,,,
-flagPirate1RH,blocks,Block,Flag Pirate Warning,,,,,
-flagPirate2RH,blocks,Block,Flag Pirate Bounty,,,,,
-flagKnight1RH,blocks,Block,Flag Knight Rath 1,,,,,
-flagKnight2RH,blocks,Block,Flag Knight Rath 2,,,,,
-flagAOS1RH,blocks,Block,Flag Acolytes of Sin 1,,,,,
-flagAOS2RH,blocks,Block,Flag Acolytes of Sin 2,,,,,
-flagDotarFifeRH,blocks,Block,Flag Dotar Fife,,,,,
-flagGuardian1RH,blocks,Block,Flag Guardian Angelz 1,,,,,
-flagGuardian2RH,blocks,Block,Flag Guardian Angelz 2,,,,,
-flagMakasinRH,blocks,Block,Flag Makasin,,,,,
-flagDawnofDayRH,blocks,Block,Flag Dawn of Day,,,,,
-flagLootedRH,blocks,Block,Flag Looted,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+resourceFlagPoleRH,items,Item,Flag Pole,,,,,,"旗竿"
+resourceFlagPoleRHDesc,items,Item,This pole is used to create a flag.,,,,,,"旗を作るために利用します。"
+resourceFlagCanvasRH,items,Item,Flag Canvas,,,,,,"旗の布地"
+resourceFlagCanvasRHDesc,items,Item,This canvas can be used to design a logo for a flag.,,,,,,"この布地を使って、旗に表示するロゴをデザインすることができます。"
+flagSOARH,blocks,Block,Flag SOA,,,,,,"SOAの旗"
+flagMayansRH,blocks,Block,Flag Mayans,,,,,,"マヤの旗"
+flagHelloKittyRH,blocks,Block,Flag Hello Kitty,,,,,,"ハローキティの旗"
+flagGroupDesc,blocks,Block,A flag that can be planted in the ground,,,,,,"地面にたてることができる旗です"
+flagGrumbulRH,blocks,Block,Flag Grumbul,,,,,,"Grumbulの旗"
+flagMSGTRH,blocks,Block,Flag MSgt Porkins,,,,,,"MSgt Porkinsの旗"
+flagJaxRH,blocks,Block,Flag Jax,,,,,,"Jaxの旗"
+flagIR8RH,blocks,Block,Flag IR8 Gang,,,,,,"IR8 Gangの旗"
+flagOverlordRH,blocks,Block,Flag Overlord,,,,,,"Overlordの旗"
+flagRavenRH,blocks,Block,Flag Ravenhearst,,,,,,"Ravenhearstの旗"
+flagPirate1RH,blocks,Block,Flag Pirate Warning,,,,,,"Pirate Warningの旗"
+flagPirate2RH,blocks,Block,Flag Pirate Bounty,,,,,,"Pirate Bountyの旗"
+flagKnight1RH,blocks,Block,Flag Knight Rath 1,,,,,,"Knight Rath 1の旗"
+flagKnight2RH,blocks,Block,Flag Knight Rath 2,,,,,,"Knight Rath 2の旗"
+flagAOS1RH,blocks,Block,Flag Acolytes of Sin 1,,,,,,"Acolytes of Sin 1の旗"
+flagAOS2RH,blocks,Block,Flag Acolytes of Sin 2,,,,,,"Acolytes of Sin 2の旗"
+flagDotarFifeRH,blocks,Block,Flag Dotar Fife,,,,,,"Dotar Fifeの旗"
+flagGuardian1RH,blocks,Block,Flag Guardian Angelz 1,,,,,,"Guardian Angelz 1の旗"
+flagGuardian2RH,blocks,Block,Flag Guardian Angelz 2,,,,,,"Guardian Angelz 2の旗"
+flagMakasinRH,blocks,Block,Flag Makasin,,,,,,"Makasinの旗"
+flagDawnofDayRH,blocks,Block,Flag Dawn of Day,,,,,,"Dawn of Dayの旗"
+flagLootedRH,blocks,Block,Flag Looted,,,,,,"Lootedの旗"

@@ -1,10 +1,10 @@
-﻿Key,Source,Context,English
-cntCoolerClosedRH,blocks,Container,Cooler (Storage)
-cntRetroFridgeVer1ClosedRH,blocks,Container,Retro Refrigerator (Storage)
-cntFridgeStainlessSteelRH,blocks,Container,Steel Refrigerator (Storage)
-cntIceMachineRH,blocks,Container,Rotting Ice Machine (Storage)
-cntCoolerClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Very basic at slowing spoilage and not much room but it will do for now.[ccba8b](Preserve Bonus 1.00)[-]"
-cntRetroFridgeVer1ClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food longer but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 1.75)[-]"
-cntIceMachineRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered ice machine will help preserve your food the best but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 2.25)[-]"
-cntFridgesSchematic,items,Item,Refrigerator Schematic
-cntFridgeStainlessSteelRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food better than a normal fridge but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 3.25)[-]"
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+cntCoolerClosedRH,blocks,Container,Cooler (Storage),,,,,,"クーラーボックス（ストレージ）"
+cntRetroFridgeVer1ClosedRH,blocks,Container,Retro Refrigerator (Storage),,,,,,"旧型冷蔵庫（ストレージ）"
+cntFridgeStainlessSteelRH,blocks,Container,Steel Refrigerator (Storage),,,,,,"鉄製冷蔵庫（ストレージ）"
+cntIceMachineRH,blocks,Container,Rotting Ice Machine (Storage),,,,,,"製氷機（ストレージ）"
+cntCoolerClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Very basic at slowing spoilage and not much room but it will do for now.[ccba8b](Preserve Bonus 1.00)[-]",,,,,,"食べ物や作物を保存するために便利です。非常に基本的なことですが、腐敗を遅らせる効果があります。収納数は少ないですが、今のところは大丈夫です。[ccba8b](保存ボーナス 1.00)[-]"
+cntRetroFridgeVer1ClosedRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food longer but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 1.75)[-]",,,,,,"食べ物や作物を保存するために便利です。電源をつけると、食品をさらに長く保存することができ、腐敗を少し遅らせることもできます。[ccba8b](保存ボーナス 1.75)[-]."
+cntIceMachineRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered ice machine will help preserve your food the best but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 2.25)[-]",,,,,,"食べ物や作物を保存するために便利です。電源をつけると、食品をさらに長く保存することができ、腐敗を少し遅らせることもできます。[ccba8b](保存ボーナス 2.25)[-]"
+cntFridgesSchematic,items,Item,Refrigerator Schematic,,,,,,"冷蔵庫の設計図"
+cntFridgeStainlessSteelRHDesc,blocks,Container,"A nice way of storing your food and crops. Turning this into a powered fridge will help preserve your food better than a normal fridge but this can also slow down spoilage a bit.[ccba8b](Preserve Bonus 3.25)[-]",,,,,,"食べ物や作物を保存するために便利です。電源をつけると、食品をさらに長く保存することができ、腐敗を少し遅らせることもできます。[ccba8b](保存ボーナス 3.25)[-]"

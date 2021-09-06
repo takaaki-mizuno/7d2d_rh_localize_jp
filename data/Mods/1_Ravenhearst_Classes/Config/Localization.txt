@@ -1,8 +1,8 @@
-﻿Key,Source,Context,English
-qStarterItems,items,Quest - Note,Starter Kit,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+qStarterItems,items,Quest - Note,Starter Kit,,,,,,"スターターキット"
 qStarterItemsDesc,items,Quest - Note,Note from Jax\n\nThe rest of the club is either scattered or dead. You and I are all that is left. I had to head north. I have left you some stuff to help you get to us. Use your special skill wisely because it is all you have in this fucked up world.,,,,,
 
-noteStarterClassSelection,items,Quest - Note,Class Selection,,,,,
+noteStarterClassSelection,items,Quest - Note,Class Selection,,,,,,"クラス選択"
 noteStarterClassSelectionDesc,items,Quest - Note,Use this paper to select your weapons class. Classes do not lock you out of progressing but they do offer unique recipes for weapons you can craft in each category when you complete the line.,,,,,
 
 noteSecondaryClassSelection,items,Quest - Note,Support Class Selection,,,,,
@@ -39,92 +39,92 @@ magazineClassBladedDesc,items,Book,Grants you 15 levels of the Action Skill Blad
 magazineClassSledgehammerDesc,items,Book,Grants you 15 levels of the Action Skill Sledgehammer Weapons.,,,,,
 
 
-qPistolClass,items,Quest - Note,Pistol Class,,,,,
+qPistolClass,items,Quest - Note,Pistol Class,,,,,,"ピストルクラス"
 qPistolClassDesc,items,Quest - Note,Read this book to begin your training in pistols. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qShotgunClass,items,Quest - Note,Shotgun Class,,,,,
+qShotgunClass,items,Quest - Note,Shotgun Class,,,,,,"ショットガンクラス"
 qShotgunClassDesc,items,Quest - Note,Read this book to begin your training in shotguns. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qRifleClass,items,Quest - Note,Rifle Class,,,,,
-qRifleClassDesc,items,Quest - Note,Read this book to begin your training in rifles. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
+qRifleClass,items,Quest - Note,Rifle Class,,,,,,"ライフルクラス"
+qRifleClassDesc,items,Quest - Note,Read this book to begin your training in rifles. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,,"この紙を使って、武器のクラスを選択します。クラスは進行を妨げるものではなく、クエストを完了すると各カテゴリ固有でクラフトできる武器のレシピが提供されます。"
 
-qAutomaticsClass,items,Quest - Note,Automatics Class,,,,,
-qAutomaticsClassDesc,items,Quest - Note,Read this book to begin your training in automatic weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
+qAutomaticsClass,items,Quest - Note,Automatics Class,,,,,,"自動小銃クラス"
+qAutomaticsClassDesc,items,Quest - Note,Read this book to begin your training in automatic weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,,"この本を読んで、自動小銃のトレーニングを始めましょう。トレーニングが完了すると、このクラスの新しい武器をクラフト可能にする回路図を受け取ることができます。"
 
-qArcheryClass,items,Quest - Note,Archer Class,,,,,
+qArcheryClass,items,Quest - Note,Archer Class,,,,,,"弓クラス"
 qArcheryClassDesc,items,Quest - Note,Read this book to begin your training in bows and crossbows. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qBluntClass,items,Quest - Note,Blunt Class,,,,,
+qBluntClass,items,Quest - Note,Blunt Class,,,,,,"鈍器クラス"
 qBluntClassDesc,items,Quest - Note,Read this book to begin your training in blunt weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qBladeClass,items,Quest - Note,Blade Class,,,,,
+qBladeClass,items,Quest - Note,Blade Class,,,,,,"刃物クラス"
 qBladeClassDesc,items,Quest - Note,Read this book to begin your training in bladed weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qBrawlerClass,items,Quest - Note,Brawler Class,,,,,
+qBrawlerClass,items,Quest - Note,Brawler Class,,,,,,"格闘クラス"
 qBrawlerClassDesc,items,Quest - Note,Read this book to begin your training in fist weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qSledgehammerClass,items,Quest - Note,Sledgehammer Class,,,,,
+qSledgehammerClass,items,Quest - Note,Sledgehammer Class,,,,,,"スレッジハンマークラス"
 qSledgehammerClassDesc,items,Quest - Note,Read this book to begin your training in fist weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qJavelinClass,items,Quest - Note,Javelin Class,,,,,
+qJavelinClass,items,Quest - Note,Javelin Class,,,,,,"槍クラス"
 qJavelinClassDesc,items,Quest - Note,Read this book to begin your training in javelin weapons. When you have completed training you will receive a schematic that will teach you new craftable weapons for this class that will be exclusive to you.,,,,,
 
-qHardcoreClass,items,Quest - Note,Hardcore Class,,,,,
-qHardcoreClassDesc,items,Quest - Note,Read this book to begin with nothing. Surviving is your proving grounds.,,,,,
+qHardcoreClass,items,Quest - Note,Hardcore Class,,,,,,"ハードコアクラス"
+qHardcoreClassDesc,items,Quest - Note,Read this book to begin with nothing. Surviving is your proving grounds.,,,,,,"何もないところから始めるために、この本を読みましょう。生き残ることがあなたの証明になるでしょう。"
 
 
-q_PistolClass0a,Quest,Quest Info,Pistol Training,,,,,
+q_PistolClass0a,Quest,Quest Info,Pistol Training,,,,,,"ピストルトレーニング"
 
-q_PistolClass,Quest,Quest Info,Pistol Training,,,,,
+q_PistolClass,Quest,Quest Info,Pistol Training,,,,,,"ピストルトレーニング"
 
-q_Class0a,Quest,Quest Info,"Beginning Your Training",,,,,
-q_Class0a_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. You were good with this weapon before but you will need to be even better now. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
-q_Class0a_description,Quest,Quest Info,"You have been given 15 levels of your specialized skill.",,,,,
-q_Class0a_subtitle,Quest,Quest Info,"Training",,,,,
+q_Class0a,Quest,Quest Info,"Beginning Your Training",,,,,,"トレーニングを開始しよう"
+q_Class0a_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. You were good with this weapon before but you will need to be even better now. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,,"アポカリプスを生き抜くためには、自分が選んだ武器を使いこなす必要があります。あなたは以前からこの武器の扱いに長けていましたが、これからはもっと上手にならなければなりません。トレーニングが完了したら、生き延びるための特別な武器を教えてくれる本が与えられます。"
+q_Class0a_description,Quest,Quest Info,"You have been given 15 levels of your specialized skill.",,,,,"あなたは特別スキルを15レベル与えられています。"
+q_Class0a_subtitle,Quest,Quest Info,"Training",,,,,,"トレーニング"
 
 
-q_PistolClass0,Quest,Quest Info,"Using Your Pistol",,,,,
+q_PistolClass0,Quest,Quest Info,"Using Your Pistol",,,,,,"ピストルを使ってみよう"
 q_PistolClass0_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_PistolClass0_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
-q_PistolClass0_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
+q_PistolClass0_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_PistolClass1,Quest,Quest Info,"Using Your Pistol",,,,,
+q_PistolClass1,Quest,Quest Info,"Using Your Pistol",,,,,,"ピストルを使ってみよう"
 q_PistolClass1_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_PistolClass1_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
-q_PistolClass1_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
+q_PistolClass1_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_PistolClass2,Quest,Quest Info,"Using Your Pistol",,,,,
+q_PistolClass2,Quest,Quest Info,"Using Your Pistol",,,,,,"ピストルを使ってみよう"
 q_PistolClass2_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_PistolClass2_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_PistolClass2_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
 
 
-q_ShotgunClass0a,Quest,Quest Info,Shotgun Training,,,,,
+q_ShotgunClass0a,Quest,Quest Info,Shotgun Training,,,,,,"ショットガントレーニング"
 
-q_ShotgunClass,Quest,Quest Info,Shotgun Training,,,,,
+q_ShotgunClass,Quest,Quest Info,Shotgun Training,,,,,,"ショットガントレーニング"
 
-q_ShotgunClass0,Quest,Quest Info,"Using Your Shotgun",,,,,
+q_ShotgunClass0,Quest,Quest Info,"Using Your Shotgun",,,,,,"ショットガンを使ってみよう"
 q_ShotgunClass0_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ShotgunClass0_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
-q_ShotgunClass0_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
+q_ShotgunClass0_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ShotgunClass1,Quest,Quest Info,"Using Your Shotgun",,,,,
+q_ShotgunClass1,Quest,Quest Info,"Using Your Shotgun",,,,,,"ショットガンを使ってみよう"
 q_ShotgunClass1_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ShotgunClass1_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
-q_ShotgunClass1_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
+q_ShotgunClass1_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ShotgunClass2,Quest,Quest Info,"Using Your Shotgun",,,,,
+q_ShotgunClass2,Quest,Quest Info,"Using Your Shotgun",,,,,,"ショットガンを使ってみよう"
 q_ShotgunClass2_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ShotgunClass2_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
-q_ShotgunClass2_subtitle,Quest,Quest Info,"Kill Zombies",,,,,
+q_ShotgunClass2_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
-q_RifleClass0a,Quest,Quest Info,Rifle Training,,,,,
+q_RifleClass0a,Quest,Quest Info,Rifle Training,,,,,,"ライフルトレーニング"
 
-q_RifleClass,Quest,Quest Info,Rifle Training,,,,,
+q_RifleClass,Quest,Quest Info,Rifle Training,,,,,,"ライフルトレーニング"
 
 q_RifleClass0,Quest,Quest Info,"Using Your Rifle",,,,,
 q_RifleClass0_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,

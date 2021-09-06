@@ -1,4 +1,4 @@
-﻿Key,Source,Context,English,English,Context / Alternate Text,german,latam,french,italian,japanese
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
 cntBackpack01RH,blocks,Container,Weathered Backpack (Storage),,,,,,"風雨にさらされたバックパック（ストレージ）"
 cntBackpack03RH,blocks,Container,Moldy Backpack (Storage),,,,,,"カビの生えたバックパック（ストレージ）"
 cntDuffle01RH,blocks,Container,Duffle Bag (Storage),,,,,,"ダッフルパック（ストレージ）"

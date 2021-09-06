@@ -1,4 +1,4 @@
-﻿Key,Source,Context,English
-cntCashRegister01,blocks,Block,Retro Cash Register,,,,,
-cntCashRegister02,blocks,Block,Retro Cash Register,,,,,
-cntCashRegister03,blocks,Block,Retro Cash Register,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+cntCashRegister01,blocks,Block,Retro Cash Register,,,,,,"旧式のキャッシュレジスター"
+cntCashRegister02,blocks,Block,Retro Cash Register,,,,,,"旧式のキャッシュレジスター"
+cntCashRegister03,blocks,Block,Retro Cash Register,,,,,,"旧式のキャッシュレジスター"

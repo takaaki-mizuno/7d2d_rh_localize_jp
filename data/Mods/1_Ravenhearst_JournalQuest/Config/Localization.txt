@@ -1,33 +1,33 @@
-﻿Key,Source,Context,English
-q_SurvivalJournalRH,Quest,Quest Info,Survival Journal,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+q_SurvivalJournalRH,Quest,Quest Info,Survival Journal,,,,,,"生存日誌"
 
-q_SurvivalJournal1RH,Quest,Quest Info,Creating a Journal,,,,,
-q_SurvivalJournal1RH_subtitle,Quest,Quest Info,Creating a Journal,,,,,
-q_SurvivalJournal1RH_description,Quest,Quest Info,"I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.\n\n[eaa1a1]Note: After completing making the journal go into your bag and read it to continue this questline.",,,,,
-q_SurvivalJournal1RH_offer,Quest,Quest Info,"I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.",,,,,
+q_SurvivalJournal1RH,Quest,Quest Info,Creating a Journal,,,,,,"日誌を作成"
+q_SurvivalJournal1RH_subtitle,Quest,Quest Info,Creating a Journal,,,,,,"日誌を作成"
+q_SurvivalJournal1RH_description,Quest,Quest Info,"I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.\n\n[eaa1a1]Note: After completing making the journal go into your bag and read it to continue this questline.",,,,,,"ゼロからのスタートだ。まずは、紙とそれを綴じる方法を探さないといけない。\n\n[eaa1a1]注意：日記を作り終えたら、カバンの中に入れて読むと、このクエストの続きができます。"
+q_SurvivalJournal1RH_offer,Quest,Quest Info,"I guess I'm starting from scratch. First, I'll need to find some paper and a way to bind it.",,,,,,"ゼロからのスタートだ。まずは、紙とそれを綴じる方法を探さないといけない。"
 
-q_SurvivalJournal2RH,Quest,Quest Info,Gathering Information,,,,
+q_SurvivalJournal2RH,Quest,Quest Info,Gathering Information,,,,,,"情報収集"
 
-q_SurvivalJournal2RH_subtitle,Quest,Quest Info,Gathering Information,,,,
-q_SurvivalJournal2RH_description,Quest,Quest Info,"I remember Old Navezgane. Before the Mists War started. Its a shell of its former self now but I should make a drawing to remember, just in case I need to go there again. After I am done I should collect the rest of the things I will need to get started on my journey. This dye I have been give can scrap to paint.",,,,
-q_SurvivalJournal2RH_offer,Quest,Quest Info,"This is a good time to start taking notes on how to survive. After I make this map I will collect the things I need to start my journal and survive the rest of today. This dye I have been give can scrap to paint.",,,,
+q_SurvivalJournal2RH_subtitle,Quest,Quest Info,Gathering Information,,,,,,"情報収集"
+q_SurvivalJournal2RH_description,Quest,Quest Info,"I remember Old Navezgane. Before the Mists War started. Its a shell of its former self now but I should make a drawing to remember, just in case I need to go there again. After I am done I should collect the rest of the things I will need to get started on my journey. This dye I have been give can scrap to paint.",,,,,,"かつてのNavezganeを覚えている。戦争が始まる前のことだ。今ではすっかり廃墟と化してしまったが、また行くことがあった時のために、思い出の絵を描いておこう。それが終わったら、旅に出るために必要なものを集めよう。この手に入れた染料で色を塗ろう。"
+q_SurvivalJournal2RH_offer,Quest,Quest Info,"This is a good time to start taking notes on how to survive. After I make this map I will collect the things I need to start my journal and survive the rest of today. This dye I have been give can scrap to paint.",,,,,,"これを機に、生き延びるためのメモを取り始めるのもいいだろう。この地図を作ったら、日記を書き始めるために必要なものを集めて、今日の残りの時間を生き延びようと思う。この手に入れた染料で色を塗ろう。"
 
-q_SurvivalJournal3RH,Quest,Quest Info,Journal Chapter Entries,,,,,
+q_SurvivalJournal3RH,Quest,Quest Info,Journal Chapter Entries,,,,,,"日誌の章ごとの内容"
 
-q_SurvivalJournal3RH_subtitle,Quest,Quest Info,Journal Chapter Entries,,,,,
-q_SurvivalJournal3RH_description,Quest,Quest Info,"Well, I could start with 'Dear diary'.\n\nEach chapter can cover a topic. I just need to find subjects for each chapter. Time to look around for inspiration.",,,,,
-q_SurvivalJournal3RH_offer,Quest,Quest Info,"Well, I could start with 'Dear diary'.\n\nEach chapter can cover a topic. I just need to find subjects for each chapter. Time to look around for inspiration.",,,,,
+q_SurvivalJournal3RH_subtitle,Quest,Quest Info,Journal Chapter Entries,,,,,,"日誌の章ごとの内容"
+q_SurvivalJournal3RH_description,Quest,Quest Info,"Well, I could start with 'Dear diary'.\n\nEach chapter can cover a topic. I just need to find subjects for each chapter. Time to look around for inspiration.",,,,,,"さて、まずは「Dear diary」から始めよう。\n\n各章で一つのトピックを扱おう。あとは、各章の題材を探すだけだ。そのためにあちこち見て回る必要がある。"
+q_SurvivalJournal3RH_offer,Quest,Quest Info,"Well, I could start with 'Dear diary'.\n\nEach chapter can cover a topic. I just need to find subjects for each chapter. Time to look around for inspiration.",,,,,,"さて、まずは「Dear diary」から始めよう。\n\n各章で一つのトピックを扱おう。あとは、各章の題材を探すだけだ。そのためにあちこち見て回る必要がある。"
 
-q_SurvivalJournal4RH,Quest,Quest Info,Completing Your Journal,,,,,
+q_SurvivalJournal4RH,Quest,Quest Info,Completing Your Journal,,,,,,"日誌を完成させる"
 
-q_SurvivalJournal4RH_subtitle,Quest,Quest Info,Completing Your Journal,,,,,
-q_SurvivalJournal4RH_description,Quest,Quest Info,"Now that you have learned the basics of Ravenhearst, it is time to take the knowledge you have learned and complete your journal. When you have acquired all Completed Journal Chapters your training will be complete and you will receive a special gift left in your care by two brothers who devoted their lives to stopping this Apocalypse, but ultimately failed. \n\nThey have entrusted to you. Use it wisely.",,,,,
-q_SurvivalJournal4RH_offer,Quest,Quest Info,"Now that you have learned the basics and some new tricks as well, it is time to complete your journey. When you have acquired all Completed Journal Entries combine them and you will unlock some nice rewards.",,,,,
+q_SurvivalJournal4RH_subtitle,Quest,Quest Info,Completing Your Journal,,,,,,"日誌を完成させる"
+q_SurvivalJournal4RH_description,Quest,Quest Info,"Now that you have learned the basics of Ravenhearst, it is time to take the knowledge you have learned and complete your journal. When you have acquired all Completed Journal Chapters your training will be complete and you will receive a special gift left in your care by two brothers who devoted their lives to stopping this Apocalypse, but ultimately failed. \n\nThey have entrusted to you. Use it wisely.",,,,,,"Ravenhearstの基本を学んだ今、学んだ知識を活かしてジャーナルを完成させる時が来た。完成したジャーナルの章をすべて取得すると、トレーニングが完了し、このアポカリプスを止めるために人生を捧げたが結局失敗した2人の兄弟があなたに託した特別な贈り物を受け取ることになる。\n\n彼らがあなたに託したものを賢く使おう。"
+q_SurvivalJournal4RH_offer,Quest,Quest Info,"Now that you have learned the basics and some new tricks as well, it is time to complete your journey. When you have acquired all Completed Journal Entries combine them and you will unlock some nice rewards.",,,,,,"基本的な知識と新しいテクニックを学んだところで、いよいよこの旅を完成させることにしよう。完成した日誌をすべて集めて組み合わせると、素敵な報酬を得ることができる。"
 
-q_journalAdvancedSurvivalRH,Quest,Quest Info,Advanced Survival Tactics,,,,,
+q_journalAdvancedSurvivalRH,Quest,Quest Info,Advanced Survival Tactics,,,,,,"より高度な生存戦略"
 
 
-q_journalAdvancedSurvival1RH,Quest,Quest Info,Craft a Survival Campfire,,,,,
+q_journalAdvancedSurvival1RH,Quest,Quest Info,Craft a Survival Campfire,,,,,,"サバイバルキャンプファイアのクラフト"
 q_journalAdvancedSurvival1RH_offer,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,
 q_journalAdvancedSurvival1RH_subtitle,Quest,Quest Info,Craft a Survival Campfire,,,,,
 q_journalAdvancedSurvival1RH_description,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,
@@ -37,7 +37,7 @@ q_journalAdvancedSurvival3RH_subtitle,Quest,Quest Info,Scrap A Schematic and Col
 q_journalAdvancedSurvival3RH_description,Quest,Quest Info,"Scrapping Schematics can give you Knowledge Points that you use to craft quests and schematic volumes at a research desk.",,,,,
 q_journalAdvancedSurvival3RH_offer,Quest,Quest Info,"Absorbing the knowledge through scrapping books is a great way to gain knowledge. The more knowledge you gain the easier it will be to learn exclusive recipes and more. Take an unneeded schematic and scrap it to gain Knowledge Points that can be used in the Research Desk.",,,,,
 
-q_journalAdvancedSurvival4RH,Quest,Quest Info,"Filtering The Water",,,,,
+q_journalAdvancedSurvival4RH,Quest,Quest Info,"Filtering The Water",,,,,,"水の濾過"
 q_journalAdvancedSurvival4RH_offer,Quest,Quest Info,"Ever since the outbreak began reports were that the infection initially spread through the waters around Ravenhearst. Makasin Pharmaceuticals were seen dumping chemicals into the rivers. In order to ensure your safety you will need to initiate a process to filter the outbreak from the waters in the town.\n\nConstructing a special Water Filtration Unit should be good enough to rid the water of the infection but it won't be enough to make it safe. The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\n\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",,,,,
 q_journalAdvancedSurvival4RH_description,Quest,Quest Info,"Craft A Water Filtration Unit.",,,,,
 q_journalAdvancedSurvival4RH_subtitle,Quest,Quest Info,Infected Waters,,,,,
