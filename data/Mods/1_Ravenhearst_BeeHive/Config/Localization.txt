@@ -1,21 +1,21 @@
-﻿Key,Source,Context,English
-trapsEmptyBeeHiveRH,blocks,Block,Beehive (Empty),,,,,
-trapsEmptyBeeHiveRHDesc,blocks,Block,Requires 8 Bees,,,,,
-trapsBeeHiveFillingRH,blocks,Block,Beehive (Colonizing),,,,,
-trapsBeeHiveFillingRHDesc,blocks,Block,The Bees Are Working,,,,,
-trapsBeeHiveFullRH,blocks,Block,Beehive (Ready),,,,,
-trapsBeeHiveFullRHDesc,blocks,Block,Honeycombs Are Ready,,,,,
-trapsEmptyBeeHiveRHSchematic,blocks,Workstation,Beehive Schematic,,,,,
-foodHoneycombRH,Items,Item,Honeycomb,,,,,
-foodHoneycombRHDesc,Items,Item,"Honeycombs can be used as an ingredient to make jars of honey.",,,,,
-resourceBeesRH,Items,Item,Bee,,,,,
-resourceBeesRHDesc,Items,Item,Bees gathered from trees are used in a Bee Hive and will produce honey combs over time.,,,,,
-resourceTarpRH,items,Item,Tarp,,,,,
-resourceTarpRHDesc,items,Item,Tarps are used in the creation of composters and beehives as well as used to refresh rain collectors.,,,,,
-trapsRainCollectorFillingRH,blocks,Block,Rain Catcher (Collecting),,,,,
-trapsRainCollectorFillingRHDesc,blocks,Block,Catching Water,,,,,
-trapsEmptyRainCollectorRH,blocks,Block,Rain Catcher,,,,,
-trapsEmptyRainCollectorRHDesc,blocks,Block,Requires 1 Tarp to Upgrade,,,,,
-trapsRainCollectorFullRH,blocks,Block,Rain Catcher (Full),,,,,
-trapsRainCollectorFullRHDesc,blocks,Block,Ready to Collect,,,,,
-trapsEmptyRainCollectorRHSchematic,blocks,Workstation,Rain Catcher Schematic,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+trapsEmptyBeeHiveRH,blocks,Block,Beehive (Empty),,,,,,"蜂の巣箱（空）"
+trapsEmptyBeeHiveRHDesc,blocks,Block,Requires 8 Bees,,,,,,"蜂が8匹必要です"
+trapsBeeHiveFillingRH,blocks,Block,Beehive (Colonizing),,,,,,"蜂の巣箱（巣作り中）"
+trapsBeeHiveFillingRHDesc,blocks,Block,The Bees Are Working,,,,,,"蜂が準備をしています"
+trapsBeeHiveFullRH,blocks,Block,Beehive (Ready),,,,,,"蜂の巣箱（準備完了）"
+trapsBeeHiveFullRHDesc,blocks,Block,Honeycombs Are Ready,,,,,,"蜂蜜が溜まっています"
+trapsEmptyBeeHiveRHSchematic,blocks,Workstation,Beehive Schematic,,,,,,"蜂の巣の設計図"
+foodHoneycombRH,Items,Item,Honeycomb,,,,,,"蜂蜜の塊"
+foodHoneycombRHDesc,Items,Item,"Honeycombs can be used as an ingredient to make jars of honey.",,,,,,"蜂蜜の塊からは瓶入りの蜂蜜を作ることができます。"
+resourceBeesRH,Items,Item,Bee,,,,,,"蜜蜂"
+resourceBeesRHDesc,Items,Item,Bees gathered from trees are used in a Bee Hive and will produce honey combs over time.,,,,,,"蜜蜂は樹木から集めることができ、蜂の巣箱を作ると、時間が経つと蜂蜜の塊を作ってくれます。"
+resourceTarpRH,items,Item,Tarp,,,,,,"タープ"
+resourceTarpRHDesc,items,Item,Tarps are used in the creation of composters and beehives as well as used to refresh rain collectors.,,,,,,"タープは、コンポスターや蜂の巣箱の作成に利用できるほか、雨水集水器の再生にも使うことができます。"
+trapsRainCollectorFillingRH,blocks,Block,Rain Catcher (Collecting),,,,,,"雨水集水器（集水中）"
+trapsRainCollectorFillingRHDesc,blocks,Block,Catching Water,,,,,,"水を集めています"
+trapsEmptyRainCollectorRH,blocks,Block,Rain Catcher,,,,,,"雨水集水器"
+trapsEmptyRainCollectorRHDesc,blocks,Block,Requires 1 Tarp to Upgrade,,,,,,"アップグレードにはタープが1枚必要です"
+trapsRainCollectorFullRH,blocks,Block,Rain Catcher (Full),,,,,,"雨水集水器（満水）"
+trapsRainCollectorFullRHDesc,blocks,Block,Ready to Collect,,,,,,"水を取り出すことができます"
+trapsEmptyRainCollectorRHSchematic,blocks,Workstation,Rain Catcher Schematic,,,,,,"雨水集水器の設計図"

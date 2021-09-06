@@ -1,30 +1,30 @@
-﻿Key,Source,Context,English
-toolheadStoneAxeRH,items,Item,Toolhead: Stone Axe,,,,,
-toolheadDesc,items,Item,"Use this toolhead and attach it to a handle to create a tool or weapon.",,,,,
-toolheadStonePickaxeRH,items,Item,Toolhead: Stone Pickaxe,,,,,
-toolheadStoneShovelRH,items,Item,Toolhead: Stone Shovel,,,,,
-toolheadStoneSledgehammerRH,items,Item,Toolhead: Stone Sledgehammer,,,,,
-handlePrimitiveRH,items,Item,Primitive Handle,,,,,
-handlePrimitiveRHDesc,items,Item,A flimsy handle designed to get the job done. Attach a toolhead to it with cordage for a perfectly fine primitive tool.,,,,,
-toolheadIronAxeRH,items,Item,Toolhead: Iron Axe,,,,,
-toolheadIronPickaxeRH,items,Item,Toolhead: Iron Pickaxe,,,,,
-toolheadIronShovelRH,items,Item,Toolhead: Iron Shovel,,,,,
-toolheadIronSledgehammerRH,items,Item,Toolhead: Iron Sledgehammer,,,,,
-handleSturdyRH,items,Item,Sturdy Handle,,,,,
-toolheadSteelAxeRH,items,Item,Toolhead: Steel Axe,,,,,
-toolheadSteelPickaxeRH,items,Item,Toolhead: Steel Pickaxe,,,,,
-toolheadSteelShovelRH,items,Item,Toolhead: Steel Shovel,,,,,
-toolheadSteelSledgehammerRH,items,Item,Toolhead: Steel Sledgehammer,,,,,
-toolheadSteelMacheteRH,items,Item,Toolhead: Steel Machete,,,,,
-toolheadChromeAxeRH,items,Item,Toolhead: Chrome Axe,,,,,
-toolheadChromePickaxeRH,items,Item,Toolhead: Chrome Pickaxe,,,,,
-toolheadAluminumAxeRH,items,Item,Toolhead: Aluminum Axe,,,,,
-toolheadAluminumPickaxeRH,items,Item,Toolhead: Aluminum Pickaxe,,,,,
-toolheadTungstenAxeRH,items,Item,Toolhead: Tungsten Axe,,,,,
-toolheadTungstenPickaxeRH,items,Item,Toolhead: Tungsten Pickaxe,,,,,
-toolheadChromeMacheteRH,items,Item,Toolhead: Chrome Machete,,,,,
-toolheadTungstenMacheteRH,items,Item,Toolhead: Tungsten Machete,,,,,
-ammoCrossbowBoltChromeAP,items,Ammo,Chrome Crossbow Bolt (Ammo)
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+toolheadStoneAxeRH,items,Item,Toolhead: Stone Axe,,,,,,"ツールヘッド: 石斧"
+toolheadDesc,items,Item,"Use this toolhead and attach it to a handle to create a tool or weapon.",,,,,,"このツールヘッドと持ち手を組み合わせれば、道具や武器を作ることができます。"
+toolheadStonePickaxeRH,items,Item,Toolhead: Stone Pickaxe,,,,,,"ツールヘッド: 石製つるはし"
+toolheadStoneShovelRH,items,Item,Toolhead: Stone Shovel,,,,,,"ツールヘッド: 石製シャベル"
+toolheadStoneSledgehammerRH,items,Item,Toolhead: Stone Sledgehammer,,,,,,"ツールヘッド: 石製スレッジハンマー"
+handlePrimitiveRH,items,Item,Primitive Handle,,,,,,"素朴な持ち手"
+handlePrimitiveRHDesc,items,Item,A flimsy handle designed to get the job done. Attach a toolhead to it with cordage for a perfectly fine primitive tool.,,,,,,"その場しのぎのありあわせの持ち手。ツールヘッドを紐を使って取り付ければ、完璧なありあわせの道具の完成です。"
+toolheadIronAxeRH,items,Item,Toolhead: Iron Axe,,,,,,"ツールヘッド: 鉄製斧"
+toolheadIronPickaxeRH,items,Item,Toolhead: Iron Pickaxe,,,,,,"ツールヘッド: 鉄製つるはし"
+toolheadIronShovelRH,items,Item,Toolhead: Iron Shovel,,,,,,"ツールヘッド: 鉄製シャベル"
+toolheadIronSledgehammerRH,items,Item,Toolhead: Iron Sledgehammer,,,,,,"ツールヘッド: 鉄製スレッジハンマー"
+handleSturdyRH,items,Item,Sturdy Handle,,,,,,"丈夫な持ち手"
+toolheadSteelAxeRH,items,Item,Toolhead: Steel Axe,,,,,,"ツールヘッド: 鋼鉄製斧"
+toolheadSteelPickaxeRH,items,Item,Toolhead: Steel Pickaxe,,,,,,"ツールヘッド: 鋼鉄製つるはし"
+toolheadSteelShovelRH,items,Item,Toolhead: Steel Shovel,,,,,,"ツールヘッド: 鋼鉄製シャベル"
+toolheadSteelSledgehammerRH,items,Item,Toolhead: Steel Sledgehammer,,,,,,"ツールヘッド: 鋼鉄製スレッジハンマー"
+toolheadSteelMacheteRH,items,Item,Toolhead: Steel Machete,,,,,,"ツールヘッド: 鋼鉄製マチェーテ"
+toolheadChromeAxeRH,items,Item,Toolhead: Chrome Axe,,,,,,"ツールヘッド: クロム製斧"
+toolheadChromePickaxeRH,items,Item,Toolhead: Chrome Pickaxe,,,,,,"ツールヘッド: クロム製つるはし"
+toolheadAluminumAxeRH,items,Item,Toolhead: Aluminum Axe,,,,,,"ツールヘッド: アルミ製斧"
+toolheadAluminumPickaxeRH,items,Item,Toolhead: Aluminum Pickaxe,,,,,,"ツールヘッド: アルミ製つるはし"
+toolheadTungstenAxeRH,items,Item,Toolhead: Tungsten Axe,,,,,,"ツールヘッド: タングステン製斧"
+toolheadTungstenPickaxeRH,items,Item,Toolhead: Tungsten Pickaxe,,,,,,"ツールヘッド: タングステン製つるはし"
+toolheadChromeMacheteRH,items,Item,Toolhead: Chrome Machete,,,,,,"ツールヘッド: クロム製マチェーテ"
+toolheadTungstenMacheteRH,items,Item,Toolhead: Tungsten Machete,,,,,,"ツールヘッド: タングステン製マチェーテ"
+ammoCrossbowBoltChromeAP,items,Ammo,Chrome Crossbow Bolt (Ammo),,,,,,"クロム製クロスボウボルト（弾薬）"
 ammoCrossbowBoltChromeAPDesc,items,Ammo,A chrome-tipped bolt for the crossbow. Hold reload to use alternate ammo.,,,,,
 ammoArrowChromeAP,items,Ammo,Chrome Arrow (Ammo),,,,,
 ammoArrowChromeAPDesc,items,Ammo,Chrome-tipped arrows do yet more damage and fly straighter.\nHold reload to use alternate ammo.,,,,,

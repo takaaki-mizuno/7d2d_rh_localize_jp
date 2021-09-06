@@ -1,4 +1,4 @@
-﻿Key,Source,Context,English
-meleeWpnClubT3TelescopicBatonRHSchematic,items,Melee,Telescopic Baton Schematic,,,,,
-meleeWpnClubT3TelescopicBatonRH,items,Melee,Telescopic Baton,,,,,
-meleeWpnClubT3TelescopicBatonRHDesc,items,Melee,Premiere choice for the Ravenhearst Police Department.\n\nRepair with an Advanced Repair Kit.,,,,,
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+meleeWpnClubT3TelescopicBatonRHSchematic,items,Melee,Telescopic Baton Schematic,,,,,,"特殊警棒の設計図"
+meleeWpnClubT3TelescopicBatonRH,items,Melee,Telescopic Baton,,,,,,"特殊警棒"
+meleeWpnClubT3TelescopicBatonRHDesc,items,Melee,Premiere choice for the Ravenhearst Police Department.\n\nRepair with an Advanced Repair Kit.,,,,,,"Ravenhearst警察御用達の伸縮式特殊警棒。修理には上級修理キットが必要"

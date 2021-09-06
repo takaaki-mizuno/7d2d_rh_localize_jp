@@ -1,9 +1,9 @@
-﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
-microwaveTip,Journal,EnChanged,The microwave can be placed and used to heat canned food recipes. Canned food recipes offer slightly more benefits to them than if you eat them in singles so save those cans when you can. \nBowls can be found in loot and are used with the canned foods.,,,,,,""
-microwaveTip_title,Journal,KeyTrunk,Microwave
+﻿Key,Source,Context,English,japanese
+microwaveTip,Journal,EnChanged,The microwave can be placed and used to heat canned food recipes. Canned food recipes offer slightly more benefits to them than if you eat them in singles so save those cans when you can. \nBowls can be found in loot and are used with the canned foods.,"電子レンジを置けば、缶詰のレシピを温めることができます。缶詰を使ったレシピは、1つずつ食べるよりも少しだけ効果があるので、できるだけ保存しておきましょう。\n缶詰と一緒に使うボウルは、戦利品として手に入れることができます。"
+microwaveTip_title,Journal,KeyTrunk,Microwave,"電子レンジ"
 
-dryingRackRHTip,Journal,EnChanged,"The tanning rack is used to convert animal hides you get from animals into leather. It can also be useful in making survival foods such as jerky and trail mix."
-dryingRackRHTip_title,Journal,KeyTrunk,Tanning Rack
+dryingRackRHTip,Journal,EnChanged,"The tanning rack is used to convert animal hides you get from animals into leather. It can also be useful in making survival foods such as jerky and trail mix.","鞣し台は、動物から得た皮を革に変えるためのものです。また、ジャーキーやトレイルミックスなどのサバイバルフードを作る際にも役立ちます。"
+dryingRackRHTip_title,Journal,KeyTrunk,Tanning Rack,"鞣し台"
 
 armorBenchRHTip,Journal,EnChanged,"An armor bench is crucial to welding metallic armor and making clothing."
 armorBenchRHTip_title,Journal,KeyTrunk,Armor Bench
@@ -17,8 +17,8 @@ artisanLabRHTip_title,Journal,KeyTrunk,Dying Clothes
 farmTableRHTip,Journal,EnChanged,"The farming table is crucial to gardening and farm making. In it you can cultivate seeds from crops. You can also make compost using this table."
 farmTableRHTip_title,Journal,KeyTrunk,Farming Table
 
-personalBenchTip,Journal,EnChanged,"The personal craft station is your one stop shop for all your crafting needs. It can easily be picked up by destroying it and is not expensive to craft."
-personalBenchTip_title,Journal,KeyTrunk,Personal Craft Station
+personalBenchTip,Journal,EnChanged,"The personal craft station is your one stop shop for all your crafting needs. It can easily be picked up by destroying it and is not expensive to craft.","個人用作業台は、あなたのクラフトに必要なすべてのものが揃っています。破壊することで簡単に手に入れることができ、クラフトも簡単です。"
+personalBenchTip_title,Journal,KeyTrunk,Personal Craft Station,"個人用作業台"
 
 decorTableRHTip,Journal,EnChanged,"The decorating table is where you can go crazy with inspiration and use RH exclusive blocks to decorate your home."
 decorTableRHTip_title,Journal,KeyTrunk,Decorating Table
@@ -44,8 +44,8 @@ gasRHTip_title,Journal,KeyTrunk,Gas Production
 qualityRHTip,Journal,EnChanged,"You will notice that all items have a durability. This is a numbered range from 1-1000. The higher the durability the longer the item will last and the better the stats will be. You can raise the quality at which you craft these items by using the item and levelling the Action Skill associated with it. \n\nRepairing an item will cost you 100 points in durability unless you use a workbench to combine two items for repair. Doing this will combine both items durability numbers to create a new one. \n\nYou can lessen the point hit on Quality by raising your respective Action Skill. For every 20 levels of that skill you gain you minimize the point reduction on Quality by 10 points. \n\nAction Skills 19 and below = 100 point loss \nAction Skills 20 = 90 point loss \nAction Skills 30 = 80 point loss\nAction Skills 40 = 70 point loss \nAction Skills 50 = 60 point loss \nAnd so on until you hit 100 for a 10 point loss \n\nPlease note that items that are under 11 Quality will break when you try to repair them and you must make another one."
 qualityRHTip_title,Journal,KeyTrunk,Item Quality and Durability
 
-researchDeskRHTip,Journal,EnChanged,"With a research desk you can use the ink you have collected with the knowledge you have gained to learn new recipes and perk books. Very handy for filling in those missing gaps in your collection."
-researchDeskRHTip_title,Journal,KeyTrunk,Research Desk
+researchDeskRHTip,Journal,EnChanged,"With a research desk you can use the ink you have collected with the knowledge you have gained to learn new recipes and perk books. Very handy for filling in those missing gaps in your collection.","研究用デスクがあれば、収集したインクと得た知識を使って、新しいレシピやパークを学ぶことができます。自分の技能に欠けているものを補うのにとても便利です。"
+researchDeskRHTip_title,Journal,KeyTrunk,Research Desk,"研究用デスク"
 
 autoWorkbenchRHTip,Journal,EnChanged,"With the car parts you have found around the world and the workbench you can assemble a workstation that will allow you to build any vehicle from the ground up."
 autoWorkbenchRHTip_title,Journal,KeyTrunk,Mechanic Bench
@@ -95,8 +95,8 @@ SafeTerrainRHTip_title,Journal,KeyTrunk,Safe Terrain
 BreakStuffRHTip,Journal,EnChanged,"If any item has a durability of less then 100 - If it is repaired it will break also any items that do not have a durability number on it i.e. Nail Guns if repaired will break."
 BreakStuffRHTip_title,Journal,KeyTrunk,Breaking Your Stuff
 
-NearDeathRHTip,Journal,EnChanged,"You never really DIE in ANY version of 7 Days to Die - You have a  Near Death Experience - as the Crazy Jake Clan who is always watching you - carries you back to your bedroll (unconscious) you may or may not drop some things - back pack - tool bar - You will notice since you do not  DIE  - when you awake moments later on your bedroll - you will receive a  NEAR Death Penalty  and or the Broken Legs or Arms or Infection (that originally may have almost  killed you) are still there. - this is because you have not died - you did not loose everything you have - you did not have to choose a new character - you did not have to start all over. You did not have to wipe your server or start on a new one."
-NearDeathRHTip_title,Journal,KeyTrunk,Near Death and Rebirth
+NearDeathRHTip,Journal,EnChanged,"You never really DIE in ANY version of 7 Days to Die - You have a  Near Death Experience - as the Crazy Jake Clan who is always watching you - carries you back to your bedroll (unconscious) you may or may not drop some things - back pack - tool bar - You will notice since you do not  DIE  - when you awake moments later on your bedroll - you will receive a  NEAR Death Penalty  and or the Broken Legs or Arms or Infection (that originally may have almost  killed you) are still there. - this is because you have not died - you did not loose everything you have - you did not have to choose a new character - you did not have to start all over. You did not have to wipe your server or start on a new one.","7 Days To Dieでは、どのバージョンであっても、本当に死ぬことはありません。臨死体験をするだけです。クレイジージェイクが常にあなたを見ていて、意識を失ったあなたを寝床に運んでくれるのです。その際にバックパックやツールバーにあるアイテムを落としてしまうかもしれませんが、あなたは死なないので、しばらくして寝床で目を覚ますと、死にかけのペナルティを受けていたり、足や腕の骨折や感染症（もともと死にかけていたかもしれません）が残っていたりします。- これは、あなたが死んでいないからであり、あなたが持っているすべてのものを失っていないからであり、あなたが新しいキャラクターを選ぶ必要がなかったからであり、最初からやり直す必要がなかったからです。サーバーを消去する必要も、新しいサーバーで始める必要もありません。"
+NearDeathRHTip_title,Journal,KeyTrunk,Near Death and Rebirth,"臨死体験と蘇生"
 
 FarmingRHTip,Journal,EnChanged,"Use your fists or any tool to harvest crops.\nAfter you have bought the required level in the 'Living Off The Land' perk or found a schematic you can craft seeds from harvested crops.\nCraft Farm Plots and plant seeds on Farm Plots using the secondary action. Clean water gathered from buckets must be placed next to your farm plot in order for seeds to properly grow. Water will deplete over time so make sure to check your water consumption each day or your crop will die.\n\nIrrigation Pumps and Pipes are the most efficient way of farming as they do not deplete any water once set up. Check the irrigation journal entry for more information.\n\nIncrease your harvesting yield through buying more levels of the perk."
 FarmingRHTip_title,Journal,KeyTrunk,Farming

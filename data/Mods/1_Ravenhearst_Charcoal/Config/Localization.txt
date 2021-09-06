@@ -1,3 +1,3 @@
-﻿Key,Source,Context,English
-resourceCharcoalRH,items,Item,Charcoal
-resourceCharcoalRHDesc,items,Item,"The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit."
+﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
+resourceCharcoalRH,items,Item,Charcoal,,,,,,"木炭"
+resourceCharcoalRHDesc,items,Item,"The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit.",,,,,,"家族の料理の匂いや、かつての長期休暇の匂いがします。長い燃焼時間を誇ります。ただし火をつけたままにすることができればですが"

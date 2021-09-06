@@ -1,50 +1,50 @@
-﻿Key,Source,Context,English
-tanningRackRH,blocks,Block,Tanning Rack,,,,,
-tanningRackRHDesc,blocks,Block,The tanning rack is needed to dry animal hide for leather. The process is not perfect. You will need tannin and an armor bench to efficiently produce leather.,,,,,
-resourceAnimalHideRH,items,Item,Animal Hide,,,,,
-resourceAnimalHideRHDesc,items,Item,Take this hide to your tanning rack to strip down and cure into leather. Tannin can be used to speed up the process but using an armor bench is the most efficient way to cure leather.,,,,,
-resourceLeatherStripsRH,items,Item,Leather Strips,,,,,
-resourceLeatherStripsRHDesc,items,Item,Strips of leather that can be taken to the tanning rack and combined to make leather.,,,,,
-resourceBoneFragmentsRH,items,Item,Bone Fragments,,,,,
-resourceBoneFragmentsRHDesc,items,Item,Fragment of bone. Collect enough of these and you can form bones.,,,,,
-foodWhiteMeatRH,items,Food,Raw White Meat,,,,,
-foodWhiteMeatRHDesc,items,Food,"Meat can be eaten raw but is better charred, grilled, boiled or made into stews at a campfire.",,,,,
-foodBoiledWhiteMeatRH,items,Food,Boiled White Meat,,,,,
-foodBoiledWhiteMeatRHDesc,items,Food,"While not as yummy as grilled meat, boiling is an efficient way to prepare a meal.",,,,,
-foodBoiledWhiteMeatRHSchematic,items,Food,Boiled White Meat Recipe,,,,,
-foodGrilledWhiteMeatRH,items,Food,Grilled White Meat,,,,,
-foodGrilledWhiteMeatRHDesc,items,Food,"Meat! Meat on fire! Good! Meat fresh off the grill is nutritious, delicious, and filling.",,,,,
-foodGrilledWhiteMeatRHSchematic,items,Food,Grilled White Meat Recipe,,,,,
-foodWhiteMeatStewRH,items,Food,White Meat Stew,,,,,
-foodWhiteMeatStewRHDesc,items,Food,A survivor isn't worth his salt if he can't make a meat stew.,,,,,
-foodWhiteMeatStewRHSchematic,items,Food,White Meat Stew Recipe,,,,,
-foodCharredWhiteMeatRH,items,Food,Charred White Meat,,,,,
-foodCharredWhiteMeatRHDesc,items,Food,Charring meat isn't the best way to cook it but it's much better than eating it raw.,,,,,
-foodRedMeatRH,items,Food,Raw Red Meat,,,,,
-foodRedMeatRHDesc,items,Food,"Meat can be eaten raw but is better charred, grilled, boiled or made into stews at a campfire.",,,,,
-foodBoiledRedMeatRH,items,Food,Boiled Red Meat,,,,,
-foodBoiledRedMeatRHDesc,items,Food,"While not as yummy as grilled meat, boiling is an efficient way to prepare a meal.",,,,,
-foodBoiledRedMeatRHSchematic,items,Food,Boiled Red Meat Recipe,,,,,
-foodGrilledRedMeatRH,items,Food,Grilled Red Meat,,,,,
-foodGrilledRedMeatRHDesc,items,Food,"Meat! Meat on fire! Good! Meat fresh off the grill is nutritious, delicious, and filling.",,,,,
-foodGrilledRedMeatRHSchematic,items,Food,Grilled Red Meat Recipe,,,,,
-foodRedMeatStewRH,items,Food,Red Meat Stew,,,,,
-foodRedMeatStewRHDesc,items,Food,A survivor isn't worth his salt if he can't make a meat stew.,,,,,
-foodRedMeatStewRHSchematic,items,Food,Red Meat Stew Recipe,,,,,
-foodCharredRedMeatRH,items,Food,Charred Red Meat,,,,,
-foodCharredRedMeatRHDesc,items,Food,Charring meat isn't the best way to cook it but it's much better than eating it raw.,,,,,
-armorBenchRH,blocks,Workstation,Armor Bench,,,,,
-armorBenchRHDesc,blocks,Workstation,"Armor benches are used for making armor and clothing. They can also be used to efficiently make leather.",,,,,
-armorBenchRHSchematic,blocks,Workstation,Armor Bench Schematic,,,,,
-resourceBarkRH,items,Item,Tree Bark,,,,,
-resourceBarkRHDesc,items,Item,Bark can be used to aid in the leatherworking process by using it in a survival campfire with water to make tannin.,,,,,
-resourceTanninRH,items,Item,Tannin,,,,,
-resourceTanninRHDesc,items,Item,Tannin is used in leatherworking. It can speed up the process and also produce more useable leather from hide.,,,,,
-foodTrailMixRH,items,Food,Survival Mix,,,,,
-foodTrailMixRHDesc,items,Food,Survival Mix is a great survival food that can be easily made and provides you with a nutritious snack.,,,,,
-foodJerkyRH,items,Food,Dried Jerky,,,,,
-foodJerkyRHDesc,items,Food,Jerky is made from drying and curing meat and can give a great boost to your hunger.,,,,,
-foodSaltRH,items,Food,Salt,,,,,
-foodSaltRHDesc,items,Food,Salt is worth it's weight in gold. In old times it was a precious resource. Salt can be used to cure meats and preserve food.,,,,,
-resourceSaltRH,items,Food,Salt Deposit,,,,,
-resourceSaltRHDesc,items,Food,Mined salt deposits can be collected and boiled with clean water to make useable salt.,,,,,
+﻿Key,Source,Context,English,Japanese
+tanningRackRH,blocks,Block,Tanning Rack,"鞣し台"
+tanningRackRHDesc,blocks,Block,The tanning rack is needed to dry animal hide for leather. The process is not perfect. You will need tannin and an armor bench to efficiently produce leather.,"革を作るために動物の皮を乾燥させるには、鞣し台が必要です。この工程は完璧ではありません。効率よく革を作るためには、タンニンと防具作業台が必要です。"
+resourceAnimalHideRH,items,Item,Animal Hide,"動物の皮"
+resourceAnimalHideRHDesc,items,Item,Take this hide to your tanning rack to strip down and cure into leather. Tannin can be used to speed up the process but using an armor bench is the most efficient way to cure leather.,"この皮を鞣し台に入れて剥がし、革を硬化させます。タンニンを使うことで硬化を早めることができますが、防具作業台を使うのが最も効率的です。"
+resourceLeatherStripsRH,items,Item,Leather Strips,"革ひも"
+resourceLeatherStripsRHDesc,items,Item,Strips of leather that can be taken to the tanning rack and combined to make leather.,"鞣し台で組み合わせて革を作ることができる帯状の革。"
+resourceBoneFragmentsRH,items,Item,Bone Fragments,"骨の破片"
+resourceBoneFragmentsRHDesc,items,Item,Fragment of bone. Collect enough of these and you can form bones.,"骨のかけら。これを集めると骨を作ることができます。"
+foodWhiteMeatRH,items,Food,Raw White Meat,"生の白身肉"
+foodWhiteMeatRHDesc,items,Food,"Meat can be eaten raw but is better charred, grilled, boiled or made into stews at a campfire.","肉は生でも食べられますが、キャンプファイヤーで黒焦げにしたり、焼いたり、煮たり、シチューにしたりするのがよいでしょう。"
+foodBoiledWhiteMeatRH,items,Food,Boiled White Meat,"茹でた白身肉"
+foodBoiledWhiteMeatRHDesc,items,Food,"While not as yummy as grilled meat, boiling is an efficient way to prepare a meal.","焼き肉のような美味しさはありませんが、茹でることで効率的に食事を作ることができます。"
+foodBoiledWhiteMeatRHSchematic,items,Food,Boiled White Meat Recipe,"茹でた白身肉のレシピ"
+foodGrilledWhiteMeatRH,items,Food,Grilled White Meat,"焼いた白身肉"
+foodGrilledWhiteMeatRHDesc,items,Food,"Meat! Meat on fire! Good! Meat fresh off the grill is nutritious, delicious, and filling.","肉だ! 肉が燃えている! いいですね。焼きたての肉は、栄養価が高く、美味しく、食べ応えがあります。"
+foodGrilledWhiteMeatRHSchematic,items,Food,Grilled White Meat Recipe,"焼いた白身肉のレシピ"
+foodWhiteMeatStewRH,items,Food,White Meat Stew,"白身肉のシチュー"
+foodWhiteMeatStewRHDesc,items,Food,A survivor isn't worth his salt if he can't make a meat stew.,"肉シチューを作れないようでは、サバイバーとしての価値はありません。"
+foodWhiteMeatStewRHSchematic,items,Food,White Meat Stew Recipe,"白身肉のシチューのレシピ"
+foodCharredWhiteMeatRH,items,Food,Charred White Meat,"黒焦げ白身肉"
+foodCharredWhiteMeatRHDesc,items,Food,Charring meat isn't the best way to cook it but it's much better than eating it raw.,"肉を焼くのはベストな方法ではありませんが、生で食べるよりはずっとましです。"
+foodRedMeatRH,items,Food,Raw Red Meat,"生の赤身肉"
+foodRedMeatRHDesc,items,Food,"Meat can be eaten raw but is better charred, grilled, boiled or made into stews at a campfire.","肉は生でも食べられますが、キャンプファイヤーで黒焦げにしたり、焼いたり、煮たり、シチューにしたりするのがよいでしょう。"
+foodBoiledRedMeatRH,items,Food,Boiled Red Meat,"茹でた赤身肉"
+foodBoiledRedMeatRHDesc,items,Food,"While not as yummy as grilled meat, boiling is an efficient way to prepare a meal.","焼き肉のような美味しさはありませんが、茹でることで効率的に食事を作ることができます。"
+foodBoiledRedMeatRHSchematic,items,Food,Boiled Red Meat Recipe,"茹でた赤身肉のレシピ"
+foodGrilledRedMeatRH,items,Food,Grilled Red Meat,"焼いた赤身肉"
+foodGrilledRedMeatRHDesc,items,Food,"Meat! Meat on fire! Good! Meat fresh off the grill is nutritious, delicious, and filling.","肉だ! 肉が燃えている! いいですね。焼きたての肉は、栄養価が高く、美味しく、食べ応えがあります。"
+foodGrilledRedMeatRHSchematic,items,Food,Grilled Red Meat Recipe,"焼いた赤身肉のレシピ"
+foodRedMeatStewRH,items,Food,Red Meat Stew,"赤身肉のシチュー"
+foodRedMeatStewRHDesc,items,Food,A survivor isn't worth his salt if he can't make a meat stew.,"肉シチューを作れないようでは、サバイバーとしての価値はありません。"
+foodRedMeatStewRHSchematic,items,Food,Red Meat Stew Recipe,"赤身肉のシチューのレシピ"
+foodCharredRedMeatRH,items,Food,Charred Red Meat,""黒焦げ赤身肉
+foodCharredRedMeatRHDesc,items,Food,Charring meat isn't the best way to cook it but it's much better than eating it raw.,"肉を焼くのはベストな方法ではありませんが、生で食べるよりはずっとましです。"
+armorBenchRH,blocks,Workstation,Armor Bench,"防具作業台"
+armorBenchRHDesc,blocks,Workstation,"Armor benches are used for making armor and clothing. They can also be used to efficiently make leather.","防具作業台とは、鎧や衣服を作るための作業台です。また、革を効率よく作るためにも利用できます。"
+armorBenchRHSchematic,blocks,Workstation,Armor Bench Schematic,"防具作業台の設計図"
+resourceBarkRH,items,Item,Tree Bark,"樹皮"
+resourceBarkRHDesc,items,Item,Bark can be used to aid in the leatherworking process by using it in a survival campfire with water to make tannin.,"樹皮をサバイバルキャンプファイヤーで水と一緒に煮るとタンニンを作ることができ、革加工の助けになります。"
+resourceTanninRH,items,Item,Tannin,"タンニン"
+resourceTanninRHDesc,items,Item,Tannin is used in leatherworking. It can speed up the process and also produce more useable leather from hide.,"タンニンは革加工に使われます。加工のスピードを上げ、より使いやすい革を作ることができます。"
+foodTrailMixRH,items,Food,Survival Mix,"サバイバルミックス"
+foodTrailMixRHDesc,items,Food,Survival Mix is a great survival food that can be easily made and provides you with a nutritious snack.,"サバイバルミックスは、簡単に作ることができ、高い栄養価のある素晴らしいサバイバルフードです。"
+foodJerkyRH,items,Food,Dried Jerky,"ドライジャーキー"
+foodJerkyRHDesc,items,Food,Jerky is made from drying and curing meat and can give a great boost to your hunger.,"ジャーキーは、肉を乾燥・熟成させて作られるもので、空腹感を一層高めてくれます。"
+foodSaltRH,items,Food,Salt,"食塩"
+foodSaltRHDesc,items,Food,Salt is worth it's weight in gold. In old times it was a precious resource. Salt can be used to cure meats and preserve food.,"塩には金の価値があります。昔は貴重な資源でした。塩は、肉の熟成や食品の保存に使われます。"
+resourceSaltRH,items,Food,Salt Deposit,"塩類鉱床"
+resourceSaltRHDesc,items,Food,Mined salt deposits can be collected and boiled with clean water to make useable salt.,"採掘した塩類鉱床を集めて、きれいな水で煮ると使える食塩になります。"

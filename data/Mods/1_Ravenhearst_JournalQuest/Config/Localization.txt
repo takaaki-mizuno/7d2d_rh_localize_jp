@@ -28,43 +28,43 @@ q_journalAdvancedSurvivalRH,Quest,Quest Info,Advanced Survival Tactics,,,,,,"よ
 
 
 q_journalAdvancedSurvival1RH,Quest,Quest Info,Craft a Survival Campfire,,,,,,"サバイバルキャンプファイアのクラフト"
-q_journalAdvancedSurvival1RH_offer,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,
-q_journalAdvancedSurvival1RH_subtitle,Quest,Quest Info,Craft a Survival Campfire,,,,,
-q_journalAdvancedSurvival1RH_description,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,
+q_journalAdvancedSurvival1RH_offer,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,,"サバイバルキャンプファイヤーは、普通のキャンプファイヤーよりも高度なレシピを調理することができ、サバイバルにはとても重要です。"
+q_journalAdvancedSurvival1RH_subtitle,Quest,Quest Info,Craft a Survival Campfire,,,,,,"サバイバルキャンプファイアのクラフト"
+q_journalAdvancedSurvival1RH_description,Quest,Quest Info,"The survival campfire can cook more advanced recipes than the campfire and is very important to survival.",,,,,,"サバイバルキャンプファイヤーは、普通のキャンプファイヤーよりも高度なレシピを調理することができ、サバイバルにはとても重要です。"
 
-q_journalAdvancedSurvival3RH,Quest,Quest Info,Scrap A Schematic and Collect KP,,,,,
-q_journalAdvancedSurvival3RH_subtitle,Quest,Quest Info,Scrap A Schematic and Collect KP,,,,,
-q_journalAdvancedSurvival3RH_description,Quest,Quest Info,"Scrapping Schematics can give you Knowledge Points that you use to craft quests and schematic volumes at a research desk.",,,,,
-q_journalAdvancedSurvival3RH_offer,Quest,Quest Info,"Absorbing the knowledge through scrapping books is a great way to gain knowledge. The more knowledge you gain the easier it will be to learn exclusive recipes and more. Take an unneeded schematic and scrap it to gain Knowledge Points that can be used in the Research Desk.",,,,,
+q_journalAdvancedSurvival3RH,Quest,Quest Info,Scrap A Schematic and Collect KP,,,,,,"設計図を分解してKPを集める"
+q_journalAdvancedSurvival3RH_subtitle,Quest,Quest Info,Scrap A Schematic and Collect KP,,,,,,"設計図を分解してKPを集める"
+q_journalAdvancedSurvival3RH_description,Quest,Quest Info,"Scrapping Schematics can give you Knowledge Points that you use to craft quests and schematic volumes at a research desk.",,,,,,"設計図を分解すると、リサーチデスクでクエストや設計図を作る際に使用するKP（ナレッジポイント）を得ることができます。"
+q_journalAdvancedSurvival3RH_offer,Quest,Quest Info,"Absorbing the knowledge through scrapping books is a great way to gain knowledge. The more knowledge you gain the easier it will be to learn exclusive recipes and more. Take an unneeded schematic and scrap it to gain Knowledge Points that can be used in the Research Desk.",,,,,,"本を分解して知識を獲得することは、知識獲得に最適な方法です。知識が増えれば、専用のレシピなども習得しやすくなります。不要になった設計図を分解してして、リサーチデスクで使えるナレッジポイントを獲得しましょう。"
 
 q_journalAdvancedSurvival4RH,Quest,Quest Info,"Filtering The Water",,,,,,"水の濾過"
-q_journalAdvancedSurvival4RH_offer,Quest,Quest Info,"Ever since the outbreak began reports were that the infection initially spread through the waters around Ravenhearst. Makasin Pharmaceuticals were seen dumping chemicals into the rivers. In order to ensure your safety you will need to initiate a process to filter the outbreak from the waters in the town.\n\nConstructing a special Water Filtration Unit should be good enough to rid the water of the infection but it won't be enough to make it safe. The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\n\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",,,,,
-q_journalAdvancedSurvival4RH_description,Quest,Quest Info,"Craft A Water Filtration Unit.",,,,,
-q_journalAdvancedSurvival4RH_subtitle,Quest,Quest Info,Infected Waters,,,,,
+q_journalAdvancedSurvival4RH_offer,Quest,Quest Info,"Ever since the outbreak began reports were that the infection initially spread through the waters around Ravenhearst. Makasin Pharmaceuticals were seen dumping chemicals into the rivers. In order to ensure your safety you will need to initiate a process to filter the outbreak from the waters in the town.\n\nConstructing a special Water Filtration Unit should be good enough to rid the water of the infection but it won't be enough to make it safe. The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\n\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",,,,,,"アウトブレイクが始まって以来、Ravenhearst周辺の水域で感染が広がったと報告されています。Makasin製薬が化学物質を川に投棄しているのが目撃されていました。安全を確保するためには、感染防止のために水をろ過する必要があります。\n\n特殊な水のろ過装置を構築することで、水から感染源を取り除くことはできますが、それだけでは安全とは言えません。次のステップは、ろ過装置に汚染された水を入れて、安全に使用できるように処理することです。水を入れたバケツや缶、瓶などをろ過装置に入れて、煮沸します。このようにして、農業用や飲料用の安全な水を作ることができます。\n\n[eaa1a1]レシピには5つ以上の材料を使うことがあります。どの材料を使うかは、説明文の中にある小さな矢印を見ればわかります。矢印がある場合は、ページを切り替えて残りの材料を見ることができます。"
+q_journalAdvancedSurvival4RH_description,Quest,Quest Info,"Craft A Water Filtration Unit.",,,,,,"水のろ過装置を作る"
+q_journalAdvancedSurvival4RH_subtitle,Quest,Quest Info,Infected Waters,,,,,,"汚染された水"
 
-q_journalAdvancedSurvival4aRH,Quest,Quest Info,"Filling The Unit",,,,,
+q_journalAdvancedSurvival4aRH,Quest,Quest Info,"Filling The Unit",,,,,,"ろ過装置をいっぱいにする"
 q_journalAdvancedSurvival4aRH_offer,Quest,Quest Info,"The next step is to fill the unit with infected water so that you can process it for safe use. Take a filled bucket or can or jar and add it to the unit and boil it into the unit. From there you can make safe water for farming or drinking.\n\n[eaa1a1]Recipes can have more than 5 ingredients now. In order to tell which ones do look for the little arrow in the description. If an arrow is present it means you can switch pages to see the rest of the ingredients.",,,,,
-q_journalAdvancedSurvival4aRH_description,Quest,Quest Info,"Fill the WFU.",,,,,
-q_journalAdvancedSurvival4aRH_subtitle,Quest,Quest Info,Infected Waters,,,,,
+q_journalAdvancedSurvival4aRH_description,Quest,Quest Info,"Fill the WFU.",,,,,,"水ろ過装置をいっぱいにする"
+q_journalAdvancedSurvival4aRH_subtitle,Quest,Quest Info,Infected Waters,,,,,,"汚染された水"
 
-q_journalAdvancedSurvival5RH,Quest,Quest Info,Cleaning The Water,,,,,
-q_journalAdvancedSurvival5RH_offer,Quest,Quest Info,"Now that you have ensured the water is free from the outbreak, you will need to take that water and boil it so that any leftover bacteria in it will be thoroughly cooked out. Take the water you just cleansed and boil it over a fire. It will then be safe to drink.",,,,,
-q_journalAdvancedSurvival5RH_description,Quest,Quest Info,"Boil Your Water.",,,,,
-q_journalAdvancedSurvival5RH_subtitle,Quest,Quest Info,Infected Waters,,,,,
+q_journalAdvancedSurvival5RH,Quest,Quest Info,Cleaning The Water,,,,,,"水をきれいにする"
+q_journalAdvancedSurvival5RH_offer,Quest,Quest Info,"Now that you have ensured the water is free from the outbreak, you will need to take that water and boil it so that any leftover bacteria in it will be thoroughly cooked out. Take the water you just cleansed and boil it over a fire. It will then be safe to drink.",,,,,,"これで水から感染源が取り除かれました。続いてその水を沸騰させて、中に残っている細菌を徹底的に殺菌する必要があります。浄化された水を火にかけて煮沸します。これで安全に飲めるようになります。"
+q_journalAdvancedSurvival5RH_description,Quest,Quest Info,"Boil Your Water.",,,,,,"水を煮沸する"
+q_journalAdvancedSurvival5RH_subtitle,Quest,Quest Info,Infected Waters,,,,,,"汚染された水"
 
-q_journalAdvancedSurvival6RH,Quest,Quest Info,Storing Your Resources,,,,,
-q_journalAdvancedSurvival6RH_offer,Quest,Quest Info,"After a while you will notice that you have an abundance of resources from all of your hard work. Some resources can be stored in pallets in large amounts. Some of these will need to be unlocked but some are available now. Craft a pallet from wood and place it. To unpack pick it back up and craft it back into your resource.",,,,,
-q_journalAdvancedSurvival6RH_description,Quest,Quest Info,"After a while you will notice that you have an abundance of resources from all of your hard work. Some resources can be stored in pallets in large amounts. Some of these will need to be unlocked but some are available now. Craft a pallet from wood and place it. To unpack pick it back up and craft it back into your resource.",,,,,
-q_journalAdvancedSurvival6RH_subtitle,Quest,Quest Info,Storing Your Resources,,,,,
+q_journalAdvancedSurvival6RH,Quest,Quest Info,Storing Your Resources,,,,,,"持ち物を保管する"
+q_journalAdvancedSurvival6RH_offer,Quest,Quest Info,"After a while you will notice that you have an abundance of resources from all of your hard work. Some resources can be stored in pallets in large amounts. Some of these will need to be unlocked but some are available now. Craft a pallet from wood and place it. To unpack pick it back up and craft it back into your resource.",,,,,,"しばらくサバイバルを続けると、苦労した分だけたくさんの持ち物を持っていることに気づくでしょう。持ち物の中には、まとめることで大量に保管できるものもあります。アンロックしないとまとめることができないものもありますが、今すぐ利用できるものもあります。木をまとめてパレットを作り、それを置いてみましょう。パレットを拾い上げて、再びばらすこともできます。"
+q_journalAdvancedSurvival6RH_description,Quest,Quest Info,"After a while you will notice that you have an abundance of resources from all of your hard work. Some resources can be stored in pallets in large amounts. Some of these will need to be unlocked but some are available now. Craft a pallet from wood and place it. To unpack pick it back up and craft it back into your resource.",,,,,,"しばらくサバイバルを続けると、苦労した分だけたくさんの持ち物を持っていることに気づくでしょう。持ち物の中には、まとめることで大量に保管できるものもあります。アンロックしないとまとめることができないものもありますが、今すぐ利用できるものもあります。木をまとめてパレットを作り、それを置いてみましょう。パレットを拾い上げて、再びばらすこともできます。"
+q_journalAdvancedSurvival6RH_subtitle,Quest,Quest Info,Storing Your Resources,,,,,,"持ち物を保管する"
 
-q_journalAdvancedSurvival7RH,Quest,Quest Info,The War For Gas,,,,,
+q_journalAdvancedSurvival7RH,Quest,Quest Info,The War For Gas,,,,,,"ガソリンを巡る争い"
 q_journalAdvancedSurvival7RH_offer,Quest,Quest Info,"Gas is going to become very valuable as you obtain vehicles and powered tools. Unfortunately gas is in limited supply. You are going to have to fight for every drop. Take 50 empty gas cans that you have found or made and go to a gas pump. Once the pump is empty use the gas cans on it. The pump will begin to fill.\nOnce the pump is filled you will be able to loot it for some gas. You can repeat this process as often as you can.",,,,,
 q_journalAdvancedSurvival7RH_description,Quest,Quest Info,"Gas is going to become very valuable as you obtain vehicles and powered tools. Unfortunately gas is in limited supply. You are going to have to fight for every drop. Take 50 empty gas cans that you have found or made and go to a gas pump. Once the pump is empty use the gas cans on it. The pump will begin to fill.\nOnce the pump is filled you will be able to loot it for some gas. You can repeat this process as often as you can.",,,,,
-q_journalAdvancedSurvival7RH_subtitle,Quest,Quest Info,The War For Gas,,,,,
+q_journalAdvancedSurvival7RH_subtitle,Quest,Quest Info,The War For Gas,,,,,,"ガソリンを巡る争い"
 
 q_journalFarmingRH,Quest,Quest Info,Farming Journal,,,,,
 
-q_journalFarming1RH,Quest,Quest Info,Making A Farm Table,,,,,
+q_journalFarming1RH,Quest,Quest Info,Making A Farm Table,,,,,,"農業用作業台"
 q_journalFarming1RH_offer,Quest,Quest Info,"The farm table is a farmers hub for producing seeds and resources. It is essential to build one.",,,,,
 q_journalFarming1RH_description,Quest,Quest Info,"The farm table is a farmers hub for producing seeds and resources. It is essential to build one.",,,,,
 q_journalFarming1RH_subtitle,Quest,Quest Info,Making A Farm Table,,,,,
