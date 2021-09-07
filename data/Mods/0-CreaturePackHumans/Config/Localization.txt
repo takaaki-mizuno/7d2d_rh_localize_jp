@@ -1,13 +1,13 @@
-Key,Source,Context,UsedInMainMenu,NoTranslate,English
-"start",,,,,"Are you the undead?"
-"statement_-1684104497",,,,,"Maybe not but a bar of soap wouldn't kill ya none either."
-"responseID_1595140464",,,,,"No I'm not dead yet."
-"response_-24413466",,,,,"Gee thanks."
-"responseID_-307220871",,,,,"Be safe friend."
+Key,Source,Context,UsedInMainMenu,NoTranslate,English,Japanese
+"start",,,,,"Are you the undead?","お前はゾンビなのか？"
+"statement_-1684104497",,,,,"Maybe not but a bar of soap wouldn't kill ya none either.","石鹸1個じゃなにも殺せないんじゃないのか？"
+"responseID_1595140464",,,,,"No I'm not dead yet.","いや、俺はまだ死んでいない。"
+"response_-24413466",,,,,"Gee thanks.","おお、ありがとう"
+"responseID_-307220871",,,,,"Be safe friend.","無事でいろよ"
 
 qc_FoolsGold,items,Item,New,,FoolsGold Quest
-qc_FoolsGoldDesc,items,Quest - Challenge,,,There are rumors of a great treasure at this location.
-challenge_FoolsGold,Quest,Challenge Info,,,Fools Gold
-challenge_FoolsGold_offer,Quest,Challenge Info,,,"Dear Survivor,\nDont know if the source I got this from is reliable. Just keep in mind it was one of the Dukes guys.\n\nGood Luck, Crazy Jake."
-challenge_FoolsGold_subtitle,Quest,Challenge Info,,,Is this a joke?
-challenge_FoolsGold_completion,Quest,Quest Info,,,Well Done...here are some things I found awhile ago. \nTake it.  
+qc_FoolsGoldDesc,items,Quest - Challenge,,,There are rumors of a great treasure at this location.,"この場所にすごいお宝が眠っているという噂がある"
+challenge_FoolsGold,Quest,Challenge Info,,,Fools Gold,""
+challenge_FoolsGold_offer,Quest,Challenge Info,,,"Dear Survivor,\nDont know if the source I got this from is reliable. Just keep in mind it was one of the Dukes guys.\n\nGood Luck, Crazy Jake.","親愛なるサバイバー\nこの情報が信頼できるかわからないが、デュークスの一人だったことを忘れるな。\n\n幸運を祈る。クレイジージェイク"
+challenge_FoolsGold_subtitle,Quest,Challenge Info,,,Is this a joke?,"冗談を言っているのか？"
+challenge_FoolsGold_completion,Quest,Quest Info,,,Well Done...here are some things I found awhile ago. \nTake it.,"よくやった...これは前に私が見つけたものだ。\nとっておけ"

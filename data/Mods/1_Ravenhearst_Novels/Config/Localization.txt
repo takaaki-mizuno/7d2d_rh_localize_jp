@@ -1,20 +1,20 @@
-﻿Key,Source,Context,English
-novelAmityvilleRH,Items,Item,Novel: The Amityville Horror,,,,,
-novelCujoRH,Items,Item,Novel: Cujo,,,,,
-novelHandbookDeceasedRH,Items,Item,Novel: Handbook of the Recently Deceased,,,,,
-novelLurkingFearRH,Items,Item,Novel: The Lurking Fear,,,,,
-novelNOTLDRH,Items,Item,Novel: Night of the Living Dead,,,,,
-novelPetSemataryRH,Items,Item,Novel: Pet Sematary,,,,,
-novelPrideZombiesRH,Items,Item,Novel: Pride and Zombies,,,,,
-novelPsychoRH,Items,Item,Novel: Psycho,,,,,
-novelRavenhearstManualRH,Items,Item,Novel: Survivors Guide to Ravenhearst,,,,,
-novelROTLDRH,Items,Item,Novel: Return of the Living Dead,,,,,
-novelWalkingDeadRH,Items,Item,Novel: The Walking Dead,,,,,
-novelWeirdTalesRH,Items,Item,Novel: Weird Tales,,,,,
-novelsRHDesc,Items,Item,"You used to really enjoy reading, now you just wonder how many shotgun shells this will get you. Can be used for some extra paper.",,,,,
-novelItRH,Items,Item,Novel: It,,,,,
-novelMiseryRH,Items,Item,Novel: Misery,,,,,
-novelShiningRH,Items,Item,Novel: The Shining,,,,,
-novelStandRH,Items,Item,Novel: The Stand,,,,,
-novelSurvivalGuideRH,Items,Item,Novel: The Zombie Survival Guide,,,,,
-novelWWZRH,Items,Item,Novel: World War Z,,,,,
+﻿Key,Source,Context,English,Japanese
+novelAmityvilleRH,Items,Item,Novel: The Amityville Horror,"小説: 悪魔の棲む家"
+novelCujoRH,Items,Item,Novel: Cujo,"小説: クージョ"
+novelHandbookDeceasedRH,Items,Item,Novel: Handbook of the Recently Deceased,"小説: Handbook of the Recently Deceased"
+novelLurkingFearRH,Items,Item,Novel: The Lurking Fear,"小説: The Lurking Fear"
+novelNOTLDRH,Items,Item,Novel: Night of the Living Dead,"小説: ナイト・オブ・ザ・リビングデッド"
+novelPetSemataryRH,Items,Item,Novel: Pet Sematary,"小説: ペット・セマタリー"
+novelPrideZombiesRH,Items,Item,Novel: Pride and Zombies,"小説: 高慢とゾンビ"
+novelPsychoRH,Items,Item,Novel: Psycho,"小説: サイコ"
+novelRavenhearstManualRH,Items,Item,Novel: Survivors Guide to Ravenhearst,"小説: Ravenhearst サバイバルガイド"
+novelROTLDRH,Items,Item,Novel: Return of the Living Dead,"小説: バタリアン"
+novelWalkingDeadRH,Items,Item,Novel: The Walking Dead,"小説: ザ・ウォーキング・デッド"
+novelWeirdTalesRH,Items,Item,Novel: Weird Tales,"小説: ウィアード・テイルズ"
+novelsRHDesc,Items,Item,"You used to really enjoy reading, now you just wonder how many shotgun shells this will get you. Can be used for some extra paper.","あなたは以前は本を読むのが好きだったはずなのに、今ではこれで何発のショットガンの弾が手に入るのか気になって仕方がありません。紙としても使えます。"
+novelItRH,Items,Item,Novel: It,"小説: イット"
+novelMiseryRH,Items,Item,Novel: Misery,"小説: ミザリー"
+novelShiningRH,Items,Item,Novel: The Shining,"小説: シャイニング"
+novelStandRH,Items,Item,Novel: The Stand,"小説: ザ・スタンド"
+novelSurvivalGuideRH,Items,Item,Novel: The Zombie Survival Guide,"小説: ゾンビサバイバルガイド"
+novelWWZRH,Items,Item,Novel: World War Z,"小説: ワールドウォーZ"
