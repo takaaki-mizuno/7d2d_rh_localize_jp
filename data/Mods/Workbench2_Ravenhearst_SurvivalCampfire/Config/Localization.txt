@@ -1,4 +1,4 @@
-﻿Key,Source,Context,English
-survivalCampfireRH,blocks,Block,Survival Campfire,,,,,
-survivalCampfireRHDesc,blocks,Block,The survival campfire can cook more advanced meals than a normal campfire.,,,,,
+﻿Key,Source,Context,English,Japanese
+survivalCampfireRH,blocks,Block,Survival Campfire,"サバイバルキャンプファイヤー"
+survivalCampfireRHDesc,blocks,Block,The survival campfire can cook more advanced meals than a normal campfire.,"サバイバルキャンプファイヤーでは、普通のキャンプファイヤーよりも高度な調理をすることができます。"
 

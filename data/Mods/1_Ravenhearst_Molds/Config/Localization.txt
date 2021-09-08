@@ -1,11 +1,11 @@
-﻿Key,Source,Context,English
-resourceBulletCasingMoldRH,items,Item,Bullet Casing Mold,,,,,
-resourceBulletTipMoldRH,items,Item,Bullet Tip Mold,,,,,
-resourceIronArrowHeadMoldRH,items,Item,Iron Arrowhead Mold,,,,,
-resourceNailMoldRH,items,Item,Nail Mold,,,,,
-resourceScrewsMoldRH,items,Item,Screw Mold,,,,,
-resourceSteelArrowHeadMoldRH,items,Item,Steel Arrowhead Mold,,,,,
-resourcePipeMoldRH,items,Item,Pipe Mold,,,,,
-resourceEmptyJarMoldRH,items,Item,Empty Jar Mold,,,,,
-resourceBlankMoldRH,items,Item,Empty Blank Mold,,,,,
-resourceBlankMoldRHDesc,items,Item,This mold can be used to craft items in the forge. To make one use the resource you wish to make the mold of and some clay and water and craft your mold. You can then place the appropriate mold in the forges and craft your desired item.,,,,,
+﻿Key,Source,Context,English,Japanese
+resourceBulletCasingMoldRH,items,Item,Bullet Casing Mold,"薬莢の鋳型"
+resourceBulletTipMoldRH,items,Item,Bullet Tip Mold,"弾頭の鋳型"
+resourceIronArrowHeadMoldRH,items,Item,Iron Arrowhead Mold,"矢尻（鉄材）の鋳型"
+resourceNailMoldRH,items,Item,Nail Mold,"釘の鋳型"
+resourceScrewsMoldRH,items,Item,Screw Mold,"ネジの鋳型"
+resourceSteelArrowHeadMoldRH,items,Item,Steel Arrowhead Mold,"矢尻（鋼鉄）の鋳型"
+resourcePipeMoldRH,items,Item,Pipe Mold,"パイプの鋳型"
+resourceEmptyJarMoldRH,items,Item,Empty Jar Mold,"瓶の鋳型"
+resourceBlankMoldRH,items,Item,Empty Blank Mold,"空の鋳型"
+resourceBlankMoldRHDesc,items,Item,This mold can be used to craft items in the forge. To make one use the resource you wish to make the mold of and some clay and water and craft your mold. You can then place the appropriate mold in the forges and craft your desired item.,"この鋳型を使って、炉でアイテムを作ることができます。型を作るには、作りたい資源と、粘土と水を使って鋳型を作ります。そして、適切な鋳型を炉に置くことで、目的のアイテムを作ることができます。"

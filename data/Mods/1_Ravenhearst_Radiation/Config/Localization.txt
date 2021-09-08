@@ -1,9 +1,9 @@
-﻿Key,Source,Context,English
-apparelHazmatBootsArmoredRH,items,Clothes,Hazmat Boots (Armored),,,,,
-apparelHazmatPantsArmoredRH,items,Clothes,Hazmat Pants (Armored),,,,,
-apparelHazmatJacketArmoredRH,items,Clothes,Hazmat Jacket (Armored),,,,,
-apparelHazmatGlovesArmoredRH,items,Clothes,Hazmat Gloves (Armored),,,,,
-apparelHazmatMaskArmoredRH,items,Clothes,Hazmat Mask (Armored),,,,,
-apparelHazmatArmoredDesc,items,Clothes,This reinforced hazmat piece not only protects from green radiation smoke but it provides some protection from zombies as well.,,,,,
-apparelHazmatRHSchematic,items,Item,Hazmat Suit Recipe,,,,,
-apparelHazmatArmoredRHSchematic,items,Item,Armored Hazmat Suit Recipe,,,,,
+﻿Key,Source,Context,English,Japanese
+apparelHazmatBootsArmoredRH,items,Clothes,Hazmat Boots (Armored),"ハズマットブーツ（防具）"
+apparelHazmatPantsArmoredRH,items,Clothes,Hazmat Pants (Armored),"ハズマットパンツ（防具）"
+apparelHazmatJacketArmoredRH,items,Clothes,Hazmat Jacket (Armored),"ハズマットジャケット（防具）"
+apparelHazmatGlovesArmoredRH,items,Clothes,Hazmat Gloves (Armored),"ハズマットグローブ（防具）"
+apparelHazmatMaskArmoredRH,items,Clothes,Hazmat Mask (Armored),"ハズマットマスク（防具）"
+apparelHazmatArmoredDesc,items,Clothes,This reinforced hazmat piece not only protects from green radiation smoke but it provides some protection from zombies as well.,"この強化された防護服は、緑の放射線の煙から守るだけでなく、ゾンビからもある程度身を守ることができます。"
+apparelHazmatRHSchematic,items,Item,Hazmat Suit Recipe,"ハズマットスーツの設計図"
+apparelHazmatArmoredRHSchematic,items,Item,Armored Hazmat Suit Recipe,"ハズマットスーツ（防具）の設計図"

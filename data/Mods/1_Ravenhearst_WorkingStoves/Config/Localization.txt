@@ -1,5 +1,6 @@
-﻿Key,Source,Context,English
-stoveKitRH,items,Item,Stove Repair Kit
-stoveKitRHDesc,items,Item,"This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use."
-workingStoveRH,blocks,Block,Working Stove
-workingStoveRHDesc,blocks,Block,"A working stove can be used to cook food and some chemicals in a safe environment."
+﻿Key,Source,Context,English,Japanese
+stoveKitRH,items,Item,Stove Repair Kit,"ストーブ修理キット"
+stoveKitRHDesc,items,Item,"This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use.","このストーブ修理キットは、ハンマーと一緒に使って、壊れたストーブを使えるようにすることができます。"
+workingStoveRH,blocks,Block,Working Stove,"作業用ストーブ"
+workingStoveRHDesc,blocks,Block,"A working stove can be used to cook food and some chemicals in a safe environment.","
+作業用ストーブは調理やある程度の化学的調合を安全に行うことができます。"

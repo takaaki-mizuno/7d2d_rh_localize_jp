@@ -1,3 +1,3 @@
-﻿Key,Source,Context,English
-oldStoneWellRH,blocks,Block,Stone Well,,,,,
-oldStoneWellRHDesc,blocks,Block,This stone well can be use on your property to produce a water source.,,,,,
+﻿Key,Source,Context,English,Japanese
+oldStoneWellRH,blocks,Block,Stone Well,"石の井戸"
+oldStoneWellRHDesc,blocks,Block,This stone well can be use on your property to produce a water source.,"井戸をあなたの拠点に設置すれば、水源を生み出すことができます。"

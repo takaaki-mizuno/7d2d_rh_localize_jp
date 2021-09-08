@@ -1,3 +1,3 @@
-﻿Key,Source,Context,English
-resourceMortarRH,items,Item,Mortar,,,,,
-resourceMortarRHDesc,items,Tool,"Used in the creation of cobblestone.",,,,,
+﻿Key,Source,Context,English,Japanese
+resourceMortarRH,items,Item,Mortar,"モルタル"
+resourceMortarRHDesc,items,Tool,"Used in the creation of cobblestone.","玉石を作るのに利用します"

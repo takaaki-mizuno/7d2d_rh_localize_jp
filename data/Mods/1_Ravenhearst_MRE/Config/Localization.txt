@@ -1,3 +1,3 @@
-﻿Key,Source,Context,English
-foodMRERH,items,Food,MRE,,,,,
-foodMRERHDesc,items,Food,A Military grade meal that will go a long way in nourishing you. This comes with no food poisoning chances. Find more in military loot..,,,,,
+﻿Key,Source,Context,English,Japanese
+foodMRERH,items,Food,MRE,"MRE"
+foodMRERHDesc,items,Food,A Military grade meal that will go a long way in nourishing you. This comes with no food poisoning chances. Find more in military loot..,"栄養価の高い軍用レーションです。食中毒の心配もありません。軍隊関連の場所で見つかります"

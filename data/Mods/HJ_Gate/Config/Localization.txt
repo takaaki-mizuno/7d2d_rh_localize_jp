@@ -1,2 +1,2 @@
-Key,Source,Context,Changes,English,Russian
-HJ_Gate_PR,blocks,Block,New,"Garage Door","Гаражные ворота"
+Key,Source,Context,Changes,English,Russian,Japanese
+HJ_Gate_PR,blocks,Block,New,"Garage Door","Гаражные ворота","ガレージドア"
