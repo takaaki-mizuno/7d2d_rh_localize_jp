@@ -1,8 +1,8 @@
 ﻿Key,Source,Context,English,Japanese
 drinkFrozenIceeRH,items,Food,Icee,"アイシー"
 drinkCanSodaRH,items,Food,Can of Soda,"ソーダ缶"
-drinkFrozenIceeRHDesc,items,Food,You remember these from a happier time. You can not believe this machine still works. Wonder if the water is still good in this. You can not resist. It's cherry! This helps you survive in severely warm environments.,,,,,
-drinkCanSodaRHDesc,items,Food,The diabeetus was sure kicking your ass before all this happened but it's the end of the world as we know it anyway and you feel fine so.,"楽しかった頃の記憶が蘇ります。この機械がまだ動くなんて信じられません。この中に入っているジュースはまだ大丈夫なのでしょうか。あなたは我慢できません。チェリーですよ！これがあれば厳しい温度環境でも生き残ることができるでしょう"
+drinkFrozenIceeRHDesc,items,Food,You remember these from a happier time. You can not believe this machine still works. Wonder if the water is still good in this. You can not resist. It's cherry! This helps you survive in severely warm environments.,"楽しかった頃の記憶が蘇ります。この機械がまだ動くなんて信じられません。この中に入っているジュースはまだ大丈夫なのでしょうか。あなたは我慢できません。ああ最高です！これがあれば厳しい温度環境でも生き残ることができるでしょう"
+drinkCanSodaRHDesc,items,Food,The diabeetus was sure kicking your ass before all this happened but it's the end of the world as we know it anyway and you feel fine so.,"楽しかった頃の記憶が蘇ります。この機械がまだ動くなんて信じられません。この中に入っているジュースはまだ大丈夫なのでしょうか。あなたは我慢できません。ああ最高です！これがあれば厳しい温度環境でも生き残ることができるでしょう"
 drinkYuccaJuiceSmoothieDesc,items,Food,This smoothie helps you survive in severely warm environments.,"このスムージーは、厳しい環境での生存をサポートしてくれます。"
 resourceCropDriedChrysanthemumRH,items,Farming,Dried Chrysanthemum Leaves,"乾燥した菊の葉"
 resourceCropDriedChrysanthemumRHDesc,items,Farming,Dried chrysanthemum leaves can be used to make red tea.,"乾燥した菊の葉で紅茶を入れることができます"

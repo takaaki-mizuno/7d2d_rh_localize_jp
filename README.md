@@ -1,5 +1,11 @@
 # 7 days to die, RavenHearst mod Japanese localize script
 
+----
+
+English: 6653, Japanese: 1533  Translation Completion Ratio: 23.04%
+
+----
+
 This is a collection of scripts to run RavenHearst Mod of 7 days to die on macOS and to update Japanese localization ( only for 7.6 / a19.6 ).
 
 It is written in Python.

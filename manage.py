@@ -1,6 +1,6 @@
 import sys
 
-from sdtd_mod_localizer.commands import Apply, Generate
+from sdtd_mod_localizer.commands import Analyze, Apply, Generate
 
 
 def manage():
@@ -13,6 +13,8 @@ def manage():
         Generate().execute(sys.argv[2:])
     elif command == "apply":
         Apply().execute(sys.argv[2:])
+    elif command == "analyze":
+        Analyze().execute(sys.argv[2:])
 
 
 if __name__ == '__main__':

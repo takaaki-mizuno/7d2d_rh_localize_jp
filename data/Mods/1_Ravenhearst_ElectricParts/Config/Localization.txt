@@ -1,5 +1,5 @@
-﻿Key,Source,Context,English,Context / Alternate Text,german,latam,french,italian,japanese
-resourceElectricalWireRH,items,Tool,Electrical Wires,,,,,,"電線"
-resourceElectricalWireRHDesc,items,Tool,"Electrical wires are used in to fuse together items with working electrical components.",,,,,,"電線は、電気を利用するアイテム同士を接続するために使われます。"
-resourceLightbulbRH,items,Tool,Light Bulb,,,,,,"電球"
-resourceLightbulbRHDesc,items,Tool,"Light bulbs are a necessity in this apocalypse to shed light in dark corners.",,,,,,"電球は、このアポカリプス下において、暗い片隅を照らすための必需品です。"
+﻿Key,Source,Context,English,japanese
+resourceElectricalWireRH,items,Tool,Electrical Wires,"電線"
+resourceElectricalWireRHDesc,items,Tool,"Electrical wires are used in to fuse together items with working electrical components.","電線は、電気を利用するアイテム同士を接続するために使われます。"
+resourceLightbulbRH,items,Tool,Light Bulb,"電球"
+resourceLightbulbRHDesc,items,Tool,"Light bulbs are a necessity in this apocalypse to shed light in dark corners.","電球は、このアポカリプス下において、暗い片隅を照らすための必需品です。"

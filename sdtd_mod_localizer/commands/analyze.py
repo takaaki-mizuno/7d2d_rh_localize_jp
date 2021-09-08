@@ -1,53 +1,56 @@
-from pathlib import Path
-from typing import List, Optional
+from typing import List, Tuple
 
+from ..entities import Localization
 from .command import Command
 
 
 class Analyze(Command):
     def execute(self, arguments: List[str]):
-        path = self.get_target_path_from_arguments(arguments)
-        if path is None:
-            return
-        self.copy_localized_text(path)
+        self.analyze_localization_result()
+
+    def analyze_localization_result(self):
+        data_path = self.get_data_path()
+        total_english = 0
+        total_japanese = 0
+        for file in data_path.glob("**/Localization.txt"):
+            localization = Localization(file)
+            english_count, japanese_count = self._analyze_localization_file(
+                localization)
+            relative_path = file.relative_to(str(data_path))
+            if english_count > 0:
+                print("{}: E: {}, J: {}  Ratio: {}%".format(
+                    str(relative_path), english_count, japanese_count,
+                    round(japanese_count * 100 / english_count, 2)))
+            total_english += english_count
+            total_japanese += japanese_count
+
+        if total_english > 0:
+            print("\n\nTotal: E: {}, J: {}  Ratio: {}%".format(
+                total_english, total_japanese,
+                round(total_japanese * 100 / total_english, 2)))
+        else:
+            print("No translation")
 
     @staticmethod
-    def get_target_path_from_arguments(arguments: List[str]) -> Optional[Path]:
-        if len(arguments) == 0:
-            print("Please provide your 7dtd path")
-            return None
+    def _analyze_localization_file(
+            localization: Localization) -> Tuple[int, int]:
+        if not localization.is_localization_file \
+                or not localization.has_english:
+            return 0, 0
 
-        mod_path = Path(arguments[0])
-        if not mod_path.exists():
-            print("Provided path does not exist. : {}".format(str(mod_path)))
-            return None
+        english_count = 0
+        japanese_count = 0
+        for entry in localization.data:
+            if entry is None:
+                continue
+            if "english" not in entry:
+                continue
+            english_text = entry["english"]
 
-        path = mod_path.joinpath("Mods")
-        if not path.exists():
-            print("Provided path seems not has  a Mod directory. : {}".format(
-                str(mod_path)))
-            return None
+            english_count += 1
+            if "japanese" in entry:
+                japanese_text = entry["japanese"]
+                if japanese_text != "" and japanese_text != english_text:
+                    japanese_count += 1
 
-        return path
-
-    def copy_localized_text(self, game_path: Path):
-        data_path = self.get_data_path()
-        error = False
-        for file in data_path.glob("**/Localization.txt"):
-            relative_path = file.relative_to(str(data_path))
-            destination_path = game_path.joinpath(relative_path)
-            if not destination_path.exists():
-                print("File does not exists: {}".format(str(destination_path)))
-                error = True
-
-        if error:
-            print(
-                "Game data file is not consistent. Your mod version may be different from this localized files"
-            )
-            return
-
-        for file in data_path.glob("**/Localization.txt"):
-            relative_path = file.relative_to(str(data_path))
-            destination_path = game_path.joinpath(relative_path)
-            shutil.copy(file, destination_path)
-            print("Copy: {}".format(str(relative_path)))
+        return english_count, japanese_count

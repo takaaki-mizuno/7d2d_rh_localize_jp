@@ -1,11 +1,10 @@
-import sys
 from pathlib import Path
-from typing import List, Optional
+from typing import List
 
 
 class Command(object):
     def execute(self, arguments: List[str]):
-        raise NotImplemented
+        raise NotImplementedError
 
     @staticmethod
     def get_data_path() -> Path:

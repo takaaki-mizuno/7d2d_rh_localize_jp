@@ -43,7 +43,8 @@ class Apply(Command):
 
         if error:
             print(
-                "Game data file is not consistent. Your mod version may be different from this localized files"
+                "Game data file is not consistent."
+                + "Your mod version may be different from this localized files"
             )
             return
 
