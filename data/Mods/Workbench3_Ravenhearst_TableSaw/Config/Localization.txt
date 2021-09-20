@@ -1,7 +1,6 @@
-﻿Key,Source,Context,English
-tableSawRH,blocks,Workstation,Table Saw,,,,,
-tableSawRHDesc,blocks,Workstation,"Create furniture, advanced shapes and decorations for your base.",,,,,
-tableSawRHSchematic,blocks,Workstation,Table Saw Schematic,,,,,
-tableSawBladeRH,items,Item,Saw Blade,,,,,
-tableSawBladeRHDesc,items,Item,A sharp blade from a table saw. You can use this later on to make your own table saw.,,,,,
-
+﻿Key,Source,Context,English,Japanese
+tableSawRH,blocks,Workstation,Table Saw,"テーブルソー"
+tableSawRHDesc,blocks,Workstation,"Create furniture, advanced shapes and decorations for your base.","拠点をよりよくするための、家具や高度な形状のブロック、装飾品などを作成できます。"
+tableSawRHSchematic,blocks,Workstation,Table Saw Schematic,"テーブルソーの設計図"
+tableSawBladeRH,items,Item,Saw Blade,"のこぎりの刃"
+tableSawBladeRHDesc,items,Item,A sharp blade from a table saw. You can use this later on to make your own table saw.,"テーブルソーの鋭利な刃。これを使ってテーブルソーを作ることがでます。"

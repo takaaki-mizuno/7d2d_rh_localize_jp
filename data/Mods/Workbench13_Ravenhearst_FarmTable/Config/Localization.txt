@@ -1,4 +1,4 @@
-﻿Key,Source,Context,English
-farmTableRH,blocks,Workstation,Farming Table,,,,,
-farmTableRHDesc,blocks,Workstation,"Your farming table will make fertilizer and seeds.",,,,,
-farmTableRHSchematic,blocks,Workstation,Farming Table Schematic,,,,,
+﻿Key,Source,Context,English,Japanese
+farmTableRH,blocks,Workstation,Farming Table,"農業用テーブル"
+farmTableRHDesc,blocks,Workstation,"Your farming table will make fertilizer and seeds.","農業用テーブルでは肥料や種を作ることができます"
+farmTableRHSchematic,blocks,Workstation,Farming Table Schematic,"農業用テーブルの設計図"

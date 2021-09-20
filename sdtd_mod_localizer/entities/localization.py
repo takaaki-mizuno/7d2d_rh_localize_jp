@@ -16,6 +16,8 @@ class Localization(object):
 
     def _parse_file(self):
         raw_text = self._path.read_text(encoding="utf-8")
+        if raw_text[0] == '\ufeff':
+            raw_text = raw_text[1:]
         text_lines = raw_text.split("\n")
         if len(text_lines) <= 1:
             self._is_localization_file = False

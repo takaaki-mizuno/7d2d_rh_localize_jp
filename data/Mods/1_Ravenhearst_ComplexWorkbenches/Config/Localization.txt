@@ -1,9 +1,9 @@
-﻿Key,Source,Context,English
-resourceForgingPlateRH,items,Item,Forging Plate,,,,,
-resourceForgingPlateRHDesc,items,Item,"Heated plate that allows for smelting. A part used in a forge.",,,,,
-resourceForgingTunnelRH,items,Item,Casting Tunnel,,,,,
-resourceForgingTunnelRHDesc,items,Item,"Allow hot metals to be poured. A part used in a forge.",,,,,
-toolBunsenBurnerRH,items,Item,Bunsen Burner,,,,,
-toolBunsenBurnerRHDesc,items,Item,"If you wish to mix chemicals you need a strong burner. A part used in a chemistry station.",,,,,
-toolViseRH,items,Item,Vise,,,,,
-toolViseRHDesc,items,Item,"Able to clamp down items so you can get a firm grip, A part used in a workbench.",,,,,
+﻿Key,Source,Context,English,"Japanese"
+resourceForgingPlateRH,items,Item,Forging Plate,"鍛造用プレート"
+resourceForgingPlateRHDesc,items,Item,"Heated plate that allows for smelting. A part used in a forge.","溶解のための加熱用プレート。炉で利用します。"
+resourceForgingTunnelRH,items,Item,Casting Tunnel,"鋳造用トンネル"
+resourceForgingTunnelRHDesc,items,Item,"Allow hot metals to be poured. A part used in a forge.","高温の金属を流し込むためのもの。炉で利用します。"
+toolBunsenBurnerRH,items,Item,Bunsen Burner,"ブンゼンバーナー"
+toolBunsenBurnerRHDesc,items,Item,"If you wish to mix chemicals you need a strong burner. A part used in a chemistry station.","薬品を混ぜるには強力なバーナーが必要です。化学ステーションで利用します。"
+toolViseRH,items,Item,Vise,"万力"
+toolViseRHDesc,items,Item,"Able to clamp down items so you can get a firm grip, A part used in a workbench.","物をしっかりと固定することができます。作業台で利用します。"

@@ -165,35 +165,35 @@ q_AutomaticsClass2_description,Quest,Quest Info,"Use the required weapon listed 
 q_AutomaticsClass2_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ArcheryClass0a,Quest,Quest Info,Archery Training,,,,,
+q_ArcheryClass0a,Quest,Quest Info,Archery Training,,,,,,"弓のトレーニング"
 
-q_ArcheryClass,Quest,Quest Info,Archery Training,,,,,
+q_ArcheryClass,Quest,Quest Info,Archery Training,,,,,,"弓のトレーニング"
 
-q_ArcheryClass0,Quest,Quest Info,"Using Your Archery",,,,,
+q_ArcheryClass0,Quest,Quest Info,"Using Your Archery",,,,,,"弓を使ってみよう"
 q_ArcheryClass0_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ArcheryClass0_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_ArcheryClass0_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ArcheryClass1,Quest,Quest Info,"Using Your Archery",,,,,
+q_ArcheryClass1,Quest,Quest Info,"Using Your Archery",,,,,,"弓を使ってみよう"
 q_ArcheryClass1_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ArcheryClass1_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_ArcheryClass1_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ArcheryClass2,Quest,Quest Info,"Using Your Archery",,,,,
+q_ArcheryClass2,Quest,Quest Info,"Using Your Archery",,,,,,"弓を使ってみよう"
 q_ArcheryClass2_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ArcheryClass2_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_ArcheryClass2_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ArcheryClass3,Quest,Quest Info,"Using Your Archery",,,,,
+q_ArcheryClass3,Quest,Quest Info,"Using Your Archery",,,,,,"弓を使ってみよう"
 q_ArcheryClass3_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ArcheryClass3_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_ArcheryClass3_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"
 
 
-q_ArcheryClass4,Quest,Quest Info,"Using Your Archery",,,,,
+q_ArcheryClass4,Quest,Quest Info,"Using Your Archery",,,,,,"弓を使ってみよう"
 q_ArcheryClass4_offer,Quest,Quest Info,"In order to survive the apocalypse you will need to become familiar with your weapon of choice. Get out there and kill some zombies. When I feel like your training is complete I will reward you with a book that will teach you some exclusive weapons that can be used to survive.",,,,,
 q_ArcheryClass4_description,Quest,Quest Info,"Use the required weapon listed below to kill some zombies. Progressing to the end of this quest line will give you access to further weapons in your specialty.",,,,,
 q_ArcheryClass4_subtitle,Quest,Quest Info,"Kill Zombies",,,,,,"ゾンビをやっつけよう"

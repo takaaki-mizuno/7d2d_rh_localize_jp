@@ -1,5 +1,5 @@
 ﻿Key,Source,Context,English,Japanese
-q_SurvivalJournalRH,Quest,Quest Info,Survival Journal,"生存日誌"
+q_SurvivalJournalRH,Quest,Quest Info,Survival Journal,"サバイバル日誌"
 
 q_SurvivalJournal1RH,Quest,Quest Info,Creating a Journal,"日誌を作成"
 q_SurvivalJournal1RH_subtitle,Quest,Quest Info,Creating a Journal,"日誌を作成"
@@ -117,96 +117,96 @@ q_journalStations2aRH_offer,Quest,Quest Info,"Creating a blank mold will allow y
 
 q_journalStations3RH,Quest,Quest Info,Craft a Table Saw,"テーブルソーをクラフトする"
 q_journalStations3RH_subtitle,Quest,Quest Info,Craft a Table Saw,"テーブルソーをクラフトする"
-q_journalStations3RH_description,Quest,Quest Info,"A table saw is mandatory for crafting wood planks which is used in many recipes. You can also use it to create new storage and decorative items. They can be found in many garages and homes under construction. Find a table saw and look at the recipes. Once you have done this wrench the table saw and receive a saw blade. You will be rewarded the ability to create your own table saw.",
-q_journalStations3RH_offer,Quest,Quest Info,"A table saw is mandatory for crafting wood planks which is used in many recipes. You can also use it to create new storage and decorative items. They can be found in many garages and homes under construction. Find a table saw and look at the recipes. Once you have done this wrench the table saw and receive a saw blade. You will be rewarded the ability to create your own table saw.",
+q_journalStations3RH_description,Quest,Quest Info,"A table saw is mandatory for crafting wood planks which is used in many recipes. You can also use it to create new storage and decorative items. They can be found in many garages and homes under construction. Find a table saw and look at the recipes. Once you have done this wrench the table saw and receive a saw blade. You will be rewarded the ability to create your own table saw.","多くのレシピに使われる木板を工作するには、テーブルソーが必須です。また、新しい収納や装飾品を作るのにも使えます。テーブルソーは多くのガレージや建築中の家で見つけることができます。テーブルソーを見つけて、レシピを見てみましょう。レンチでテーブルソーを分解すると、ノコギリの刃がもらえます。その刃を使ってテーブルソーを作ることができます。"
+q_journalStations3RH_offer,Quest,Quest Info,"A table saw is mandatory for crafting wood planks which is used in many recipes. You can also use it to create new storage and decorative items. They can be found in many garages and homes under construction. Find a table saw and look at the recipes. Once you have done this wrench the table saw and receive a saw blade. You will be rewarded the ability to create your own table saw.","多くのレシピに使われる木板を工作するには、テーブルソーが必須です。また、新しい収納や装飾品を作るのにも使えます。テーブルソーは多くのガレージや建築中の家で見つけることができます。テーブルソーを見つけて、レシピを見てみましょう。レンチでテーブルソーを分解すると、ノコギリの刃がもらえます。その刃を使ってテーブルソーを作ることができます。"
 
-q_journalStations4RH,Quest,Quest Info,Craft a Workbench,
-q_journalStations4RH_subtitle,Quest,Quest Info,Craft a Workbench,
-q_journalStations4RH_description,Quest,Quest Info,"A workbench not only can craft items from you personal bench but it is used to craft more complex recipes.",
-q_journalStations4RH_offer,Quest,Quest Info,"A workbench not only can craft items from you personal bench but it is used to craft more complex recipes.",
+q_journalStations4RH,Quest,Quest Info,Craft a Workbench,"作業台をクラフトする"
+q_journalStations4RH_subtitle,Quest,Quest Info,Craft a Workbench,"作業台をクラフトする"
+q_journalStations4RH_description,Quest,Quest Info,"A workbench not only can craft items from you personal bench but it is used to craft more complex recipes.","作業台は、個人用作業台のようなアイテムを作るだけでなく、より複雑なレシピを作ることもできます。"
+q_journalStations4RH_offer,Quest,Quest Info,"A workbench not only can craft items from you personal bench but it is used to craft more complex recipes.","作業台は、個人用作業台のようなアイテムを作るだけでなく、より複雑なレシピを作ることもできます。"
 
 q_journalStations5RH,Quest,Quest Info,Craft an Armor Bench,"防具作業台をクラフトする"
 q_journalStations5RH_subtitle,Quest,Quest Info,Craft an Armor Bench,"防具作業台をクラフトする"
-q_journalStations5RH_description,Quest,Quest Info,"An Armor Bench is crucial to crafting better armor and clothing.",
-q_journalStations5RH_offer,Quest,Quest Info,"An Armor Bench is crucial to crafting better armor and clothing.",
+q_journalStations5RH_description,Quest,Quest Info,"An Armor Bench is crucial to crafting better armor and clothing.","防具作業台は、より良い防具や衣服を作るのに欠かせません。"
+q_journalStations5RH_offer,Quest,Quest Info,"An Armor Bench is crucial to crafting better armor and clothing.","防具作業台は、より良い防具や衣服を作るのに欠かせません。"
 
-q_journalStations5aRH,Quest,Quest Info,Craft a Chemistry Station,"科学ステーションをクラフトする"
-q_journalStations5aRH_subtitle,Quest,Quest Info,Craft a Chemistry Station,"科学ステーションをクラフトする"
-q_journalStations5aRH_description,Quest,Quest Info,"The chemistry station is the epicenter of being able to stay alive. From gas production to healing items and antibiotics, no one should be without one.",
-q_journalStations5aRH_offer,Quest,Quest Info,"The chemistry station is the epicenter of being able to stay alive. From gas production to healing items and antibiotics, no one should be without one.",
+q_journalStations5aRH,Quest,Quest Info,Craft a Chemistry Station,"化学ステーションをクラフトする"
+q_journalStations5aRH_subtitle,Quest,Quest Info,Craft a Chemistry Station,"化学ステーションをクラフトする"
+q_journalStations5aRH_description,Quest,Quest Info,"The chemistry station is the epicenter of being able to stay alive. From gas production to healing items and antibiotics, no one should be without one.","化学リーステーションは、生き延びるための重要な装置です。ガソリンから、治療用アイテムや抗生物質まで作ることができ、誰もが1つは持っていたいものです。"
+q_journalStations5aRH_offer,Quest,Quest Info,"The chemistry station is the epicenter of being able to stay alive. From gas production to healing items and antibiotics, no one should be without one.","化学リーステーションは、生き延びるための重要な装置です。ガソリンから、治療用アイテムや抗生物質まで作ることができ、誰もが1つは持っていたいものです。"
 
 q_journalStations6RH,Quest,Quest Info,Craft a Blacksmith Forge,"鍛冶屋の炉をクラフトする"
 q_journalStations6RH_subtitle,Quest,Quest Info,Craft a Blacksmith Forge,"鍛冶屋の炉をクラフトする"
-q_journalStations6RH_description,Quest,Quest Info,"A Blacksmith Forge unlocks access to more forged recipes like Steel.",
-q_journalStations6RH_offer,Quest,Quest Info,"A Blacksmith Forge unlocks access to more forged recipes like Steel.",
+q_journalStations6RH_description,Quest,Quest Info,"A Blacksmith Forge unlocks access to more forged recipes like Steel.","鍛冶屋の炉を利用すると、鍛鋼などのより多くの鍛造レシピを利用できます。"
+q_journalStations6RH_offer,Quest,Quest Info,"A Blacksmith Forge unlocks access to more forged recipes like Steel.","鍛冶屋の炉を利用すると、鍛鋼などのより多くの鍛造レシピピを利用できます。"
 
 q_journalFoodRH,Quest,Quest Info,Cooking in the Wastelands,"ウエイストランドでの料理"
 
-q_journalFood1RH,Quest,Quest Info,Fry Some Insects,"虫を揚げる"
-q_journalFood1RH_description,Quest,Quest Info,"Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will reduce the chance of illness and will offer a small boost in health as well.",
-q_journalFood1RH_subtitle,Quest,Quest Info,Fry Some Insects,"虫を揚げる"
-q_journalFood1RH_offer,Quest,Quest Info,"Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will guarantee no illness and will offer a small boost in health as well.",
+q_journalFood1RH,Quest,Quest Info,Fry Some Insects,"昆虫を揚げる"
+q_journalFood1RH_description,Quest,Quest Info,"Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will reduce the chance of illness and will offer a small boost in health as well.","いざというときに食べ物が必要になることはよくありますよね。草を叩くと昆虫を捕まることができます。昆虫はそのまま食べてもいいし、集めたものを缶や瓶に入れて焚き火で炒めることもできるのです。炒めると食料としての効果は少し減りますが、病気になる可能性が減り、少し健康になることもできます。"
+q_journalFood1RH_subtitle,Quest,Quest Info,Fry Some Insects,"昆虫を揚げる"
+q_journalFood1RH_offer,Quest,Quest Info,"Often you will find yourself needing food in a pinch. Punching grass will sometimes yield you insects. These can be eaten as is for a small food boost or you can take your collection and a can or jar and fry them in a campfire. Frying them reduces their food benefit slightly but will guarantee no illness and will offer a small boost in health as well.","いざというときに食べ物が必要になることはよくありますよね。草を叩くと昆虫を捕まることができます。昆虫はそのまま食べてもいいし、集めたものを缶や瓶に入れて焚き火で炒めることもできるのです。炒めると食料としての効果は少し減りますが、病気になる可能性が減り、少し健康になることもできます。"
 
-q_journalFood2RH,Quest,Quest Info,Catch More Insects,
-q_journalFood2RH_description,Quest,Quest Info,"Now that you have tasted those buggy little morsels I know you can not get enough of it. An alternate to punching grass is leaving out insect traps using honey or beer. Try it. Craft a Beer Trap and some refill for it and place it. You can use the refill on the trap to upgrade it after you have taken the insects you caught.",
-q_journalFood2RH_subtitle,Quest,Quest Info,Catch More Insects,
-q_journalFood2RH_offer,Quest,Quest Info,"Now that you have tasted those buggy little morsels I know you can not get enough of it. An alternate to punching grass is leaving out insect traps using honey or beer. Try it. Craft a Beer Trap and some refill for it and place it. You can use the refill on the trap to upgrade it after you have taken the insects you caught.",
+q_journalFood2RH,Quest,Quest Info,Catch More Insects,"昆虫をもっと捕まえる"
+q_journalFood2RH_description,Quest,Quest Info,"Now that you have tasted those buggy little morsels I know you can not get enough of it. An alternate to punching grass is leaving out insect traps using honey or beer. Try it. Craft a Beer Trap and some refill for it and place it. You can use the refill on the trap to upgrade it after you have taken the insects you caught.","虫の味を知ってしまったからには、もう満足できないでしょう。草をパンチしつづける代わりに、ハチミツやビールを使った捕虫器を置いておくのもいいでしょう。ためしてみましょう。ビールトラップを作り、それ用のリフィルを作って置きます。捕まえた虫を取った後には、トラップの詰め替え液を使ってアップグレードすることができます。"
+q_journalFood2RH_subtitle,Quest,Quest Info,Catch More Insects,"昆虫をもっと捕まえる"
+q_journalFood2RH_offer,Quest,Quest Info,"Now that you have tasted those buggy little morsels I know you can not get enough of it. An alternate to punching grass is leaving out insect traps using honey or beer. Try it. Craft a Beer Trap and some refill for it and place it. You can use the refill on the trap to upgrade it after you have taken the insects you caught.","虫の味を知ってしまったからには、もう満足できないでしょう。草をパンチしつづける代わりに、ハチミツやビールを使った捕虫器を置いておくのもいいでしょう。ためしてみましょう。ビールトラップを作り、それ用のリフィルを作って置きます。捕まえた虫を取った後には、トラップの詰め替え液を使ってアップグレードすることができます。"
 
-q_journalFood3RH,Quest,Quest Info,Craft Some Survival Mix,
+q_journalFood3RH,Quest,Quest Info,Craft Some Survival Mix,"サバイバルミックスをクラフトする"
 q_journalFood3RH_description,Quest,Quest Info,"Aside from making jerky in a rack, another way you can make nature work for you is by collecting 5 of any seed type from trees and combining them with blueberries to make survival mix. Make some survival mix now.",
-q_journalFood3RH_subtitle,Quest,Quest Info,Craft Some Survival Mix,
-q_journalFood3RH_offer,Quest,Quest Info,"Aside from making jerky in a rack, another way you can make nature work for you is by collecting 5 of any seed type from trees and combining them with blueberries to make survival mix. Make some survival mix now.",
+q_journalFood3RH_subtitle,Quest,Quest Info,Craft Some Survival Mix,"サバイバルミックスをクラフトする","鞣し台でジャーキーを作る以外にも、自然を利用した方法として、木から好きな種類の種を5個集めて、ブルーベリーと組み合わせてサバイバルミックスを作ることができます。今すぐサバイバルミックスを作ってみましょう。"
+q_journalFood3RH_offer,Quest,Quest Info,"Aside from making jerky in a rack, another way you can make nature work for you is by collecting 5 of any seed type from trees and combining them with blueberries to make survival mix. Make some survival mix now.","サバイバルミックスをクラフトする","鞣し台でジャーキーを作る以外にも、自然を利用した方法として、木から好きな種類の種を5個集めて、ブルーベリーと組み合わせてサバイバルミックスを作ることができます。今すぐサバイバルミックスを作ってみましょう。"
 
-q_journalFood4RH,Quest,Quest Info,Spear Some Fish,
-q_journalFood4RH_description,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Spear and find a body of water. Left Click on the water with the spear until you see a fish icon. You will have a short period of time to right click the fish off of your spear, placing a bucket in your inventory. Place the bucket on the ground then use a knife on the bucket to see if you caught anything!",
-q_journalFood4RH_subtitle,Quest,Quest Info,Spear Some Fish,
-q_journalFood4RH_offer,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Spear and find a body of water. Left Click on the water with the spear until you see a fish icon. You will have a short period of time to right click the fish off of your spear, placing a bucket in your inventory. Place the bucket on the ground then use a knife on the bucket to see if you caught anything!",
+q_journalFood4RH,Quest,Quest Info,Spear Some Fish,"魚を銛で捕まえる"
+q_journalFood4RH_description,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Spear and find a body of water. Left Click on the water with the spear until you see a fish icon. You will have a short period of time to right click the fish off of your spear, placing a bucket in your inventory. Place the bucket on the ground then use a knife on the bucket to see if you caught anything!","釣りはサバイバルに非常に重要です。シャベルで土を掘るとミミズを捕まえることができるので、銛を作り、水辺を見つけます。魚のアイコンが表示されるまで、銛で水辺を左クリックします。そしてすぐに魚を右クリックして槍から離し、インベントリにバケツを置きます。なにか捕まえられたらバケツを地面に置き、ナイフでバケツを叩いて、何が釣れたのかを確認してください。"
+q_journalFood4RH_subtitle,Quest,Quest Info,Spear Some Fish,"魚を銛で捕まえる"
+q_journalFood4RH_offer,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Spear and find a body of water. Left Click on the water with the spear until you see a fish icon. You will have a short period of time to right click the fish off of your spear, placing a bucket in your inventory. Place the bucket on the ground then use a knife on the bucket to see if you caught anything!","釣りはサバイバルに非常に重要です。シャベルで土を掘るとミミズを捕まえることができるので、銛を作り、水辺を見つけます。魚のアイコンが表示されるまで、銛で水辺を左クリックします。そしてすぐに魚を右クリックして槍から離し、インベントリにバケツを置きます。なにか捕まえられたらバケツを地面に置き、ナイフでバケツを叩いて、何が釣れたのかを確認してください。"
 
-q_journalFood5RH,Quest,Quest Info,Use A Fishing Rod,
-q_journalFood5RH_description,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Rod and find a body of water. Right Click on the water with the pole until you see a fish icon. With the full rod in your hand right click the ground in front of you. It will place a bucket. Use a knife on the bucket to see if you caught anything!",
-q_journalFood5RH_subtitle,Quest,Quest Info,Use A Fishing Rod,
-q_journalFood5RH_offer,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Rod and find a body of water. Right Click on the water with the pole until you see a fish icon. With the full rod in your hand right click the ground in front of you. It will place a bucket. Use a knife on the bucket to see if you caught anything!",
+q_journalFood5RH,Quest,Quest Info,Use A Fishing Rod,"釣り竿を使ってみる"
+q_journalFood5RH_description,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Rod and find a body of water. Right Click on the water with the pole until you see a fish icon. With the full rod in your hand right click the ground in front of you. It will place a bucket. Use a knife on the bucket to see if you caught anything!","釣りはサバイバルに非常に重要です。シャベルで土を掘るとミミズを捕まえることができるので、釣竿を作り、水辺を見つけましょう。魚のアイコンが表示されるまで、釣り竿を持って水の上で右クリックします。釣竿を手にした状態で、目の前の地面を右クリックすると、バケツが置かれます。なにか捕まえられたらナイフでバケツを叩いて、何が釣れたのかを確認してください。"
+q_journalFood5RH_subtitle,Quest,Quest Info,Use A Fishing Rod,"釣り竿を使ってみる"
+q_journalFood5RH_offer,Quest,Quest Info,"Fishing is extremely important to survival. You can dig up some worms by using a shovel on dirt. Craft a Fishing Rod and find a body of water. Right Click on the water with the pole until you see a fish icon. With the full rod in your hand right click the ground in front of you. It will place a bucket. Use a knife on the bucket to see if you caught anything!","釣りはサバイバルに非常に重要です。シャベルで土を掘るとミミズを捕まえることができるので、釣竿を作り、水辺を見つけましょう。魚のアイコンが表示されるまで、釣り竿を持って水の上で右クリックします。釣竿を手にした状態で、目の前の地面を右クリックすると、バケツが置かれます。なにか捕まえられたらナイフでバケツを叩いて、何が釣れたのかを確認してください。"
 
-q_journalAdditonalFood1RH,Quest,Quest Info,Additional Food: Rain Collector,
-q_journalAdditonalFood1RH_description,Quest,Quest Info,"Water is vital to survival but you won't always have running water or a water source. The rain collector is a great way to catch water for use in the filtration unit. Using some tarps you can upgrade an empty rain collector. In a few hours it should yield various water for you to collect. The process can be repeated by using more tarps.",
-q_journalAdditonalFood1RH_subtitle,Quest,Quest Info,Additional Food: Rain Collector,
-q_journalAdditonalFood1RH_offer,Quest,Quest Info,"Water is vital to survival but you won't always have running water or a water source. The rain collector is a great way to catch water for use in the filtration unit. Using some tarps you can upgrade an empty rain collector. In a few hours it should yield various water for you to collect. The process can be repeated by using more tarps.",
+q_journalAdditonalFood1RH,Quest,Quest Info,Additional Food: Rain Collector,"さらなる食料: 雨水集水器"
+q_journalAdditonalFood1RH_description,Quest,Quest Info,"Water is vital to survival but you won't always have running water or a water source. The rain collector is a great way to catch water for use in the filtration unit. Using some tarps you can upgrade an empty rain collector. In a few hours it should yield various water for you to collect. The process can be repeated by using more tarps.","サバイバルには水が欠かせませんが、常に水道や水源があるわけではありません。雨水集水器は、ろ過装置に使用する水を採取するのに最適な方法です。タープを使えば、空の雨水採取器をアップグレードすることができます。数時間後には、さまざまな水を集めることができます。このプロセスは、さらに防水シートを使って繰り返すことができます。"
+q_journalAdditonalFood1RH_subtitle,Quest,Quest Info,Additional Food: Rain Collector,"さらなる食料: 雨水集水器"
+q_journalAdditonalFood1RH_offer,Quest,Quest Info,"Water is vital to survival but you won't always have running water or a water source. The rain collector is a great way to catch water for use in the filtration unit. Using some tarps you can upgrade an empty rain collector. In a few hours it should yield various water for you to collect. The process can be repeated by using more tarps.","サバイバルには水が欠かせませんが、常に水道や水源があるわけではありません。雨水集水器は、ろ過装置に使用する水を採取するのに最適な方法です。タープを使えば、空の雨水採取器をアップグレードすることができます。数時間後には、さまざまな水を集めることができます。このプロセスは、さらに防水シートを使って繰り返すことができます。"
 
-q_journalAdditonalFood2RH,Quest,Quest Info,Additional Food: Bee Hives,
-q_journalAdditonalFood2RH_description,Quest,Quest Info,"Honey is a leading source of both food recipes and infection cures. You can start a bee hive by collecting bees and using them to upgrade a beehive. After some time has passed you will be able to collect honeycombs from it. This process can be repeated with more bees.",
-q_journalAdditonalFood2RH_subtitle,Quest,Quest Info,Additional Food: Bee Hives,
-q_journalAdditonalFood2RH_offer,Quest,Quest Info,"Honey is a leading source of both food recipes and infection cures. You can start a bee hive by collecting bees and using them to upgrade a beehive. After some time has passed you will be able to collect honeycombs from it. This process can be repeated with more bees.",
+q_journalAdditonalFood2RH,Quest,Quest Info,Additional Food: Bee Hives,"さらなる食料: 蜂の巣箱"
+q_journalAdditonalFood2RH_description,Quest,Quest Info,"Honey is a leading source of both food recipes and infection cures. You can start a bee hive by collecting bees and using them to upgrade a beehive. After some time has passed you will be able to collect honeycombs from it. This process can be repeated with more bees.","蜂蜜は、料理のレシピと感染症の治療法の両方を提供する素晴らしい食材です。蜂の巣箱を作り、蜜蜂を集めてアップグレードすることで養蜂を始めることができます。しばらくすると、蜂の巣箱からは蜂蜜の塊を採取できるようになります。このプロセスは、さらに蜜蜂を使って繰り返すことができます。"
+q_journalAdditonalFood2RH_subtitle,Quest,Quest Info,Additional Food: Bee Hives,"さらなる食料: 蜂の巣箱"
+q_journalAdditonalFood2RH_offer,Quest,Quest Info,"Honey is a leading source of both food recipes and infection cures. You can start a bee hive by collecting bees and using them to upgrade a beehive. After some time has passed you will be able to collect honeycombs from it. This process can be repeated with more bees.","蜂蜜は、料理のレシピと感染症の治療法の両方を提供する素晴らしい食材です。蜂の巣箱を作り、蜜蜂を集めてアップグレードすることで養蜂を始めることができます。しばらくすると、蜂の巣箱からは蜂蜜の塊を採取できるようになります。このプロセスは、さらに蜜蜂を使って繰り返すことができます。"
 
-q_journalAdditonalFood3RH,Quest,Quest Info,Additional Food: Microwaves,
-q_journalAdditonalFood3RH_description,Quest,Quest Info,"There are lots of cans you can collect in the world. Finding a working microwave in the world is the best use of these cans. You can take a few cans and turn them into a nutritious filling meal. Find a microwave and bring it back home by destroying microwaves you find in houses. Be careful though, you may not always receive a working one on your first try.",
-q_journalAdditonalFood3RH_subtitle,Quest,Quest Info,Additional Food: Microwaves,
-q_journalAdditonalFood3RH_offer,Quest,Quest Info,"There are lots of cans you can collect in the world. Finding a working microwave in the world is the best use of these cans. You can take a few cans and turn them into a nutritious filling meal. Find a microwave and bring it back home by destroying microwaves you find in houses. Be careful though, you may not always receive a working one on your first try.",
+q_journalAdditonalFood3RH,Quest,Quest Info,Additional Food: Microwaves,"さらなる食料: 電子レンジ"
+q_journalAdditonalFood3RH_description,Quest,Quest Info,"There are lots of cans you can collect in the world. Finding a working microwave in the world is the best use of these cans. You can take a few cans and turn them into a nutritious filling meal. Find a microwave and bring it back home by destroying microwaves you find in houses. Be careful though, you may not always receive a working one on your first try.","世の中には様々な缶詰があります。使える電子レンジを見つけることが、これらの缶詰の最も有効な利用法です。缶詰をいくつか使えば、栄養たっぷりのお腹いっぱいになる食事を作ることができます。電子レンジを見つけたら、破壊して家に持ち帰りましょう。ただし、最初の挑戦で使えるものが手に入るとは限らないので注意が必要です。"
+q_journalAdditonalFood3RH_subtitle,Quest,Quest Info,Additional Food: Microwaves,"さらなる食料: 電子レンジ"
+q_journalAdditonalFood3RH_offer,Quest,Quest Info,"There are lots of cans you can collect in the world. Finding a working microwave in the world is the best use of these cans. You can take a few cans and turn them into a nutritious filling meal. Find a microwave and bring it back home by destroying microwaves you find in houses. Be careful though, you may not always receive a working one on your first try.","世の中には様々な缶詰があります。使える電子レンジを見つけることが、これらの缶詰の最も有効な利用法です。缶詰をいくつか使えば、栄養たっぷりのお腹いっぱいになる食事を作ることができます。電子レンジを見つけたら、破壊して家に持ち帰りましょう。ただし、最初の挑戦で使えるものが手に入るとは限らないので注意が必要です。"
 
-q_journalAdditonalFood4RH,Quest,Quest Info,Additional Food: Food Sealer,
-q_journalAdditonalFood4RH_description,Quest,Quest Info,"As you know by now food in the world spoils. You can preserve some meat and veggies by finding a working sealer in the world. To take one home destroy it. You may not always get a working one on your first try. Loot cling wrap to use with meat and veggies in your new sealer and food will no longer spoil until you are ready to use it.",
-q_journalAdditonalFood4RH_subtitle,Quest,Quest Info,Additional Food: Food Sealer,
-q_journalAdditonalFood4RH_offer,Quest,Quest Info,"As you know by now food in the world spoils. You can preserve some meat and veggies by finding a working sealer in the world. To take one home destroy it. You may not always get a working one on your first try. Loot cling wrap to use with meat and veggies in your new sealer and food will no longer spoil until you are ready to use it.",
+q_journalAdditonalFood4RH,Quest,Quest Info,Additional Food: Food Sealer,"さらなる食料: フードシーラー"
+q_journalAdditonalFood4RH_description,Quest,Quest Info,"As you know by now food in the world spoils. You can preserve some meat and veggies by finding a working sealer in the world. To take one home destroy it. You may not always get a working one on your first try. Loot cling wrap to use with meat and veggies in your new sealer and food will no longer spoil until you are ready to use it.","ご存知のように、食べ物は時間が経つと腐ります。壊れていないシーラーを見つければ、肉や野菜を保存することができます。見つけたら叩いて手に入れ、家に持ち帰りましょう。最初の挑戦で使えるものが手に入るとは限りません。新しいシーラーと、肉や野菜を入れるためのラップを手に入れれば、使用するまで食品が腐ることはありません。"
+q_journalAdditonalFood4RH_subtitle,Quest,Quest Info,Additional Food: Food Sealer,"さらなる食料: フードシーラー"
+q_journalAdditonalFood4RH_offer,Quest,Quest Info,"As you know by now food in the world spoils. You can preserve some meat and veggies by finding a working sealer in the world. To take one home destroy it. You may not always get a working one on your first try. Loot cling wrap to use with meat and veggies in your new sealer and food will no longer spoil until you are ready to use it.","ご存知のように、食べ物は時間が経つと腐ります。壊れていないシーラーを見つければ、肉や野菜を保存することができます。見つけたら叩いて手に入れ、家に持ち帰りましょう。最初の挑戦で使えるものが手に入るとは限りません。新しいシーラーと、肉や野菜を入れるためのラップを手に入れれば、使用するまで食品が腐ることはありません。"
 
-q_journalCoverRH,Items,Item,Empty Survival Journal,
-q_journalCoverRHDesc,Items,Item,A binder to hold all of your notes on survival in the apocalypse. You'll need something to write with to start the journal. When you finish a questline you will receive a completed chapter. Hold on to these! You will need them to craft the completed journal later on.,
-questItemInkPenRH,Items,Item,Ink Pen,
-questItemInkPenRHDesc,Items,Item,This ink pen is nearly dry. You'll have to be careful how you use it.,
-questItemJournalRH,Items,Item,Survival Journal,
-questItemJournalRHDesc,Items,Item,"The journal is now ready to be written in. As you craft your chapters you'll receive quest lines from them. When you finish a quest line you will receive completed chapters. Hold on to these along with this book to craft your completed journal later on.",
-journalFoodRH,Items,Item,Food Chapter,
-journalFoodRHDesc,Items,Item,"With all of the restaurants closed, it's time to start improvising new things to eat. This bug has to be... nutritious, right?",
-journalStationsRH,Items,Item,Workstation Chapter,
-journalStationsRHDesc,Items,Item,"A simple worktable will do to start, but there has to be other options.",
-journalFarmingRH,Items,Item,Farming Chapter,
-journalFarmingRHDesc,Items,Item,"Farming will be a task in itself. Let's see if we can find some seeds to start us off." ,
-journalAdvancedSurvivalRH,Items,Item,Advanced Survival Chapter,
-journalAdvancedSurvivalRHDesc,Items,Item,"There are quite a few new ways to survive in this world. I should write them all down." ,
-resourceCompletedChaptersRH,Items,Item,Completed Journal Chapter,
-resourceCompletedChaptersRHDesc,Items,Item,This is a completed journal chapter. Hold on to this. It will be needed to complete the final step of the journal questline.,
-completeJournalRH,Items,Item,Completed Journal,
-completeJournalRHDesc,Items,Item,You have travelled a long road prospect. Your training is now complete. Enjoy these gifts I leave to you. You can take this book and scrap it for a nice boost in your knowledge.,
+q_journalCoverRH,Items,Item,Empty Survival Journal,"サバイバル日誌"
+q_journalCoverRHDesc,Items,Item,A binder to hold all of your notes on survival in the apocalypse. You'll need something to write with to start the journal. When you finish a questline you will receive a completed chapter. Hold on to these! You will need them to craft the completed journal later on.,"アポカリプスでのサバイバルに関するメモをまとめておくためのバインダーです。日誌を書き始めるには、何か書くものが必要です。クエストラインを終了すると、完成した章を受け取ることができます。これをなくさないようにしてください。後日、完成したジャーナルを作成する際に必要となります。"
+questItemInkPenRH,Items,Item,Ink Pen,"インクペン"
+questItemInkPenRHDesc,Items,Item,This ink pen is nearly dry. You'll have to be careful how you use it.,"このインクペンはほぼ乾いています。使う際には注意が必要ですね。"
+questItemJournalRH,Items,Item,Survival Journal,"サバイバル日誌"
+questItemJournalRHDesc,Items,Item,"The journal is now ready to be written in. As you craft your chapters you'll receive quest lines from them. When you finish a quest line you will receive completed chapters. Hold on to these along with this book to craft your completed journal later on.","これで日記が書けるようになりました。章を作成すると、その章からクエストラインを受け取ることができます。クエストラインを終えると、完成した章を受け取ることができます。それらの章とこの本を一緒に保管しておくと、後で完成した日誌を作ることができます。"
+journalFoodRH,Items,Item,Food Chapter,"食べ物の章"
+journalFoodRHDesc,Items,Item,"With all of the restaurants closed, it's time to start improvising new things to eat. This bug has to be... nutritious, right?", "レストランはすべて閉店中なので、間に合せの新しい料理作ることにしました。この虫は......栄養があるはずですよね？"
+journalStationsRH,Items,Item,Workstation Chapter,"作業台の章"
+journalStationsRHDesc,Items,Item,"A simple worktable will do to start, but there has to be other options.","最初はシンプルなワークテーブルでも良いと思いますが、他にも選択肢があるはずです。"
+journalFarmingRH,Items,Item,Farming Chapter,"農業の章"
+journalFarmingRHDesc,Items,Item,"Farming will be a task in itself. Let's see if we can find some seeds to start us off.","農作業はそれだけで大変な仕事です。まずは種を探しましょう。"
+journalAdvancedSurvivalRH,Items,Item,Advanced Survival Chapter,"高度なサバイバル技術の章"
+journalAdvancedSurvivalRHDesc,Items,Item,"There are quite a few new ways to survive in this world. I should write them all down.","この世界で生き残るための方法はほかにも数多くあります。新しいアイデアを書き留めておきましょう。"
+resourceCompletedChaptersRH,Items,Item,Completed Journal Chapter,"完成した日誌の章"
+resourceCompletedChaptersRHDesc,Items,Item,This is a completed journal chapter. Hold on to this. It will be needed to complete the final step of the journal questline.,"これは完成した日誌の章です。大事に保管しておきましょう。日誌のクエストラインの最後のステップをクリアするために必要になります。"
+completeJournalRH,Items,Item,Completed Journal,"完成した日誌"
+completeJournalRHDesc,Items,Item,You have travelled a long road prospect. Your training is now complete. Enjoy these gifts I leave to you. You can take this book and scrap it for a nice boost in your knowledge.,"あなたは長い道のりを歩んできました。トレーニングはこれで完了です。私からの贈り物を楽しんでください。この本をスクラップしておけば、あなたの知識が素敵にアップしますよ。"
 
-resourceChaptersRH,Items,Item,Journal Chapters,
-resourceChaptersRHDesc,Items,Item,"You've split the journal into chapters that correspond to different specialties. You may be able to make more if you can find a research table.",
+resourceChaptersRH,Items,Item,Journal Chapters,"日誌の章"
+resourceChaptersRHDesc,Items,Item,"You've split the journal into chapters that correspond to different specialties. You may be able to make more if you can find a research table.","日誌を各専門分野に対応した章に分けていますね。研究用デスクが見つかればもっと充実させられるかもしれません。"
 
 

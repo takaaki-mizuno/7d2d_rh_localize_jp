@@ -1,22 +1,22 @@
-Key,File,Type,english
-animalFox,entityclasses,Entity,Fox
-animalRobin,entityclasses,Entity,Robin
-animalCrow,entityclasses,Entity,Crow
-animalEagle,entityclasses,Entity,Eagle
-animalAlcatraz,entityclasses,Entity,Alcatraz
-animalBloatfly,entityclasses,Entity,Bloatfly
-animalGuppyInsect,entityclasses,Entity,Giant Bee
-animalPug,entityclasses,Entity,Pug
-animalBeagle,entityclasses,Entity,Beagle
-animalBat,entityclasses,Entity,Bat
-animalBats,entityclasses,Entity,Bats
-animalGoat,entityclasses,Entity,Goat
-animalWolfhound,entityclasses,Entity,Hound
-animalWulf,entityclasses,Entity,White Wolf
-animalBanditWolf,entityclasses,Entity,Bandit Wolf
-animalSpider01,entityclasses,Entity,Young Spider
-animalSpider02,entityclasses,Entity,Spider
-animalSpider03,entityclasses,Entity,Hunter Spider
+Key,File,Type,english,Japanese
+animalFox,entityclasses,Entity,Fox,"キツネ"
+animalRobin,entityclasses,Entity,Robin,"コマドリ"
+animalCrow,entityclasses,Entity,Crow,"カラス"
+animalEagle,entityclasses,Entity,Eagle,"ワシ"
+animalAlcatraz,entityclasses,Entity,Alcatraz,"アルカトラズ"
+animalBloatfly,entityclasses,Entity,Bloatfly,"クロバエ"
+animalGuppyInsect,entityclasses,Entity,Giant Bee,"巨大バチ"
+animalPug,entityclasses,Entity,Pug,"パグ"
+animalBeagle,entityclasses,Entity,Beagle,"ビーグル"
+animalBat,entityclasses,Entity,Bat,"コウモリ"
+animalBats,entityclasses,Entity,Bats,"コウモリ
+animalGoat,entityclasses,Entity,Goat,"ヤギ"
+animalWolfhound,entityclasses,Entity,Hound,"ハウンド"
+animalWulf,entityclasses,Entity,White Wolf,"白狼"
+animalBanditWolf,entityclasses,Entity,Bandit Wolf,"バンディットウルフ"
+animalSpider01,entityclasses,Entity,Young Spider,"若い蜘蛛"
+animalSpider02,entityclasses,Entity,Spider,"蜘蛛"
+animalSpider03,entityclasses,Entity,Hunter Spider,"ハンタースパイダー"
 animalSnowSwarm_X,entityclasses,Entity,Snow Swarm
 animalSnowTornado_X,entityclasses,Entity,Snow Tornado
 animalBloodFlySwarm_X,entityclasses,Entity,Blood Swarm

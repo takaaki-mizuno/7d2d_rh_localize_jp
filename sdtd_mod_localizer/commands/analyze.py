@@ -1,15 +1,22 @@
-from typing import List, Tuple
+from typing import List, Optional, Tuple
 
 from ..entities import Localization
 from .command import Command
+from pathlib import Path
 
 
 class Analyze(Command):
     def execute(self, arguments: List[str]):
-        self.analyze_localization_result()
+        if len(arguments) == 0:
+            path = self.get_data_path()
+        else:
+            path = self.get_path_from_arguments(arguments)
 
-    def analyze_localization_result(self):
-        data_path = self.get_data_path()
+        if path is not None:
+            self.analyze_localization_result(path)
+
+    def analyze_localization_result(self, data_path: Path):
+
         total_english = 0
         total_japanese = 0
         for file in data_path.glob("**/Localization.txt"):

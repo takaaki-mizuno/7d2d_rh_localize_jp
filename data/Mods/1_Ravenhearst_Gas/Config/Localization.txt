@@ -1,10 +1,10 @@
-﻿Key,Source,Context,English
-cntGasPumpReadyRH,blocks,Container,Gas Pump (Full),Pompe Ã  essence,ZapfsÃ¤ule,,Bomba de gasolina,
-emptyGasCanRH,items,Item,Gas Can (Empty),,,,,
-emptyGasCanRHDesc,items,Item,Empty gas cans can be brought to a gas pump and filled by right clicking on the pump. In a few hours you will receive filled gas cans by looting the filled pump.,,,,,
-cntGasPumpFillingRH,blocks,Block,Gas Pump (Filling),,,,,
-cntGasPumpFillingDesc,blocks,Block,Gas Pump Is Currently Filling,,,,,
-cntGasPumpEmptyRH,blocks,Block,Gas Pump (Empty),,,,,
-cntGasPumpEmptyDesc,blocks,Block,Right Click With 50 Empty Gas Cans To Initiate Filling,,,,,
-cntGasPumpBrokenRH,blocks,Block,Broken Gas Pump,,,,,
-cntGasPumpBrokenRHDesc,blocks,Block,This Pump Is Broken And Can Not Be Used,,,,,
+﻿Key,Source,Context,English,Japanese
+cntGasPumpReadyRH,blocks,Container,Gas Pump (Full),"ガソリンポンプ（充填済み）"
+emptyGasCanRH,items,Item,Gas Can (Empty),"ガソリン缶（空）"
+emptyGasCanRHDesc,items,Item,Empty gas cans can be brought to a gas pump and filled by right clicking on the pump. In a few hours you will receive filled gas cans by looting the filled pump.,"空のガス缶はガスポンプに持って行き、ポンプを右クリックしてセットすることができます。数時間後、充填されたポンプを取り出すことで、充填されたガソリン缶を手に入れることができます"
+cntGasPumpFillingRH,blocks,Block,Gas Pump (Filling),"ガソリンポンプ（充填中）"
+cntGasPumpFillingDesc,blocks,Block,Gas Pump Is Currently Filling,"このガソリンポンプは現在ガソリンを充填中です"
+cntGasPumpEmptyRH,blocks,Block,Gas Pump (Empty),"ガソリンポンプ（空）"
+cntGasPumpEmptyDesc,blocks,Block,Right Click With 50 Empty Gas Cans To Initiate Filling,"空のガソリン缶50個を右クリックでセットすることで充填を開始できます"
+cntGasPumpBrokenRH,blocks,Block,Broken Gas Pump,"ガソリンポンプ"
+cntGasPumpBrokenRHDesc,blocks,Block,This Pump Is Broken And Can Not Be Used,"このポンプは壊れており、利用できません"
