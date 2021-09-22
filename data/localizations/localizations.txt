@@ -651,8 +651,8 @@
 "Set Starting Patrol Point","",entitycommand_SetPatrol
 "Please Patrol this area.","",entitycommand_Patrol
 "Please Join me (Hire)","",entitycommand_Hire
-"Chicken","",animalChickens
-"Rabbit","",animalRabbits
+"Chicken","鶏",animalChickens
+"Rabbit","ウサギ",animalRabbits
 "Pet Boar","",PetBoar,PetBoar1
 "Pet Rabbit","",PetRabbit
 "Pet Stag","",PetStag,PetStag1
@@ -789,9 +789,9 @@
 "Basic Survival 2/14","サバイバルの基本 2/14",quest_BasicSurvival1b
 "Basic Survival 3/14","サバイバルの基本 3/14",quest_BasicSurvival1c
 "Basic Survival 6/14","サバイバルの基本 6/14",quest_BasicSurvival2a
-"Basic Survival 7/14","Basic Survival 7/14",quest_BasicSurvival2b,quest_BasicSurvival5
+"Basic Survival 7/14","サバイバルの基本 7/14",quest_BasicSurvival2b,quest_BasicSurvival5
 "Basic Survival 11/14","サバイバルの基本 11/14",quest_BasicSurvival6a
-"Basic Survival 8/14","Basic Survival 8/14",quest_BasicSurvival6c,quest_BasicSurvival6
+"Basic Survival 8/14","サバイバルの基本 8/14",quest_BasicSurvival6c,quest_BasicSurvival6
 "Basic Survival 13/14","サバイバルの基本 13/14",quest_BasicSurvival6d
 "Fiber Cordage","繊維ロープ",resourceFiberCordageRH
 "Cordage can be used to bind together primitive items.","ロープは素材を組み合わせるために利用できます",resourceFiberCordageRHDesc
@@ -942,16 +942,16 @@
 "Using Your Automatic","自動小銃を使ってみよう",q_AutomaticsClass0,q_AutomaticsClass1,q_AutomaticsClass2
 "Archery Training","弓のトレーニング",q_ArcheryClass0a,q_ArcheryClass
 "Using Your Archery","弓を使ってみよう",q_ArcheryClass0,q_ArcheryClass1,q_ArcheryClass2,q_ArcheryClass3,q_ArcheryClass4
-"Blunt Weapons Training","",q_BluntClass0a,q_BluntClass
-"Using Your Blunt Weapon","",q_BluntClass0,q_BluntClass1,q_BluntClass2,q_BluntClass3,q_BluntClass4
-"Bladed Weapons Training","",q_BladeClass0a,q_BladeClass
-"Using Your Blade Weapon","",q_BladeClass0,q_BladeClass1,q_BladeClass2,q_BladeClass3
-"Javelin Weapons Training","",q_JavelinClass0a,q_JavelinClass
-"Using Your Javelin Weapon","",q_JavelinClass0,q_JavelinClass1,q_JavelinClass2,q_JavelinClass3
+"Blunt Weapons Training","鈍器のトレーニング",q_BluntClass0a,q_BluntClass
+"Using Your Blunt Weapon","鈍器を使ってみよう",q_BluntClass0,q_BluntClass1,q_BluntClass2,q_BluntClass3,q_BluntClass4
+"Bladed Weapons Training","刃物武器のトレーニング",q_BladeClass0a,q_BladeClass
+"Using Your Blade Weapon","刃物武器を使ってみよう",q_BladeClass0,q_BladeClass1,q_BladeClass2,q_BladeClass3
+"Javelin Weapons Training","槍武器のトレーニング",q_JavelinClass0a,q_JavelinClass
+"Using Your Javelin Weapon","槍武器を使ってみよう",q_JavelinClass0,q_JavelinClass1,q_JavelinClass2,q_JavelinClass3
 "Brawler Weapons Training","",q_BrawlerClass0a,q_BrawlerClass
 "Using Your Brawler Weapon","",q_BrawlerClass0,q_BrawlerClass1,q_BrawlerClass2,q_BrawlerClass3
-"Sledgehammer Weapons Training","",q_SledgehammerClass0a,q_SledgehammerClass
-"Using Your Sledgehammer Weapon","",q_SledgehammerClass0,q_SledgehammerClass1,q_SledgehammerClass2,q_SledgehammerClass3
+"Sledgehammer Weapons Training","スレッジハンマーのトレーニング",q_SledgehammerClass0a,q_SledgehammerClass
+"Using Your Sledgehammer Weapon","スレッジハンマーを使ってみよう",q_SledgehammerClass0,q_SledgehammerClass1,q_SledgehammerClass2,q_SledgehammerClass3
 "Chef Class","料理人クラス",qChefClass,q_ChefClass0a,q_ChefClass
 "You were a chef in your former life before all of this. Reading this will give you a Cooking Grill, a Cooking Pot, 2 Chili Dogs and 3 Berry Teas along with schematics for both.","あなたはかつては料理人でした。これを読むと、料理用グリル、料理用ポット、チリドッグ2個、ベリー茶3個とその設計図が手に入ります。",qChefClassDesc,qExplosivesClassDesc
 "Miner Class","採掘家クラス",qMinerClass,q_MinerClass0a,q_MinerClass
@@ -962,7 +962,7 @@
 "Medic Class","医療クラス",qMedicClass,q_MedicClass0a,q_MedicClass
 "あなたはかつて救急隊員をしていました。これを読むと、鎮痛剤2つ、添え木1つ、ハーブ系抗生物質2つ、ハーブ系抗生物質と救急用包帯の設計図が手に入ります。","",qMedicClassDesc
 "Farmer Class","農業クラス",qFarmerClass,q_FarmerClass0a,q_FarmerClass
-"You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.","",qFarmerClassDesc
+"You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.","あなたはかつて農家でした。これを読むと、鍬、種パック2個、堆肥5個、農作業用テーブルを手に入れることができます。",qFarmerClassDesc
 "You were a streamer in your former life. Good luck. Kappa. This means you start with nothing and your journey is much more difficult than others.","あなたはかつては放浪者でした。オーケイ、幸運を。つまり、あなたは何もないところからスタートしなければならず、その道のりは他の人よりもはるかに困難なものとなるでしょう。",qHardcoreClassDesc
 "You set out to prove that you can tackle the apocalypse with help from no one. Your only set of skills are your eyes and ears.","あなたは、誰の助けも借りずにこのアポカリプスに立ち向かえることを証明するために出発しました。あなたのスキルは目と耳だけです。",q_HardcoreClass0a_description,q_Class0c_offer
 "Check your inventory. You have been given some items and schematics pertaining to your profession.","インベントリを確認してみましょう。あなたの職業に関連したいくつかのアイテムと設計図が入っています。",q_Class0b_description
@@ -988,20 +988,20 @@
 "If you wish to mix chemicals you need a strong burner. A part used in a chemistry station.","薬品を混ぜるには強力なバーナーが必要です。化学ステーションで利用します。",toolBunsenBurnerRHDesc
 "Vise","万力",toolViseRH
 "Able to clamp down items so you can get a firm grip, A part used in a workbench.","物をしっかりと固定することができます。作業台で利用します。",toolViseRHDesc
-"Crossbow Repeater","",gunBowT3CompoundCrossbowRepeaterRH
-"Crossbow Repeater Schematic","",gunBowT3CompoundCrossbowRepeaterRHSchematic
+"Crossbow Repeater","石弓リピーター",gunBowT3CompoundCrossbowRepeaterRH
+"Crossbow Repeater Schematic","石弓リピーターの設計図",gunBowT3CompoundCrossbowRepeaterRHSchematic
 "Crowbar","",meleeToolSalvageT1Crowbar
 "The best tool for harvesting vehicle parts from wrecks found in the world.\nRepair with an Advanced Repair Kit.","",meleeToolSalvageT1CrowbarDesc,meleeToolSalvageT1CrowbarDesc
 "Great for disassembling mechanical devices like cars, air conditioners and more.\n\nUsing a Crowbar on cars nets you more complex parts.\n\nRepair with a Repair Kit.\nScrap to Iron.","",meleeToolSalvageT2RatchetDesc,meleeToolSalvageT1WrenchDesc
 "Great for disassembling mechanical devices like cars, air conditioners and more.\n\nUsing a Crowbar on cars nets you more complex parts.\n\nRepair with a Repair Kit.\nScrap to Motor Tool Parts.","",meleeToolSalvageT3ImpactDriverDesc
-"Childs Toys","",decoChildsToysRH
-"The sound of the children giggling can still be heard in the whistle of the wind.","",decoChildsToysRHDesc
-"Baby Crib","",decoBabyCribRH
-"What would you put in here?","",decoBabyCribRHDesc
-"Old Vanity (Storage)","",cntOldVanityRH
-"Sitting in front of this please make sure she doesn't catch you looking at her in the mirror. She is very shy.","",cntOldVanityRHDesc
-"Weathered Bed","",decoNewBed01RH
-"Someone probably died in this. But sleep is sleep!","",decoNewBed01RHDesc
+"Childs Toys","子供の玩具",decoChildsToysRH
+"The sound of the children giggling can still be heard in the whistle of the wind.","子供たちの笑い声が、今でも風の音の中に聞こえてくるようです。",decoChildsToysRHDesc
+"Baby Crib","ベビーベッド",decoBabyCribRH
+"What would you put in here?","この中になにを入れたいですか？",decoBabyCribRHDesc
+"Old Vanity (Storage)","古い洗面台（ストレージ）",cntOldVanityRH
+"Sitting in front of this please make sure she doesn't catch you looking at her in the mirror. She is very shy.","この前に座って、鏡を見ているところを彼女に見られないようにしてください。彼女はとても恥ずかしがり屋なのです。",cntOldVanityRHDesc
+"Weathered Bed","風雨にさらされたベッド",decoNewBed01RH
+"Someone probably died in this. But sleep is sleep!","ここでで誰か死んだんだのでしょう。でも寝ることはできますよ。",decoNewBed01RHDesc
 "Jack in the Box","",decoJackintheBoxRH
 "Round and round the handle goes what pops forth no one knows.","",decoJackintheBoxRHDesc
 "Medieval Rug 1","",medievalRug01RH
@@ -1013,7 +1013,7 @@
 "Area Rug 3","",areaRug03RH
 "Rugs and Carpets Block","",carpetBlockVariantHelperRH
 "Rugs and Carpets Schematic","",carpetRHSchematic
-"Vase","",decoNewVase01RH
+"Vase","花瓶",decoNewVase01RH
 "Urn","",decoNewVase02RH
 "Weathered Park Bench","",decoNewParkBench01RH
 "Caskets Schematic","",coffinsRHSchematic
@@ -1021,69 +1021,69 @@
 "Casket Block","",casketBlockVariantHelperRH
 "= Casket = Random Helper","",cntCasketHelperRH
 "Casket (Storage)","",cntStorageCasket01RH,cntStorageCasket02RH,cntStorageCasket03RH
-"Tombstones Schematic","",tombstonesRHSchematic
-"Tombstone 01","",tombStone01RH
-"Tombstone 02","",tombStone02RH
-"Tombstone 03","",tombStone03RH
-"Tombstone 04","",tombStone04RH
-"Tombstone 05","",tombStone05RH
-"Tombstone Block","",tombStoneBlockVariantHelperRH
-"Weathered Tombstone 01","",guppyNewGravestone01RH
-"Weathered Tombstone 02","",guppyNewGravestone02RH
-"Weathered Tombstone 03","",guppyNewGravestone04RH
-"Weathered Tombstone 04","",guppyNewGravestone05RH
+"Tombstones Schematic","墓石の設計図",tombstonesRHSchematic
+"Tombstone 01","墓石 01",tombStone01RH
+"Tombstone 02","墓石 02",tombStone02RH
+"Tombstone 03","墓石 03",tombStone03RH
+"Tombstone 04","墓石 04",tombStone04RH
+"Tombstone 05","墓石 05",tombStone05RH
+"Tombstone Block","墓石ブロック",tombStoneBlockVariantHelperRH
+"Weathered Tombstone 01","風雨にさらされた墓石 01",guppyNewGravestone01RH
+"Weathered Tombstone 02","風雨にさらされた墓石 02",guppyNewGravestone02RH
+"Weathered Tombstone 03","風雨にさらされた墓石 03",guppyNewGravestone04RH
+"Weathered Tombstone 04","風雨にさらされた墓石 04",guppyNewGravestone05RH
 "Mourn your lost loved ones or celebrate the peace and quiet.","",urnDesc
-"Cathedral Pulpit","",decoNewPulpit01RH
-"Church Schematic","",churchRHSchematic
+"Cathedral Pulpit","大聖堂の説教壇",decoNewPulpit01RH
+"Church Schematic","教会の設計図",churchRHSchematic
 "Dinosaur Exhibit","",dinoReward1RH
 "Weather Vane","",decoWeatherVaneRH
 "Primitive Bench","",decoParkBenchNaturalRH
 "Large Target","",decoLargeTargetRH,decoLargeTargetRH
 "Watering Can","",decoWateringCanRH
 "Roulette Table","",decoRouletteTableRH
-"Blackjack Table","",decoBlackjackTableRH
+"Blackjack Table","ブラックジャックテーブル",decoBlackjackTableRH
 "Step right up everyone and take a game of chance with Mikes Casino! Never mind the tokens and cards in the back pocket of our dealer Dan.","",casinoDesc
 "Liquor Bottles Standing","",decoMixedBottlesRH
 "Liquor Bottles Mixed Few","",decoMixedBottles1RH
 "Liquor Bottles Mixed Many","",decoMixedBottles2RH
 "= Liquor Bottles = Random Helper","",decoMixedBottlesHelperRH
-"Wine Bottle","",decoBottleRH
-"Bottle Container","",decoBottlesContainerRH
+"Wine Bottle","ワインボトル",decoBottleRH
+"Bottle Container","ボトルコンテナ",decoBottlesContainerRH
 "Garage Shelf (Storage)","",cntGarageShelfFullRH
 "Old Toolbox (Storage)","",cntOldToolboxRH,cntOldToolboxInsecuredRH,cntOldToolboxSecuredRH
 "This rusty toolbox has seen better days but can hold a quite a few tools.","",cntOldToolboxRHDesc
-"Jax O' Lantern (Blue)","",jackOLanternBlueRH
-"Jax O' Lantern (Green)","",jackOLanternGreenRH
-"Jax O' Lantern (Red)","",jackOLanternRedRH
-"Classic Kitchen Chair","",decoClassicKitchenChairRH
-"Folding Chair","",decoMetalChairRH
+"Jax O' Lantern (Blue)","ジャック・オー・ランタン（青）",jackOLanternBlueRH
+"Jax O' Lantern (Green)","ジャック・オー・ランタン（緑）",jackOLanternGreenRH
+"Jax O' Lantern (Red)","ジャック・オー・ランタン（赤）",jackOLanternRedRH
+"Classic Kitchen Chair","古風なキッチンチェア",decoClassicKitchenChairRH
+"Folding Chair","折りたたみ椅子",decoMetalChairRH
 "First Aid Kit (Storage)","",cntFirstAidCaseRH
-"Recycle Bin","",cntRecycleBinEmptyRH
-"Recycle Bin (Storage)","",cntRecycleBinFullRH
+"Recycle Bin","リサイクルゴミ箱",cntRecycleBinEmptyRH
+"Recycle Bin (Storage)","リサイクルゴミ箱（ストレージ）",cntRecycleBinFullRH
 "This new dish that I learned to whip up thanks to Lector's Guide to Happy Eats should please my dinner guests. Now to find a bottle of nice Chianti","",brainsRHDesc
 "Serving of Brains","",brainsRH
-"Retro Refrigerator (1970)","",cntRetroFridge01RH
-"Retro Refrigerator (1950)","",cntRetroFridge02RH
-"Retro Oven","",cntStoveOldVer01RH
+"Retro Refrigerator (1970)","旧式冷蔵庫（1970年代）",cntRetroFridge01RH
+"Retro Refrigerator (1950)","旧式冷蔵庫（1950年代）",cntRetroFridge02RH
+"Retro Oven","旧式オーブン",cntStoveOldVer01RH
 "Old Armchair","",decoOldArmchairRH
 "Classic Couch","",decoClassicCouchRH
 "Classic Lounge Chair","",decoClassicChairRH
 "Victorian Clock","",decoVictorianClockRH
 "Victorian Couch 01","",decoVictorianCouch1RH
 "Victorian Couch 02","",decoVictorianCouch2RH
-"1980s Atari","",deco80sAtariRH
+"1980s Atari","1980年代のアタリゲーム機",deco80sAtariRH
 "Fun for the entire family. As long as you are not the one holding controller 2.","",80sAtariDesc
-"1980s Computer","",deco80sComputerRH
-"Where it all started for you. Does it have Pong?","",80sComputerDesc
-"1980s VCR","",deco80sVCRRH
+"1980s Computer","1980年代のコンピュータ",deco80sComputerRH
+"Where it all started for you. Does it have Pong?","すべてのはじまり。Pongは入っているでしょうか？",80sComputerDesc
+"1980s VCR","1980年代のVCR",deco80sVCRRH
 "Kick back and enjoy your 9th viewing of Re-Animator. Dont forget to be kind and rewind!","",80sVCRDesc
-"Police Badge 1","",policeBadge1RH
-"Police Badge 2","",policeBadge2RH
-"Sheriff Badge 1","",sheriffBadge1RH
-"Sheriff Badge 2","",sheriffBadge2RH
-"Sheriff Badge 3","",sheriffBadge3RH
+"Police Badge 1","警察バッジ 1",policeBadge1RH
+"Police Badge 2","警察バッジ 2",policeBadge2RH
+"Sheriff Badge 1","保安官バッジ 1",sheriffBadge1RH
+"Sheriff Badge 2","保安官バッジ 2",sheriffBadge2RH
+"Sheriff Badge 3","保安官バッジ 3",sheriffBadge3RH
 "Police Locker","",policeLockerRH
-"Statue Schematic","",statueRHSchematic
+"Statue Schematic","彫像の設計図",statueRHSchematic
 "Gothic Statue 1","",statue01RH
 "Gothic Statue 2","",statue02RH
 "Gothic Statue 3","",statue03RH
@@ -1091,13 +1091,13 @@
 "Gothic Statue 5","",statue05RH
 "Gothic Statue 6","",statue06RH
 "Gothic Statue 7","",statue07RH
-"Lion Statue","",lionStatueRH
+"Lion Statue","ライオンの像",lionStatueRH
 "Gothic Statues Block","",statueBlockVariantHelperRH
 "Floor Model TV","",tv70LargePrefabRH
 "Retro Television","",tvFloorLargePrefabRH
 "TV with Stand","",tvStandPrefabRH
 "Television Block","",tvBlockVariantHelperRH
-"TV Schematic","",tvRHSchematic
+"TV Schematic","テレビの設計図",tvRHSchematic
 "This can be used to practice your aim. Just dont shit your pants when the real thing comes at you.","",decoLargeTargetRHDesc
 "Decorating Table Schematic","",decorTableRHSchematic
 "Decorating Table","",decorTableRH,decorTableRHTip_title
@@ -1115,38 +1115,38 @@
 "Technology Block","",Expanded_Technology
 "Pedestal Sink","",wallHungSink
 "Crush","",lblContextActionCrush
-"[A6A09E]Iron[-]","",lbliron
-"[EDD079]Brass[-]","",lblbrass
-"[AEACA8]Lead[-]","",lbllead
-"[E5EDEC]Glass[-]","",lblglass
-"[BBC2CB]Stone[-]","",lblstone
-"[B8C5BE]Clay[-]","",lblclay
-"[E89267]Copper[-]","",lblcopper
-"[B3B6BB]Zinc[-]","",lblzinc
-"Copper","",forgeInputCopper,resourceCopper
-"Zinc","",forgeInputZinc,resourceZinc
-"[E89267]Carbon[-]","",lblcarbon
-"[B3B6BB]Aluminum[-]","",lblaluminum
-"Carbon","",forgeInputCarbon,resourceCarbon
-"Aluminum","",forgeInputAluminum,resourceAluminum
-"[E89267]Chromium[-]","",lblchromium
-"[B3B6BB]Tungsten[-]","",lbltungsten
-"Chromium","",forgeInputChromium,resourceChromium
-"Tungsten","",forgeInputTungsten,resourceTungsten
-"Copper Ore","",terrOreCopper
-"Zinc Ore","",terrOreZinc
+"[A6A09E]Iron[-]","[A6A09E]鉄[-]",lbliron
+"[EDD079]Brass[-]","[EDD079]真鍮[-]",lblbrass
+"[AEACA8]Lead[-]","[AEACA8]鉛[-]",lbllead
+"[E5EDEC]Glass[-]","[E5EDEC]ガラス[-]",lblglass
+"[BBC2CB]Stone[-]","[BBC2CB]石[-]",lblstone
+"[B8C5BE]Clay[-]","[B8C5BE]粘土[-]",lblclay
+"[E89267]Copper[-]","[E89267]銅[-]",lblcopper
+"[B3B6BB]Zinc[-]","[B3B6BB]亜鉛[-]",lblzinc
+"Copper","銅",forgeInputCopper,resourceCopper
+"Zinc","亜鉛",forgeInputZinc,resourceZinc
+"[E89267]Carbon[-]","[E89267]カーボン[-]",lblcarbon
+"[B3B6BB]Aluminum[-]","[B3B6BB]アルミ[-]",lblaluminum
+"Carbon","カーボン",forgeInputCarbon,resourceCarbon
+"Aluminum","アルミ",forgeInputAluminum,resourceAluminum
+"[E89267]Chromium[-]","[E89267]クロム[-]",lblchromium
+"[B3B6BB]Tungsten[-]","[B3B6BB]タングステン[-]",lbltungsten
+"Chromium","クロム",forgeInputChromium,resourceChromium
+"Tungsten","タングステン",forgeInputTungsten,resourceTungsten
+"Copper Ore","銅鉱石",terrOreCopper
+"Zinc Ore","亜鉛鉱石",terrOreZinc
 "= Copper Vein = Helper","",terrOreStoneCopperRandom
 "Copper / Stone / Sandstone","",terrOreStoneCopperRandomDesc
 "Carbon Ore","",terrOreCarbon
 "= Carbon Vein = Helper","",terrOreStoneCarbonRandom
 "Carbon / Stone / Sandstone","",terrOreStoneCarbonRandomDesc
-"Chromium Ore","",terrOreChromium
+"Chromium Ore","クロム鉱石",terrOreChromium
 "= Chromium Vein = Helper","",terrOreStoneChromiumRandom
 "Chromium / Stone / Sandstone","",terrOreStoneChromiumRandomDesc
-"Aluminum Ore","",terrOreAluminum
+"Aluminum Ore","アルミ鉱石",terrOreAluminum
 "= Aluminum Vein = Helper","",terrOreStoneAluminumRandom
 "Aluminum / Stone / Sandstone","",terrOreStoneAluminumRandomDesc
-"Tungsten Ore","",terrOreTungsten
+"Tungsten Ore","タングステン鉱石",terrOreTungsten
 "= Tungsten Vein = Helper","",terrOreStoneTungstenRandom
 "Tungsten / Stone / Sandstone","",terrOreStoneTungstenRandomDesc
 "= Zinc Vein = Helper","",terrOreStoneZincRandom
@@ -1161,10 +1161,10 @@
 "Copper is a metal that can be combined with zinc in a forge to produce brass.  As a fantastic conductor of heat, it's often found in air conditioning parts, plumbing, electrical components, and various appliances.","",resourceCopperDesc
 "Zinc is a metal that can be combined with copper in a forge to produce brass.  As galvanized protection against rusting metals, it's often found in air conditioning parts, vehicles, chainlink fences, washing machines, and street lights.","",resourceZincDesc
 "Silver Ore","",terrOreSilver
-"Gold Ore","",terrOreGold
-"Diamond Ore","",terrOreDiamond
-"Limestone","",resourceLimestoneRH
-"Limestone can be found mining underground and is used in the production of concrete.","",resourceLimestoneRHDesc
+"Gold Ore","金鉱石",terrOreGold
+"Diamond Ore","ダイアモンド鉱石",terrOreDiamond
+"Limestone","石灰石",resourceLimestoneRH
+"Limestone can be found mining underground and is used in the production of concrete.","石灰石は地下に埋まっており、コンクリートの原料となります。",resourceLimestoneRHDesc
 "Carbon is a metal used in the process of making steel.","",resourceCarbonDesc
 "Aluminum is the third tier of hard metal after steel. It can be used to reinforce tools and weapons to perform better.","",resourceAluminumDesc
 "Chromium is an ore used to make chrome. Chrome is the fourth tier of metal and strengthens your tools, weapons and arrows.","",resourceChromiumDesc
@@ -1175,16 +1175,16 @@
 "Scrap Copper","",resourceScrapCopper
 "Scrap Zinc","",resourceScrapZinc
 "Scrap Tungsten","",resourceScrapTungsten
-"Aluminum Fireaxe","",meleeToolAxeT3AluminumAxe
-"Chrome Fireaxe","",meleeToolAxeT4ChromeAxe
-"Tungsten Fireaxe","",meleeToolAxeT5TungstenAxe
-"Aluminum Pickaxe","",meleeToolPickT3AluminumPickaxe
-"Chrome Pickaxe","",meleeToolPickT4ChromePickaxe
-"Tungsten Pickaxe","",meleeToolPickT5TungstenPickaxe
-"Chrome Club","",meleeWpnClubT4ChromeClub
-"Tungsten Club","",meleeWpnClubT5TungstenClub
-"Tungsten Machete","",meleeWpnBladeT5TungstenMachete
-"Chrome Machete","",meleeWpnBladeT4ChromeMachete
+"Aluminum Fireaxe","アルミ製消防用斧",meleeToolAxeT3AluminumAxe
+"Chrome Fireaxe","クロム製消防用斧",meleeToolAxeT4ChromeAxe
+"Tungsten Fireaxe","タングステン製消防用斧",meleeToolAxeT5TungstenAxe
+"Aluminum Pickaxe","アルミ製つるはし",meleeToolPickT3AluminumPickaxe
+"Chrome Pickaxe","クロム製つるはし",meleeToolPickT4ChromePickaxe
+"Tungsten Pickaxe","タングステン製つるはし",meleeToolPickT5TungstenPickaxe
+"Chrome Club","クロム製棍棒",meleeWpnClubT4ChromeClub
+"Tungsten Club","タングステン製棍棒",meleeWpnClubT5TungstenClub
+"Tungsten Machete","タングステン製マチェーテ",meleeWpnBladeT5TungstenMachete
+"Chrome Machete","クロム製マチェーテ",meleeWpnBladeT4ChromeMachete
 "Swings heavier but does way more damage.\nRepair with High End Repair Kit.","",meleeToolAxeT3AluminumAxeDesc
 "Swings heavier but does way more damage.\nRepair with Top Tier Repair Kit.","",meleeToolAxeT4ChromeAxeDesc,meleeWpnClubT4ChromeClubDesc,meleeWpnBladeT4ChromeMacheteDesc
 "Swings heavier but does way more damage.\nRepair with Legendary Repair Kit.","",meleeToolAxeT5TungstenAxeDesc,meleeWpnClubT5TungstenClubDesc,meleeWpnBladeT5TungstenMacheteDesc
@@ -1222,35 +1222,35 @@
 "Wheat (Growing)","",plantedWheat2RH,plantedWheat2RHDesc
 "Wheat Plant 3 (POI)","",plantedWheat3HarvestRH,plantedWheat3HarvestFertilizedRH
 "Wheat Plant","",plantedWheat3HarvestRHDesc,plantedWheat3HarvestPlayerRHDesc,plantedWheat3HarvestPlayerRH
-"Lettuce (Seed)","",plantedLettuce1RH
-"Lettuce (Growing)","",plantedLettuce2RH
-"Lettuce Plant 3 (POI)","",plantedLettuce3HarvestRH,plantedLettuce3HarvestFertilizedRH
-"Lettuce Plant","",plantedLettuce3HarvestRHDesc,plantedLettuce3HarvestPlayerRHDesc,plantedLettuce3HarvestPlayerRH
-"Tomato (Seed)","",plantedTomato1RH
-"Tomato (Growing)","",plantedTomato2RH
-"Tomato Plant 3 (POI)","",plantedTomato3HarvestRH,plantedTomato3HarvestFertilizedRH
-"Tomato Plant","",plantedTomato3HarvestRHDesc,plantedTomato3HarvestPlayerRHDesc,plantedTomato3HarvestPlayerRH
-"Carrot (Seed)","",plantedCarrot1RH
-"Carrot (Growing)","",plantedCarrot2RH
-"Carrot Plant 3 (POI)","",plantedCarrot3HarvestRH,plantedCarrot3HarvestFertilizedRH
-"Carrot Plant","",plantedCarrot3HarvestRHDesc,plantedCarrot3HarvestPlayerRHDesc,plantedCarrot3HarvestPlayerRH
-"Cabbage (Seed)","",plantedCabbage1RH
-"Cabbage (Growing)","",plantedCabbage2RH
-"Cabbage Plant 3 (POI)","",plantedCabbage3HarvestRH,plantedCabbage3HarvestFertilizedRH
-"Cabbage Plant","",plantedCabbage3HarvestRHDesc,plantedCabbage3HarvestPlayerRHDesc,plantedCabbage3HarvestPlayerRH
-"Cucumber (Seed)","",plantedCucumber1RH
-"Cucumber (Growing)","",plantedCucumber2RH
-"Cucumber Plant 3 (POI)","",plantedCucumber3HarvestRH,plantedCucumber3HarvestFertilizedRH
-"Cucumber Plant","",plantedCucumber3HarvestRHDesc,plantedCucumber3HarvestPlayerRHDesc,plantedCucumber3HarvestPlayerRH
-"Onion (Seed)","",plantedOnion1RH
-"Plant onion seeds in fertile dirt to grow onion plants.","",plantedOnion1RHDesc
-"Onion (Growing)","",plantedOnion2RH
-"Onion Plant 3 (POI)","",plantedOnion3HarvestRH,plantedOnion3HarvestFertilizedRH
-"Onion Plant","",plantedOnion3HarvestRHDesc,plantedOnion3HarvestPlayerRHDesc,plantedOnion3HarvestPlayerRH
-"Marijuana (Seed)","",plantedMarijuana1RH
-"Marijuana (Growing)","",plantedMarijuana2RH
-"Marijuana Plant 3 (POI)","",plantedMarijuana3HarvestRH
-"Marijuana Plant","",plantedMarijuana3HarvestRHDesc,plantedMarijuana3HarvestPlayerRHDesc,plantedMarijuana3HarvestPlayerRH
+"Lettuce (Seed)","レタス（種）",plantedLettuce1RH
+"Lettuce (Growing)","レタス（生育中）",plantedLettuce2RH
+"Lettuce Plant 3 (POI)","レタスの苗 3（POI）",plantedLettuce3HarvestRH,plantedLettuce3HarvestFertilizedRH
+"Lettuce Plant","レタスの苗",plantedLettuce3HarvestRHDesc,plantedLettuce3HarvestPlayerRHDesc,plantedLettuce3HarvestPlayerRH
+"Tomato (Seed)","トマト（種）",plantedTomato1RH
+"Tomato (Growing)","トマト（生育中）",plantedTomato2RH
+"Tomato Plant 3 (POI)","トマトの苗 3（POI）",plantedTomato3HarvestRH,plantedTomato3HarvestFertilizedRH
+"Tomato Plant","トマトの苗",plantedTomato3HarvestRHDesc,plantedTomato3HarvestPlayerRHDesc,plantedTomato3HarvestPlayerRH
+"Carrot (Seed)","人参（種）",plantedCarrot1RH
+"Carrot (Growing)","人参（生育中）",plantedCarrot2RH
+"Carrot Plant 3 (POI)","人参の苗 3（POI）",plantedCarrot3HarvestRH,plantedCarrot3HarvestFertilizedRH
+"Carrot Plant","人参の苗",plantedCarrot3HarvestRHDesc,plantedCarrot3HarvestPlayerRHDesc,plantedCarrot3HarvestPlayerRH
+"Cabbage (Seed)","キャベツ（種）",plantedCabbage1RH
+"Cabbage (Growing)","キャベツ（生育中）",plantedCabbage2RH
+"Cabbage Plant 3 (POI)","キャベツの苗 3（POI）",plantedCabbage3HarvestRH,plantedCabbage3HarvestFertilizedRH
+"Cabbage Plant","キャベツの苗",plantedCabbage3HarvestRHDesc,plantedCabbage3HarvestPlayerRHDesc,plantedCabbage3HarvestPlayerRH
+"Cucumber (Seed)","きゅうり（種）",plantedCucumber1RH
+"Cucumber (Growing)","きゅうり（生育中）",plantedCucumber2RH
+"Cucumber Plant 3 (POI)","きゅうりの苗 3（POI）",plantedCucumber3HarvestRH,plantedCucumber3HarvestFertilizedRH
+"Cucumber Plant","きゅうりの苗",plantedCucumber3HarvestRHDesc,plantedCucumber3HarvestPlayerRHDesc,plantedCucumber3HarvestPlayerRH
+"Onion (Seed)","玉ねぎ（種）",plantedOnion1RH
+"Plant onion seeds in fertile dirt to grow onion plants.","タマネギの種を肥えた土に植えると、タマネギの苗が育ちます。",plantedOnion1RHDesc
+"Onion (Growing)","玉ねぎ（生育中）",plantedOnion2RH
+"Onion Plant 3 (POI)","玉ねぎの苗 3（POI）",plantedOnion3HarvestRH,plantedOnion3HarvestFertilizedRH
+"Onion Plant","玉ねぎの苗",plantedOnion3HarvestRHDesc,plantedOnion3HarvestPlayerRHDesc,plantedOnion3HarvestPlayerRH
+"Marijuana (Seed)","マリファナ（種）",plantedMarijuana1RH
+"Marijuana (Growing)","マリファナ（生育中）",plantedMarijuana2RH
+"Marijuana Plant 3 (POI)","マリファナの苗 3（POI）",plantedMarijuana3HarvestRH
+"Marijuana Plant","マリファナの苗",plantedMarijuana3HarvestRHDesc,plantedMarijuana3HarvestPlayerRHDesc,plantedMarijuana3HarvestPlayerRH
 "Strawberry (Seed)","",plantedStrawberry1RH
 "Plant strawberry seeds in fertile dirt to grow strawberry plants.","",plantedStrawberry1RHDesc
 "Strawberry (Growing)","",plantedStrawberry2RH
@@ -1260,20 +1260,20 @@
 "Strawberry can be eaten or turned into strawberry seeds.","",foodCropStrawberryRHDesc
 "Wheat","",foodCropWheatRH
 "Wheat can be eaten or turned into wheat seeds.","",foodCropWheatRHDesc
-"Lettuce","",foodCropLettuceRH
-"Lettuce can be eaten or turned into lettuce seeds.","",foodCropLettuceRHDesc
-"Tomato","",foodCropTomatoRH
-"Tomato can be eaten or turned into tomato seeds.","",foodCropTomatoRHDesc
-"Cabbage","",foodCropCabbageRH
+"Lettuce","レタス",foodCropLettuceRH
+"Lettuce can be eaten or turned into lettuce seeds.","レタスは食べることもできるし、レタスの種にもなります。",foodCropLettuceRHDesc
+"Tomato","トマト",foodCropTomatoRH
+"Tomato can be eaten or turned into tomato seeds.","トマトは食べることもできるし、トマトの種にもなります。",foodCropTomatoRHDesc
+"Cabbage","キャベツ",foodCropCabbageRH
 "Cabbage can be eaten or turned into cabbage seeds.","",foodCropCabbageRHDesc
-"Carrot","",foodCropCarrotRH
+"Carrot","人参",foodCropCarrotRH
 "Carrot can be eaten or turned into carrot seeds.","",foodCropCarrotRHDesc
-"Cucumber","",foodCropCucumberRH
+"Cucumber","きゅうり",foodCropCucumberRH
 "Cucumber can be eaten or turned into cucumber seeds.","",foodCropCucumberRHDesc
 "Onion can be eaten or turned into onion seeds.","",foodCropOnionRHDesc
-"Onion","",foodCropOnionRH
-"Hemp","",resourceHempRH
-"Hemp can be used in the making of clothing and paper.","",resourceHempRHDesc
+"Onion","玉ねぎ",foodCropOnionRH
+"Hemp","麻",resourceHempRH
+"Hemp can be used in the making of clothing and paper.","麻は、衣類や紙の原料として使うことができます。",resourceHempRHDesc
 "= Wheat = Random Helper","",plantedWheat3HarvestRandomHelperRH
 "= Carrot = Random Helper","",plantedCarrot3HarvestRandomHelperRH
 "= Cabbage = Random Helper","",plantedCabbage3HarvestRandomHelperRH
@@ -1283,50 +1283,50 @@
 "= Onion = Random Helper","",plantedOnion3HarvestRandomHelperRH
 "= Strawberry = Random Helper","",plantedStrawberry3HarvestRandomHelperRH
 "= Marijuana = Random Helper","",plantedMarijuana3HarvestRandomHelperRH
-"Lettuce (Seed) Recipe","",plantedLettuce1RHSchematic
-"Cucumber (Seed) Recipe","",plantedCucumber1RHSchematic
-"Cabbage (Seed) Recipe","",plantedCabbage1RHSchematic
+"Lettuce (Seed) Recipe","レタス（種）のレシピ",plantedLettuce1RHSchematic
+"Cucumber (Seed) Recipe","きゅうり（種）のレシピ",plantedCucumber1RHSchematic
+"Cabbage (Seed) Recipe","キャベツ（種）のレシピ",plantedCabbage1RHSchematic
 "Wheat (Seed) Recipe","",plantedWheat1RHSchematic
-"Carrot (Seed) Recipe","",plantedCarrot1RHSchematic
-"Tomato (Seed) Recipe","",plantedTomato1RHSchematic
-"Onion (Seed) Recipe","",plantedOnion1RHSchematic
-"Strawberry (Seed) Recipe","",plantedStrawberry1RHSchematic
-"Marijuana (Seed) Recipe","",plantedMarijuana1RHSchematic
-"Fertilizer","",resourceFertilizerRH
+"Carrot (Seed) Recipe","人参（種）のレシピ",plantedCarrot1RHSchematic
+"Tomato (Seed) Recipe","トマト（種）のレシピ",plantedTomato1RHSchematic
+"Onion (Seed) Recipe","玉ねぎ（種）のレシピ",plantedOnion1RHSchematic
+"Strawberry (Seed) Recipe","いちご（種）のレシピ",plantedStrawberry1RHSchematic
+"Marijuana (Seed) Recipe","マリファナ（種）のレシピ",plantedMarijuana1RHSchematic
+"Fertilizer","肥料",resourceFertilizerRH
 "Using ferilizer on planted seeds will yield more crops in return and also will allow an unfertilized seed to be left behind.","",resourceFertilizerRHDesc
-"Strawberry Pie","",foodStrawberryPieRH
-"If there is one thing to be thankful for in the apocalypse, it's strawberry pie.","",foodStrawberryPieRHDesc
-"Strawberry Pie Recipe","",foodStrawberryPieRHSchematic
-"Garden Salad","",foodSaladRH
+"Strawberry Pie","ストロベリーパイ",foodStrawberryPieRH
+"If there is one thing to be thankful for in the apocalypse, it's strawberry pie.","アポカリプスで感謝すべきことがあるとすれば、それはストロベリーパイです。",foodStrawberryPieRHDesc
+"Strawberry Pie Recipe","ストロベリーパイのレシピ",foodStrawberryPieRHSchematic
+"Garden Salad","ガーデンサラダ",foodSaladRH
 "A healthy salad is a good use for those leftover veggies.","",foodSaladRHDesc
 "Shorty Stew","",foodShortyStewRH
 "The perfect stew to keep you warm on a cold apocalyptic day. Just do not add hot sauce.","",foodShortyStewRHDesc
 "Shorty Stew Recipe","",foodShortyStewRHSchematic
-"Flour","",foodFlourRH
+"Flour","小麦粉",foodFlourRH
 "Used for making bread and pies. NOT what you thought it was. Better wipe your nose before the gang suspects something.","",foodFlourRHDesc
-"Bowl of Fruit","",foodBowlFruitRH
+"Bowl of Fruit","フルーツボウル",foodBowlFruitRH
 "Perfect and simple to make and healthy too. A great way to get by if you have some spare fruit laying around.","",foodBowlFruitRHDesc
-"Bowl of Veggies","",foodBowlVeggiesRH
+"Bowl of Veggies","野菜ボウル",foodBowlVeggiesRH
 "Perfect and simple to make and healthy too. A great way to get by if you have some spare veggies laying around.","",foodBowlVeggiesRHDesc
 "Iron Hoe","",meleeToolFarmT1IronHoeRH
 "Indispensable tool for Plowing the land for farming.","",meleeToolFarmT1IronHoeRHDesc
 "Iron Hoe Schematic","",meleeToolFarmT1IronHoeRHSchematic
 "Seeds can be planted on tilled terrain soil. They must be placed next to water to grow. This water will deplete every harvest unless you have an irrigation system. When your plant is ready punch to harvest it. You will then need to plant a new seed.\n\nAs you unlock Living off the Land you will be able to make Farm Plots, which allow underground farming and Irrigation Pipes which allow you to run water from larger bodies of water.","",plantedCropsGroupDesc
-"Seed Pack","",resourceSeedPackRH
+"Seed Pack","種パック",resourceSeedPackRH
 "You can use this seed pack to create a new set of crop seeds that you can use to grow and create better foods.","",resourceSeedPackRHDesc
 "Composter (Collecting)","",trapsComposterFillingRH
 "Composting in Progress","",trapsComposterFillingRHDesc
-"Composter","",trapsEmptyComposterRH
+"Composter","コンポスター",trapsEmptyComposterRH
 "Requires 1 Compost to Begin","",trapsEmptyComposterRHDesc
-"Composter (Full)","",trapsComposterFullRH
+"Composter (Full)","コンポスター（満杯）",trapsComposterFullRH
 "Composting Complete","",trapsComposterFullRHDesc
 "Compost","",resourceCompostRH
 "Compost is used to begin the composting process to make fertilizer in the Composter.","",resourceCompostRHDesc
 "Healthy Turd","",resourceTurdRH
 "Yeah, you're holding it. So now what partner? You could put it back, or you could use it to make some fertilizer. Good luck unloading that backpack later and explaining this to the others.","",resourceTurdRHDesc
-"Live Worm","",foodWormRH
+"Live Worm","生きた線虫",foodWormRH
 "Save these worms to use in your composter.","",foodWormRHDesc
-"Garden Salad Recipe","",foodSaladRHSchematic
+"Garden Salad Recipe","ガーデンサラダのレシピ",foodSaladRHSchematic
 "Potato [a0ff94](Fertilized Seed)[-]","",plantedPotato1FertilizedRH
 "Potato [a0ff94](Fertilized Growing)[-]","",plantedPotato2FertilizedRH,plantedPotato2FertilizedRHDesc
 "Potato Plant 3 (POI)","",plantedPotato3HarvestFertilizedRH
@@ -1469,7 +1469,7 @@
 "Handgun Grip","",partsPistolGripRH
 "Handgun Frame","",partsPistolFrameRH
 ".44 Magnum Frame","",partsMagnumFrameRH
-"Rifle Parts","",partsRiflePartsRH
+"Rifle Parts","ライフルパーツ",partsRiflePartsRH
 "Rifle Barrel","",partsRifleBarrelRH
 "Rifle Stock","",partsRifleStockRH
 "Hunting Rifle Receiver","",partsHuntingRifleReceiverRH
@@ -1505,8 +1505,8 @@
 "Shotgun Parts Schematic","",gunShotgunPartsSchematic
 "Machine Gun Parts Schematic","",gunAutoPartsSchematic
 "Quarantine Sign","",signQuarantineRH
-"Biohazard Sign","",signBiohazardRH
-"Biohazard Sign 2","",signBiohazard2RH
+"Biohazard Sign","バイオハザードの看板",signBiohazardRH
+"Biohazard Sign 2","バイオハザードの看板 2",signBiohazard2RH
 "Fallout Sign","",signFalloutRH
 "Nuclear Sign","",signNuclearRH
 "Quarantine Sign 2","",signQuarantine2RH
@@ -1911,31 +1911,31 @@
 "Old Navezgane Map","",posterNavezganeRH
 "Before the Mist Wars and the fall of mankind Old Navezgane was a nice place to live. Now it is in ruins and crawling with rotters.","",posterNavezganeRHDesc
 "Night of the Living Dead","",posterNOTLDRH
-"Dawn of the Dead","",posterDOTDRH
-"A Nightmare on Elm Street","",posterElmStreetRH
-"Frankenstein","",posterFrankensteinRH
-"Return of the Living Dead","",posterROTLDRH
+"Dawn of the Dead","ドーン・オブ・ザ・デッド",posterDOTDRH
+"A Nightmare on Elm Street","エルム街の悪夢",posterElmStreetRH
+"Frankenstein","フランケンシュタイン",posterFrankensteinRH
+"Return of the Living Dead","バタリアン",posterROTLDRH
 "Danger Rose","",posterRoseRH
-"Mona Lisa","",posterMonaRH
+"Mona Lisa","モナ・リザ",posterMonaRH
 "Immaculate","",posterImmaculateRH
 "American Gothic","",posterGothicRH
 "The Overlook","",posterOverlookRH
 "The aroma of buttery popcorn haunts you as you remember the bygone days of cinema. Maybe someone will want this.","",posterRHDesc
-"It","",posterItRH
-"The Godfather","",posterGodfatherRH
-"The Lost Boys","",posterLostBoysRH
-"Sons of Anarchy","",posterSOA1RH
-"Halloween","",posterHalloweenRH
-"Supernatural","",posterSPN1RH,posterSPN2RH
-"Die Hard","",posterDieHardRH
-"Indiana Jones","",posterIndianaJonesRH
-"Princess Bride","",posterPrincessBrideRH
-"The Walking Dead","",posterWD1RH,posterWD2RH
-"The Terminator","",posterTerminatorRH
-"Mad Max","",posterMadMaxRH
-"Re-Animator","",posterReanimatorRH
-"Star Wars","",posterStarWarsRH
-"Krampus","",posterKrampusRH
+"It","イット",posterItRH
+"The Godfather","ゴッドファーザー",posterGodfatherRH
+"The Lost Boys","ロストボーイ",posterLostBoysRH
+"Sons of Anarchy","サンズ・オブ・アナーキー",posterSOA1RH
+"Halloween","ハロウィン",posterHalloweenRH
+"Supernatural","スーパーナチュラル",posterSPN1RH,posterSPN2RH
+"Die Hard","ダイ・ハード",posterDieHardRH
+"Indiana Jones","インディ・ジョーンズ",posterIndianaJonesRH
+"Princess Bride","プリンセス・ブライド",posterPrincessBrideRH
+"The Walking Dead","ウォーキング・デッド",posterWD1RH,posterWD2RH
+"The Terminator","ターミネーター",posterTerminatorRH
+"Mad Max","マッド・マックス",posterMadMaxRH
+"Re-Animator","死霊のしたたり",posterReanimatorRH
+"Star Wars","スターウォーズ",posterStarWarsRH
+"Krampus","クランプス",posterKrampusRH
 "[FF0000]WARNING[-] - You are currently crafting a quest item in that workstation you just closed!","[FF0000]警告[-] - 今閉じた作業台では現在クエストアイテムをクラフト中です!",questItemCrafting
 "Hazmat Boots (Armored)","ハズマットブーツ（防具）",apparelHazmatBootsArmoredRH
 "Hazmat Pants (Armored)","ハズマットパンツ（防具）",apparelHazmatPantsArmoredRH
@@ -2006,7 +2006,7 @@
 "Tool","",Tool,Tool
 "Slots","",Slots,Slots
 "Survival Campfire","サバイバルキャンプファイヤー",survivalCampfire,survivalCampfireRH,survivalCampfireRH
-"Personal Bench","",personalWorkbenchRH
+"Personal Bench","個人用作業台",personalWorkbenchRH
 "Spawn Free Terrain Schematic","",spawnFreeTerrainRHSchematic
 "Destroyed Stone (Spawn Free)","",terrDestroyedStoneSFRH
 "Dirt (Spawn Free)","",terrDirtSFRH
@@ -2028,9 +2028,9 @@
 "Desk Safe (Storage)","",cntDeskSafeRH
 "Wall Safe (Storage)","",cntWallSafeRH
 "Drawer (Storage)","",cntGreenDrawerSecureRH
-"Cardboard Box (Storage)","",cntCardboardStorageRH
+"Cardboard Box (Storage)","段ボール箱（ストレージ）",cntCardboardStorageRH
 "Have to store your stuff somewhere.","",cntCardboardStorageRHDesc,cntSecureStorageChestRHDesc
-"Cardboard Storage Schematic","",cntCardboardStorageRHSchematic
+"Cardboard Storage Schematic","段ボール箱の設計図",cntCardboardStorageRHSchematic
 "Writable Storage Box Large (Storage)","",cntStorageGenericSignedRH
 "Writable Storage Box Large Insecure","",cntStorageGenericSignedInsecureRH
 "Large Storage Schematic","",cntLargeStorageRHSchematic
@@ -2045,7 +2045,7 @@
 "Industrial Nailgun Schematic","",meleeToolRepairT5NailgunRHSchematic
 "Military Chest Insecure","",cntMilitaryCrateInsecureT5RH
 "Makasin Supply Chest Insecure","",cntWeaponCrateInsecureT5RH
-"Toilet Paper","",resourceToiletPaperRH
+"Toilet Paper","トイレットペーパー",resourceToiletPaperRH
 "Score! Make sure you take it all just to be safe.","",resourceToiletPaperRHDesc
 "Toolhead: Stone Axe","ツールヘッド: 石斧",toolheadStoneAxeRH
 "Use this toolhead and attach it to a handle to create a tool or weapon.","このツールヘッドと持ち手を組み合わせれば、道具や武器を作ることができます。",toolheadDesc
@@ -2484,31 +2484,31 @@
 "A crossbow is slow to reload but does more damage than a bow.\nThis weapon can be fired underwater.\nHold reload to use alternate ammo.\nRepair with a Repair Kit.\nScrap to Iron.","",gunBowRecurveCrossbowDesc
 "Hybrid Cam Compound Crossbow","",gunBowHybridCamCompoundCrossbow
 "A crossbow is slow to reload but does more damage than a bow.\nThis weapon can be fired underwater.\nHold reload to use alternate ammo.\nRepair with an Advanced Repair Kit.\nScrap to Iron.","",gunBowHybridCamCompoundCrossbowDesc,gunBowT3CompoundCrossbowDesc
-"Primitive Repair Kit","",resourcePrimitiveRepairKitRH
-"Kit to repair primitive tools and weapons","",resourcePrimitiveRepairKitRHDesc
-"Advanced Repair Kit","",resourceAdvancedRepairKitRH
+"Primitive Repair Kit","基本修理キット",resourcePrimitiveRepairKitRH
+"Kit to repair primitive tools and weapons","基本的なツールや武器を修理するためのキットです",resourcePrimitiveRepairKitRHDesc
+"Advanced Repair Kit","高度修理キット",resourceAdvancedRepairKitRH
 "Kit to repair advanced tools and weapons","",resourceAdvancedRepairKitRHDesc
-"High End Repair Kit","",resourceHighEndRepairKitRH
-"Kit to repair aluminum tools and weapons","",resourceHighEndRepairKitRHDesc
-"Top Tier Repair Kit","",resourceTopTierRepairKitRH
-"Kit to repair chrome tools and weapons","",resourceTopTierRepairKitRHDesc
-"Legendary Repair Kit","",resourceLegendaryRepairKitRH
-"Kit to repair tungsten tools and weapons","",resourceLegendaryRepairKitRHDesc
-"Gun Repair Kit","",resourceGunRepairKitRH
-"Kit to repair guns","",resourceGunRepairKitRHDesc
-"Vehicle Repair Kit","",resourceVehicleRepairKitRH
-"Kit to repair vehicles","",resourceVehicleRepairKitRHDesc
+"High End Repair Kit","ハイエンド修理キット",resourceHighEndRepairKitRH
+"Kit to repair aluminum tools and weapons","アルミ製のツールや武器を修理するキットです",resourceHighEndRepairKitRHDesc
+"Top Tier Repair Kit","最高級ツールキット",resourceTopTierRepairKitRH
+"Kit to repair chrome tools and weapons","クロム製のツールや武器を修理するキットです",resourceTopTierRepairKitRHDesc
+"Legendary Repair Kit","伝説級修理キット",resourceLegendaryRepairKitRH
+"Kit to repair tungsten tools and weapons","タングステン製のツールや武器を修理するキットです",resourceLegendaryRepairKitRHDesc
+"Gun Repair Kit","銃火器修理キット",resourceGunRepairKitRH
+"Kit to repair guns","銃を修理するためのキットです",resourceGunRepairKitRHDesc
+"Vehicle Repair Kit","車両修理キット",resourceVehicleRepairKitRH
+"Kit to repair vehicles","車両を修理するためのキットです",resourceVehicleRepairKitRHDesc
 "Cloth Armor Repair Kit","",resourceClothArmorRepairKitRH
 "Kit to repair cloth armor","",resourceClothArmorRepairKitRHDesc
-"Leather Armor Repair Kit","",resourceLeatherArmorRepairKitRH
+"Leather Armor Repair Kit","レザーアーマー修理キット",resourceLeatherArmorRepairKitRH
 "Kit to repair leather armor","",resourceLeatherArmorRepairKitRHDesc
-"Iron Armor Repair Kit","",resourceIronArmorRepairKitRH
+"Iron Armor Repair Kit","鉄製アーマー修理キット",resourceIronArmorRepairKitRH
 "Kit to repair iron armor","",resourceIronArmorRepairKitRHDesc
-"Steel Armor Repair Kit","",resourceSteelArmorRepairKitRH
+"Steel Armor Repair Kit","鋼鉄製アーマー修理キット",resourceSteelArmorRepairKitRH
 "Kit to repair steel armor","",resourceSteelArmorRepairKitRHDesc
-"Military Armor Repair Kit","",resourceMilitaryArmorRepairKitRH
+"Military Armor Repair Kit","軍用アーマー修理キット",resourceMilitaryArmorRepairKitRH
 "Kit to repair military armor","",resourceMilitaryArmorRepairKitRHDesc
-"Scrap Armor Repair Kit","",resourceScrapArmorRepairKitRH
+"Scrap Armor Repair Kit","スクラップアーマー修理キット",resourceScrapArmorRepairKitRH
 "Kit to repair scrap armor","",resourceScrapArmorRepairKitRHDesc
 "A primitive tool useful for cutting wood, repairing & upgrading walls, doors & windows. Not the best weapon.\nRepair with Primitive Repair Kit.\nScrap to Small Stone.","",meleeToolRepairT0StoneAxeDesc
 "The stone shovel is a primitive tool useful for digging dirt, sand or snow.\nRepair with Primitive Repair Kit.\nScrap to Small Stone.","",meleeToolShovelT0StoneShovelDesc
@@ -2941,20 +2941,20 @@
 "A strong taste. You are feeling destructive.","",ATSnowberryGinDrunkDesc
 "That stuff burns. You feel more talkative","",ATVodkaDrunkDesc
 "A slight rush from the amount of sugar you just ate. This allows you to slightly run faster","",ATSugarRushDesc
-"Sugar Rush","",ATSugarRushName
+"Sugar Rush","シュガーラッシュ",ATSugarRushName
 "That was a lot of sugar.","",ATSugarRushTooltip
 "You can run faster. reload slightly quicker and become less exhausted.","",ATEnergyTabletDesc
 "Energy Rush","",ATEnergyTabletName
 "What a rush!","",ATEnergyTabletTooltip
 "Cold Drink","",ATColdDrinkName
 "Iced drinks help you survive better in hot environments.","",ATColdDrinkDesc
-"Berry Tea","",drinkBerryTea
+"Berry Tea","ベリー茶",drinkBerryTea
 "Cooking in the Apocalypse is extremely important to survival.","",drinkBerryTeaDesc,drinkIcedMixedTeaDesc,drinkIcedCoffeeDesc,foodYuccaChipsDesc,foodHashbrownDesc,foodMashedPotatoDesc,foodCornGritsDesc,foodBlueberryJamDesc,foodYuccaJamDesc,foodEggSaladDesc,foodFriedMeatDesc,foodCornChipsDesc,foodBlueberryJamSandwichDesc,foodYuccaJamSandwichDesc,foodCoffeeCakeDesc,foodMushroomPieDesc,foodMeatAndBeerPieDesc,foodFriedMushroomsDesc,foodFriedEggDesc,foodFrenchToastDesc,foodHoneyGlazedMeatDesc,drinkBlueberrySodaDesc,drinkKvassSodaDesc,drinkCarbonatedWaterDesc,drinkDistilledVodkaDesc,drinkSnowberryGinDesc,foodSugarExtractDesc,foodRockCandyDesc,foodBlueberryCandyDesc,foodSnowberryCandyDesc,foodPlainFudgeDesc,medicalEnergyTabletDesc,foodSpongeCakeDesc,foodBlueberrySpongeCakeDesc,foodYuccaSpongeCakeDesc,foodCustardPieDesc
-"Berry Tea Recipe","",drinkBerryTeaSchematic
+"Berry Tea Recipe","ベリー茶のレシピ",drinkBerryTeaSchematic
 "Iced Mixed tea","",drinkIcedMixedTea
 "Iced Mixed tea Recipe","",drinkIcedMixedTeaSchematic
-"Iced Coffee","",drinkIcedCoffee
-"Iced Coffee Recipe","",drinkIcedCoffeeSchematic
+"Iced Coffee","アイスコーヒー",drinkIcedCoffee
+"Iced Coffee Recipe","アイスコーヒーのレシピ",drinkIcedCoffeeSchematic
 "Yucca Chips","",foodYuccaChips
 "Yucca Chips Recipe","",foodYuccaChipsSchematic
 "Hashbrown","",foodHashbrown
@@ -2963,71 +2963,71 @@
 "Mashed Potato Recipe","",foodMashedPotatoSchematic
 "Corn Grits","",foodCornGrits
 "Corn Grits Recipe","",foodCornGritsSchematic
-"Blueberry Jam","",foodBlueberryJam
-"Blueberry Jam Recipe","",foodBlueberryJamSchematic
-"Yucca Jam","",foodYuccaJam
-"Yucca Jam Recipe","",foodYuccaJamSchematic
-"Egg Salad","",foodEggSalad
-"Egg Salad Recipe","",foodEggSaladSchematic
+"Blueberry Jam","ブルーベリージャム",foodBlueberryJam
+"Blueberry Jam Recipe","ブルーベリージャムのレシピ",foodBlueberryJamSchematic
+"Yucca Jam","ユッカジャム",foodYuccaJam
+"Yucca Jam Recipe","ユッカジャムのレシピ",foodYuccaJamSchematic
+"Egg Salad","卵サラダ",foodEggSalad
+"Egg Salad Recipe","卵サラダのレシピ",foodEggSaladSchematic
 "Fried Meat","",foodFriedMeat
 "Fried Meat Recipe","",foodFriedMeatSchematic
-"Corn Chips","",foodCornChips
-"Corn Chips Recipe","",foodCornChipsSchematic
-"Blueberry Sandwich","",foodBlueberryJamSandwich
-"Blueberry Sandwich Recipe","",foodBlueberryJamSandwichSchematic
-"Yucca Sandwich","",foodYuccaJamSandwich
-"Yucca Sandwich Recipe","",foodYuccaJamSandwichSchematic
-"Coffee Cake","",foodCoffeeCake
-"Coffee Cake Recipe","",foodCoffeeCakeSchematic
-"Mushroom Pie","",foodMushroomPie
-"Mushroom Pie Recipe","",foodMushroomPieSchematic
+"Corn Chips","トウモロコシチップ",foodCornChips
+"Corn Chips Recipe","トウモロコシチップのレシピ",foodCornChipsSchematic
+"Blueberry Sandwich","ブルーベリーサンドイッチ",foodBlueberryJamSandwich
+"Blueberry Sandwich Recipe","ブルーベリーサンドイッチのレシピ",foodBlueberryJamSandwichSchematic
+"Yucca Sandwich","ユッカサンドイッチ",foodYuccaJamSandwich
+"Yucca Sandwich Recipe","ユッカサンドイッチのレシピ",foodYuccaJamSandwichSchematic
+"Coffee Cake","コーヒーケーキ",foodCoffeeCake
+"Coffee Cake Recipe","コーヒーケーキのレシピ",foodCoffeeCakeSchematic
+"Mushroom Pie","きのこパイ",foodMushroomPie
+"Mushroom Pie Recipe","きのこパイのレシピ",foodMushroomPieSchematic
 "Meat and Beer Pie","",foodMeatAndBeerPie
 "Meat and Beer Pie Recipe","",foodMeatAndBeerPieSchematic
-"Fried Mushrooms","",foodFriedMushrooms
-"Fried Mushrooms Recipe","",foodFriedMushroomsSchematic
-"Fried Egg","",foodFriedEgg
-"Fried Egg Recipe","",foodFriedEggSchematic
-"French Toast","",foodFrenchToast
-"French Toast Recipe","",foodFrenchToastSchematic
+"Fried Mushrooms","焼ききのこ",foodFriedMushrooms
+"Fried Mushrooms Recipe","焼ききのこのレシピ",foodFriedMushroomsSchematic
+"Fried Egg","目玉焼き",foodFriedEgg
+"Fried Egg Recipe","目玉焼きのレシピ",foodFriedEggSchematic
+"French Toast","フレンチトースト",foodFrenchToast
+"French Toast Recipe","フレンチトーストのレシピ",foodFrenchToastSchematic
 "Honey Glazed Meat","",foodHoneyGlazedMeat
 "Honey Glazed Meat Recipe","",foodHoneyGlazedMeatSchematic
-"Blueberry Soda","",drinkBlueberrySoda
-"Blueberry Soda Recipe","",drinkBlueberrySodaSchematic
-"Kvass Soda","",drinkKvassSoda
-"Kvass Soda Recipe","",drinkKvassSodaSchematic
-"Carbonated Water","",drinkCarbonatedWater
-"Carbonated Water Recipe","",drinkCarbonatedWaterSchematic
-"Distilled Vodka","",drinkDistilledVodka
-"Distilled Vodka Recipe","",drinkDistilledVodkaSchematic
-"Snowberry Gin","",drinkSnowberryGin
-"Snowberry Gin Recipe","",drinkSnowberryGinSchematic
+"Blueberry Soda","ブルーベリーソーダ",drinkBlueberrySoda
+"Blueberry Soda Recipe","ブルーベリーソーダのレシピ",drinkBlueberrySodaSchematic
+"Kvass Soda","クワスソーダ",drinkKvassSoda
+"Kvass Soda Recipe","クワスソーダのレシピ",drinkKvassSodaSchematic
+"Carbonated Water","炭酸水",drinkCarbonatedWater
+"Carbonated Water Recipe","炭酸水のレシピ",drinkCarbonatedWaterSchematic
+"Distilled Vodka","蒸留ウォッカ",drinkDistilledVodka
+"Distilled Vodka Recipe","蒸留ウォッカのレシピ",drinkDistilledVodkaSchematic
+"Snowberry Gin","ストロベリージン",drinkSnowberryGin
+"Snowberry Gin Recipe","ストロベリージンのレシピ",drinkSnowberryGinSchematic
 "Sugar Extract","",foodSugarExtract
 "Sugar Extract Recipe","",foodSugarExtractSchematic
-"Rock Candy","",foodRockCandy
-"Rock Candy Recipe","",foodRockCandySchematic
-"Blueberry Candy","",foodBlueberryCandy
-"Blueberry Candy Recipe","",foodBlueberryCandySchematic
-"Snowberry Candy","",foodSnowberryCandy
-"Snowberry Candy Recipe","",foodSnowberryCandySchematic
+"Rock Candy","ロックキャンディ",foodRockCandy
+"Rock Candy Recipe","ロックキャンディのレシピ",foodRockCandySchematic
+"Blueberry Candy","ブルーベリーキャンディ",foodBlueberryCandy
+"Blueberry Candy Recipe","ブルーベリーキャンディのレシピ",foodBlueberryCandySchematic
+"Snowberry Candy","セッコウボクキャンディ",foodSnowberryCandy
+"Snowberry Candy Recipe","セッコウボクキャンディのレシピ",foodSnowberryCandySchematic
 "Plain Fudge","",foodPlainFudge
 "Plain Fudge Recipe","",foodPlainFudgeSchematic
 "Energy Tablet","",medicalEnergyTablet
 "Energy Tablet Recipe","",medicalEnergyTabletSchematic
-"Sponge Cake","",foodSpongeCake
-"Sponge Cake Recipe","",foodSpongeCakeSchematic
-"Blueberry Sponge Cake","",foodBlueberrySpongeCake
-"Blueberry Sponge Cake Recipe","",foodBlueberrySpongeCakeSchematic
-"Yucca Sponge Cake","",foodYuccaSpongeCake
-"Yucca Sponge Cake Recipe","",foodYuccaSpongeCakeSchematic
-"Custard Pie","",foodCustardPie
+"Sponge Cake","スポンジケーキ",foodSpongeCake
+"Sponge Cake Recipe","スポンジケーキのレシピ",foodSpongeCakeSchematic
+"Blueberry Sponge Cake","ブルーベリースポンジケーキ",foodBlueberrySpongeCake
+"Blueberry Sponge Cake Recipe","ブルーベリースポンジケーキのレシピ",foodBlueberrySpongeCakeSchematic
+"Yucca Sponge Cake","ユッカスポンジケーキ",foodYuccaSpongeCake
+"Yucca Sponge Cake Recipe","ユッカスポンジケーキのレシピ",foodYuccaSpongeCakeSchematic
+"Custard Pie","カスタードパイ",foodCustardPie
 "Custard Pie Recipe","",foodCustardPieSchematic
 "Health Drink","",drinkHealthDrink
 "Drink This and Gain Your Health and Energy Back!","",drinkHealthDrinkDesc
 "Health Drink Recipe","",drinkHealthDrinkSchematic
-"Hamburger","",foodHamburger
+"Hamburger","ハンバーガー",foodHamburger
 "It Has a good smell and looks tasty.","",foodHamburgerDesc
-"Hamburger Recipe","",foodHamburgerSchematic
-"Bacon and Egg Sandwich","",foodBaconEggSandwich
+"Hamburger Recipe","・ハンバーガーのレシピ",foodHamburgerSchematic
+"Bacon and Egg Sandwich","ベーコンエッグサンドイッチ",foodBaconEggSandwich
 "You made this good looking sandwich.","",foodBaconEggSandwichDesc
 "Bacon and Egg Sandwich Recipe","",foodBaconEggSandwichSchematic
 "Fish Pie","",foodFishPie
@@ -3042,13 +3042,13 @@
 "Grilled Steak Sandwich","",foodGrillSteakSandwich
 "You Made the Steak Even Better!","",foodGrillSteakSandwichDesc
 "Grilled Steak Sandwich Recipe","",foodGrillSteakSandwichSchematic
-"Biscuit","",foodBiscuit
+"Biscuit","ビスケット",foodBiscuit
 "Biscuits are delicious by themselves but their best use is spreading some jam on them.","",foodBiscuitDesc
-"Biscuit Recipe","",foodBiscuitSchematic
-"Biscuit With Jam","",foodBiscuitWithJam
+"Biscuit Recipe","ビスケットのレシピ",foodBiscuitSchematic
+"Biscuit With Jam","ジャムつきビスケット",foodBiscuitWithJam
 "Handmade biscuit smeared with a nice layer of blueberry jam.","",foodBiscuitWithJamDesc
-"Biscuit With Jam Recipe","",foodBiscuitWithJamSchematic
-"Ramen Soup","",foodRamenSoup
+"Biscuit With Jam Recipe","ジャムつきビスケットのレシピ",foodBiscuitWithJamSchematic
+"Ramen Soup","ラーメンスープ",foodRamenSoup
 "Nice you made a bowl of Ramen Soup Not the best if you ask me.","",foodRamenSoupDesc
 "Ramen Soup Recipe","",foodRamenSoupSchematic
 "Not the best sandwich but eatable.","",foodTunaSandwichRHDesc
@@ -3058,7 +3058,7 @@
 "Mystery Meat Recipe","",foodMysteryMeatSchematic,foodMysteryMeatCraftedSchematic
 "Candy Bar","",foodCandyBar
 "Diabeetus what diabeetus. This is the apocalypse so have at it and shove that candy in your mouth like there is no tomorrow!","",foodCandyBarDesc
-"Goldfish","",foodGoldfish
+"Goldfish","金魚",foodGoldfish
 "The snack that smiles back!? SCORE.","",foodGoldfishDesc
 "Ramen Noodles","",foodRamenNoodles
 "You Can make this into a soup or you can eat it.","",foodRamenNoodlesDesc
@@ -3084,21 +3084,21 @@
 "Unlocks sandwich related recipes.","",sandwichBookDesc
 "Home Smoker Foods Schematic","",foodSmokerSchematic
 "Bacon Egg On A Hero Schematic","",foodEggBaconSandwichSchematic
-"Mushroom Soup Schematic","",foodSoupMushroomSchematic
-"Vinegar","",foodVinegar,Vinegar
-"Mayonnaise","",foodMayonnaise
+"Mushroom Soup Schematic","キノコのスープのレシピ",foodSoupMushroomSchematic
+"Vinegar","酢",foodVinegar,Vinegar
+"Mayonnaise","マヨネーズ",foodMayonnaise
 "Brisket","",foodBrisket
 "Pulled Pork Sandwich","",foodPulledPorkSandwich
 "Never eat something this good on a Blood Moon.","",foodPulledPorkSandwichDesc
 "Pulled Pork","",foodPulledPork
 "Beer Can Chicken","",foodBeerCanChicken
-"Sushi","",foodSushi
-"Pickles","",foodPickles
-"Cole Slaw","",foodColeSlaw
+"Sushi","寿司",foodSushi
+"Pickles","ピクルス",foodPickles
+"Cole Slaw","コールスロー",foodColeSlaw
 "Fried Bacon","",foodFriedBacon
 "It does not get any better.","",foodFriedBaconDesc
-"Baguette","",foodBaguette
-"Add some sophistication to your sandwiches.","",foodBaguetteDesc
+"Baguette","バゲット",foodBaguette
+"Add some sophistication to your sandwiches.","サンドウィッチにも洗練された雰囲気を。",foodBaguetteDesc
 "Fresh Steak","",foodFreshSteak
 "Fresh Smoked Sausage","",foodFreshSmokedSausage
 "Fresh BBQ Chicken Legs","",foodFreshBBQChickenLegs
@@ -3118,34 +3118,34 @@
 "Ingredient used in pasta and breads.","",resourceDoughDesc
 "Bagel","",foodBagel
 "Is it a New York bagel though?","",foodBagelDesc
-"Cheese","",foodCheese
-"Cream","",foodCream
-"Cream Cheese","",foodCreamCheese
+"Cheese","チーズ",foodCheese
+"Cream","クリーム",foodCream
+"Cream Cheese","クリームチーズ",foodCreamCheese
 "Holy balls! Milk? Still? Better check that expiration date pal!","",drinkMilkDesc
 "Delicious cream can make anything better. Or just drink it moose.","",foodCreamDesc
 "What you wouldn't give for a bagel with cream cheese. Hmmmm.","",foodCreamCheeseDesc
 "Boiled Cabbage","",foodBoiledCabbageRH
 "An Irish tradition and a great way to warm a survivors heart.","",foodBoiledCabbageRHDesc
-"Omelet","",foodOmelet
+"Omelet","オムレツ",foodOmelet
 "A great way to start out your day of looting rotten homes and burnt out stores.","",foodOmeletDesc
-"Grilled Pork","",foodGrillPork
-"Grilled Chicken","",foodGrillChicken
-"Mushroom Soup","",foodSoupMushroom
-"Grilled Corn","",foodGrilledCorn
-"Grilled Mushrooms","",foodGrilledMushrooms
-"Grilled Potato","",foodGrilledPotato
+"Grilled Pork","焼豚",foodGrillPork
+"Grilled Chicken","焼き鳥",foodGrillChicken
+"Mushroom Soup","きのこのスープ",foodSoupMushroom
+"Grilled Corn","焼きとうもろこし",foodGrilledCorn
+"Grilled Mushrooms","焼ききのこ",foodGrilledMushrooms
+"Grilled Potato","焼きじゃがいも",foodGrilledPotato
 "Bacon Mac and Cheese","",foodBaconMacCheese
 "Macaroni and cheese was a childhood favorite of many.","",foodBaconMacCheeseDesc
 "East Coast Hoagie","",foodHoagie
 "BLT","",foodBLT
-"Ham and Cheese Sandwich","",foodHamCheese
+"Ham and Cheese Sandwich","ハムとチーズのサンドイッチ",foodHamCheese
 "Sausage and Peppers Hero","",foodSausagePeppers
 "Meatball Sub","",foodMeatballSub
 "Giovanni made it just for you. Are you going to complain?","",foodMeatballSubDesc
 "Precision crafted specialty sandwiches provide the best nutrition and offer a taste of regional bliss.","",specialtySandwichDesc
 "Some among us value the pickle above twine. Be very wary of those individuals.","",picklesDesc
 "A delicious treat","",coleSlawDesc
-"Raw Pasta","",foodRawPasta
+"Raw Pasta","生パスタ",foodRawPasta
 "You are on your way to being your own Lagasse","",foodRawPastaDesc
 "Sno Balls","",foodSnoBalls
 "Twinkies","",foodTwinkies
@@ -3153,14 +3153,14 @@
 "Hot Bag of Chips","",foodBagChipsHotDesc
 "Bag of Chips","",foodBagChipsDesc
 "Shorty Bar","",foodShortyBarDesc
-"Chocolate Bar","",foodChocBarDesc
+"Chocolate Bar","チョコレートバー",foodChocBarDesc
 "Honey Glazed Ham","",foodHoneyGlazedHam,foodFreshHoneyGlazedHam
 "Glazed with the amazing power of antibiotic. Maybe.","",foodHoneyGlazedHamDesc
-"Kobe Beef","",foodFreshKobeBeef
-"Bacon Meatloaf","",foodFreshBaconMeatloaf
+"Kobe Beef","神戸牛",foodFreshKobeBeef
+"Bacon Meatloaf","ベーコンミートローフ",foodFreshBaconMeatloaf
 "Baked Chicken Breast","",foodFreshBakedChickenBreast
 "Spicy Hot Wings","",foodSpicyHotWings
-"Bread","",foodBread
+"Bread","パン",foodBread
 "Another easy to produce vital survival food. Use it to make a number of dishes and sandwiches.","",foodBreadDesc
 "Sno Balls? Where's the fucking Twinkies? Sno Balls?","",foodSnoBallsDesc
 "The perfect blend of cracker and cheese. Perfect for snacking and heavy enough to remind people you mean business when thrown.","",foodCheezItsDesc
@@ -3781,43 +3781,43 @@
 "This fine fishing rod is a long, flexible pole used to catch lots of fish.  Bait with a Worm to use it in water.","",fineFishingRodunbaitedDesc
 "This fine fishing rod is a long, flexible pole used to catch lots of fish.  Right-click on natural water to fish.","",fineFishingRodbaitedDesc,fineFishingRodDesc
 "Fine Fishing Rod","",Fine Fishing Rod,Fine Fishing Rod Full
-"Raw Fish","",Raw Fish
-"Fish can be eaten raw or cut into prepared sushi, but is better when cooked at campfire or pickled in vinegar.","",rawFishDesc
-"Prawn","",Prawn
-"Prawn are large, meaty shrimp found in freshwater and can be eaten raw but are better when cooked at a campfire.","",prawnDesc
+"Raw Fish","生の魚",Raw Fish
+"Fish can be eaten raw or cut into prepared sushi, but is better when cooked at campfire or pickled in vinegar.","魚は生で食べてもいいし、寿司にしてもいいですが、キャンプファイヤーで焼いたり、酢漬けにしたほうがおいしく食べられます。",rawFishDesc
+"Prawn","海老",Prawn
+"Prawn are large, meaty shrimp found in freshwater and can be eaten raw but are better when cooked at a campfire.","海老は淡水に生息する大型の肉厚なエビで、生で食べることもできますが、キャンプファイヤーで調理するとより美味しくなります。",prawnDesc
 "Rotten Fish","",resourceRottingFish
 "It's disgusting, but you can use it in compost at least.","",resourceRottingFishDesc
-"Grilled Fish","",Grilled Fish
-"Tasty grilled fish, mmmm!","",grilledFishDesc
-"Boiled Fish","",Boiled Fish
-"Palatable boiled fish.  It's not great, but it's not horrible either.","",boiledFishDesc
-"Charred Fish","",Charred Fish
-"Not-so-tasty charred fish; it will do, I guess.","",charredFishDesc
+"Grilled Fish","焼き魚",Grilled Fish
+"Tasty grilled fish, mmmm!","美味しい焼き魚。う〜ん！",grilledFishDesc
+"Boiled Fish","茹で魚",Boiled Fish
+"Palatable boiled fish.  It's not great, but it's not horrible either.","口当たりの良い茹でた魚。 美味しいとは言えないが、不味いとも言えない。",boiledFishDesc
+"Charred Fish","黒焦げ魚",Charred Fish
+"Not-so-tasty charred fish; it will do, I guess.","そんなに美味しくない黒焦げの魚。でも多分大丈夫だと思う。",charredFishDesc
 "Prepared Sushi","",Prepared Sushi
 "There's some chance to get sick from raw sushi, but with careful preparation the chances are significantly lower.","",preparedSushiDesc
-"Charred Prawns","",Charred Prawns
-"Charred prawns.  You did your best, but they still burned a bit.","",charredPrawnsDesc
-"Boiled Prawns","",Boiled Prawns
-"Boiled prawns.  It's not great, but it's not horrible either.","",boiledPrawnsDesc
-"Grilled Prawns","",Grilled Prawns
-"Tasty grilled prawns, mmmm!","",grilledPrawnsDesc
+"Charred Prawns","黒焦げ海老",Charred Prawns
+"Charred prawns.  You did your best, but they still burned a bit.","黒焦げ海老。あなたはベストを尽くしますが、ちょっと焦げちゃったみたいです。",charredPrawnsDesc
+"Boiled Prawns","茹で海老",Boiled Prawns
+"Boiled prawns.  It's not great, but it's not horrible either.","茹でた海老。 素晴らしくはないが、まずくもないです。",boiledPrawnsDesc
+"Grilled Prawns","焼き海老",Grilled Prawns
+"Tasty grilled prawns, mmmm!","美味しい焼海老。う〜ん！",grilledPrawnsDesc
 "This vinegar is ideal for serving with fish and chips or even pickling fish.","",vinegarDesc
 "Fish Tacos [a0ff94](Fresh)[-]","",Fish Tacos (Fresh)
 "Fresh fish tacos are a great meal, delicious and nutritious!","",fishTacosFreshDesc
 "Surf and Turf","",Surf and Turf
 "A bit of red meat and seafood pair very well together.","",surfAndTurfDesc
-"Pickled Fish","",Pickled Fish
-"Preserved and seasoned with vinegar, this makes for a terrific meal.","",pickledFishDesc
-"Fish Soup","",Fish Soup
-"Delectable fish soup, mmmm!","",fishSoupDesc
-"Fish and Chips","",Fish and Chips
+"Pickled Fish","魚の酢漬け",Pickled Fish
+"Preserved and seasoned with vinegar, this makes for a terrific meal.","酢で味付けされた保存食で、素晴らしい食事になります。",pickledFishDesc
+"Fish Soup","魚のスープ",Fish Soup
+"Delectable fish soup, mmmm!","美味しい魚のスープ。う〜ん！",fishSoupDesc
+"Fish and Chips","フィッシュアンドチップス",Fish and Chips
 "Some fried fish and potatoes served with vinegar.  Very nice!","",fishAndChipsDesc
 "Fish Trap Schematic","",fishTrapItemSchematic
-"Fishing Rod Schematic","",fishingRodSchematic
+"Fishing Rod Schematic","釣り竿の設計図",fishingRodSchematic
 "Fine Fishing Rod Schematic","",fineFishingRodSchematic
-"Vinegar Recipe","",foodVinegarSchematic
-"Fish Tacos [a0ff94](Fresh)[-] Recipe","",foodFishTacosFreshSchematic
-"Fish Soup Recipe","",foodFishSoupSchematic
+"Vinegar Recipe","酢のレシピ",foodVinegarSchematic
+"Fish Tacos [a0ff94](Fresh)[-] Recipe","フィッシュタコス [a0ff94](新鮮)[-] のレシピ",foodFishTacosFreshSchematic
+"Fish Soup Recipe","魚のスープのレシピ",foodFishSoupSchematic
 "Pickled Fish Recipe","",foodPickledFishSchematic
 "Fish and Chips Recipe","",foodFishAndChipsSchematic
 "Surf and Turf Recipe","",foodSurfAndTurfSchematic
@@ -3989,23 +3989,23 @@
 "90 Seconds of Eye Kandy.","",TwitchAction_BufflooterDesc
 "Munitions Box","",cntEPSMunitionsBox
 "Player Storage for your stuff.","",cntEPSMunitionsBoxDesc,cntEPSLockersDesc,cntEPSFileCabinetDesc,cntEPSCardboardBoxDesc,cntEPSFridgeDesc,cntEPSRetroFridgeDesc,cntEPSPillCaseDesc,cntEPSMedicineCabinetDesc,cntEPSBookcaseDesc,cntEPSWallSafeDesc,cntEPSCoffinDesc,cntEPSGasPumpDesc
-"Lockers","",cntEPSLockers
-"File Cabinet","",cntEPSFileCabinet
+"Lockers","ロッカー",cntEPSLockers
+"File Cabinet","ファイルキャビネット",cntEPSFileCabinet
 "Cardboard Storage","",cntEPSCardboardBox
 "Stainless Steel Refrigerator","",cntEPSFridge
 "Retro Fridge","",cntEPSRetroFridge
-"Pill Case","",cntEPSPillCase
-"Medicine Cabinet","",cntEPSMedicineCabinet
+"Pill Case","医薬品ケース",cntEPSPillCase
+"Medicine Cabinet","衣料品キャビネット",cntEPSMedicineCabinet
 "Bookcase","",cntEPSBookcase
 "Wall Safe","",cntEPSWallSafe
-"Coffin","",cntEPSCoffin
-"Gas Pump","",cntEPSGasPump
+"Coffin","棺",cntEPSCoffin
+"Gas Pump","ガソリンポンプ",cntEPSGasPump
 "Expanded Storage Schematic","",expandedStorageRHSchematic
-"Mechanic Workbench","",autoWorkbenchRH
-"The mechanic bench can be used to fix up vehicles and create brand new rides to cruise the apocalypse in.","",autoWorkbenchRHDesc
-"Mechanic Workbench Schematic","",autoWorkbenchRHSchematic
-"Socket","",toolSocketRH
-"Sockets are essential for crafting engines and car parts.","",toolSocketRHDesc
+"Mechanic Workbench","メカニック作業台",autoWorkbenchRH
+"The mechanic bench can be used to fix up vehicles and create brand new rides to cruise the apocalypse in.","メカニック作業台では、車を修理して、アポカリプスの世界を旅するための新しい乗り物を作ることができます。",autoWorkbenchRHDesc
+"Mechanic Workbench Schematic","メカニック作業台の設計図",autoWorkbenchRHSchematic
+"Socket","ソケット",toolSocketRH
+"Sockets are essential for crafting engines and car parts.","ソケットはエンジンや車のパーツを作成するのに必須です。",toolSocketRHDesc
 "Brewery","",breweryStationRH
 "Make fermented liquor and beer.","",breweryStationRHDesc
 "Brewery Schematic","",breweryStationRHSchematic
@@ -4014,17 +4014,17 @@
 "Electrician Table Schematic","",electricTableRHSchematic
 "Your farming table will make fertilizer and seeds.","農業用テーブルでは肥料や種を作ることができます",farmTableRHDesc
 "Farming Table Schematic","農業用テーブルの設計図",farmTableRHSchematic
-"Food Prep Table","",foodPrepTableRH
+"Food Prep Table","食料準備テーブル",foodPrepTableRH
 "Everyone needs a food preparation area and you are no exception. BAM baby.","",foodPrepTableRHDesc
-"Sliced Red Meat","",foodSlicedRedMeatRH
-"Sliced White Meat","",foodSlicedWhiteMeatRH
+"Sliced Red Meat","薄切り赤身肉",foodSlicedRedMeatRH
+"Sliced White Meat","薄切り白身肉",foodSlicedWhiteMeatRH
 "Study recipes and schematics at this desk.","",researchDeskRHDesc
-"Research Desk Schematic","",researchDeskRHSchematic
-"Knowledge Point","",resourceKnowledgePointsRH
-"Knowledge Points are gained by using collections of schematics and books in the Research Desk. You can also find them in the world.","",resourceKnowledgePointsRHDesc
-"Ink","",resourceInkRH
-"Ink is used in the crafting of classes and quests.","",resourceInkRHDesc
-"Lathe","",latheRH
+"Research Desk Schematic","研究デスクの設計図",researchDeskRHSchematic
+"Knowledge Point","ナレッジポイント",resourceKnowledgePointsRH
+"Knowledge Points are gained by using collections of schematics and books in the Research Desk. You can also find them in the world.","ナレッジポイントは、研究デスクで設計図や書籍を研究することで得ることができます。また、いろいろなところで見つけることもできます。",resourceKnowledgePointsRHDesc
+"Ink","インク",resourceInkRH
+"Ink is used in the crafting of classes and quests.","インクはクラスやクエストをクラフトするために使用します。",resourceInkRHDesc
+"Lathe","旋盤",latheRH
 "Your main crafting station. To pick it back up just destroy it.","あなた専用の作業台。破壊すれば拾うことができます",personalWorkbenchRHDesc
 "The survival campfire can cook more advanced meals than a normal campfire.","サバイバルキャンプファイヤーでは、普通のキャンプファイヤーよりも高度な調理をすることができます。",survivalCampfireRHDesc
 "Create furniture, advanced shapes and decorations for your base.","拠点をよりよくするための、家具や高度な形状のブロック、装飾品などを作成できます。",tableSawRHDesc
@@ -4151,20 +4151,20 @@
 "Snow Swarm","",animalSnowSwarm_X
 "Snow Tornado","",animalSnowTornado_X
 "Blood Swarm","",animalBloodFlySwarm_X
-"Sledge Turret","",junkTurretSledge
-"Turret","",junkTurretGun
-"Mountain Lion","",animalMountainLion
+"Sledge Turret","スレッジタレット",junkTurretSledge
+"Turret","タレット",junkTurretGun
+"Mountain Lion","マウンテンライオン",animalMountainLion
 "Infected Dog","",animalZombieDog
-"Coyote","",animalCoyote
-"Wolf","",animalWolf
+"Coyote","コヨーテ",animalCoyote
+"Wolf","狼",animalWolf
 "Dire Wolf","",animalDireWolf
-"Snake","",animalSnake
-"Wild Bear","",animalBear
-"Infected Bear","",animalZombieBear
-"Wild Boar","",animalBoar
-"Radiated Boar","",animalBossGrace
-"Infected Vulture","",animalZombieVulture
-"Radiated Vulture","",animalZombieVultureRadiated
+"Snake","蛇",animalSnake
+"Wild Bear","野生の熊",animalBear
+"Infected Bear","感染した熊",animalZombieBear
+"Wild Boar","野生の猪",animalBoar
+"Radiated Boar","放射能汚染イノシシ",animalBossGrace
+"Infected Vulture","感染したハゲタカ",animalZombieVulture
+"Radiated Vulture","放射能汚染ハゲタカ",animalZombieVultureRadiated
 "Infected Janitor","",zombieJanitor,zombieJanitorT1,zombieJanitorT2,zombieJanitorT3,zombieJanitorT4,zombieJanitorT5,zombieJanitorAirDropT1,zombieJanitorAirDropT2
 "Feral Janitor","",zombieJanitorFeral,zombieJanitorFeralT1,zombieJanitorFeralT2,zombieJanitorFeralT3,zombieJanitorFeralT4,zombieJanitorFeralT5,zombieJanitorFeralAirDropT1,zombieJanitorFeralAirDropT2
 "Radiated Janitor","",zombieJanitorRadiated,zombieJanitorRadiatedT1,zombieJanitorRadiatedT2,zombieJanitorRadiatedT3,zombieJanitorRadiatedT4,zombieJanitorRadiatedT5,zombieJanitorRadiatedAirDropT1,zombieJanitorRadiatedAirDropT2
@@ -4215,12 +4215,12 @@
 "Mr. Yo","",zombieYoV1,zombieYoV2,zombieYoV3,zombieYoV4
 "Feral Mr. Yo","",zombieYoFeralV1
 "Radiated Mr. Yo","",zombieYoRadiatedV1
-"Big Mama","",zombieFatMamaHDV1,zombieFatMamaHDV2,zombieFatMamaHDV3,zombieFatMamaHDV4
-"Feral Big Mama","",zombieFatMamaHDVFeral
-"Radiated Big Mama","",zombieFatMamaHDVRadiated
-"Darlene","",zombieDarleneHDV1,zombieDarleneHDV2,zombieDarleneHDV3,zombieDarleneHDV4
-"Feral Darlene","",zombieDarleneHDVFeral
-"Radiated Darlene","",zombieDarleneHDVRadiated
+"Big Mama","ビッグママ",zombieFatMamaHDV1,zombieFatMamaHDV2,zombieFatMamaHDV3,zombieFatMamaHDV4
+"Feral Big Mama","フェラルビッグママ",zombieFatMamaHDVFeral
+"Radiated Big Mama","放射線汚染ビッグママ",zombieFatMamaHDVRadiated
+"Darlene","ダーリーン",zombieDarleneHDV1,zombieDarleneHDV2,zombieDarleneHDV3,zombieDarleneHDV4
+"Feral Darlene","フェラルダーリーン",zombieDarleneHDVFeral
+"Radiated Darlene","放射線汚染ダーリーン",zombieDarleneHDVRadiated
 "Marlene","",zombieMarleneHDV1,zombieMarleneHDV2,zombieMarleneHDV3,zombieMarleneHDV4
 "Feral Marlene","",zombieMarleneHDVFeral
 "Radiated Marlene","",zombieMarleneHDVRadiated
@@ -4325,24 +4325,24 @@
 "+0.3% Damage\n+0.5% Accuracy, Reload Speed, and Recoil Reduction\nper level\nUnlocks Automatics Recipes at levels 20, 40, 60, 80 and 100","",perkASAutomaticsDesc
 "+0.3% Damage and Stamina Reduction\nper level\nUnlocks Fist Weapon Recipes at levels 20, 60 and 100","",perkASBrawlerDesc
 "+0.3% Damage and Stamina Reduction\nper level\nUnlocks Turret Recipes at levels 20, 40, 60, 80 and 100","",perkASTurretDesc
-"Action Skills","",attactionskills
+"Action Skills","アクションスキル",attactionskills
 "Action Skills level as you use them.","",attActionSkillsDesc
-"Attribute: Action Skills","",attActionSkillsName
-"Your Skill In Mining Tools Has Increased!","",ttMToolsLevelUp
-"Your Skill In Archery Has Increased!","",ttArcheryLevelUp
-"Your Skill In Automatics Has Increased!","",ttAutomaticsLevelUp
-"Your Skill In Blades Has Increased!","",ttBladedLevelUp
-"Your Skill In Pistols Has Increased!","",ttPistolLevelUp
-"Your Skill In Shotguns Has Increased!","",ttShotgunLevelUp
-"Your Skill In Construction Tools Has Increased!","",ttCToolsLevelUp
-"Your Skill In Rifles Has Increased!","",ttRiflesLevelUp
-"Your Skill In Batons Has Increased!","",ttElectricLevelUp
-"Your Skill In Turrets Has Increased!","",ttTurretLevelUp
-"Your Skill In Javelin Weapons Has Increased!","",ttJavelinLevelUp
-"Your Skill In Brawler Has Increased!","",ttBrawlerLevelUp
-"Your Skill In Blunt Weapons Has Increased!","",ttBluntLevelUp
-"Your Skill In Sledgehammer Weapons Has Increased!","",ttSledgehammersLevelUp
-"Your Skill In Athletics Has Increased!","",ttAthleticsLevelUp
+"Attribute: Action Skills","属性: アクションスキル",attActionSkillsName
+"Your Skill In Mining Tools Has Increased!","掘削ツールのスキルが上昇しました！",ttMToolsLevelUp
+"Your Skill In Archery Has Increased!","弓のスキルが上昇しました！",ttArcheryLevelUp
+"Your Skill In Automatics Has Increased!","自動武器のスキルが上昇しました！",ttAutomaticsLevelUp
+"Your Skill In Blades Has Increased!","刃物武器のスキルが上昇しました！",ttBladedLevelUp
+"Your Skill In Pistols Has Increased!","ピストルのスキルが上昇しました！",ttPistolLevelUp
+"Your Skill In Shotguns Has Increased!","ショットガンのスキルが上昇しました！",ttShotgunLevelUp
+"Your Skill In Construction Tools Has Increased!","建築ツールのスキルが上昇しました！",ttCToolsLevelUp
+"Your Skill In Rifles Has Increased!","ライフルのスキルが上昇しました！",ttRiflesLevelUp
+"Your Skill In Batons Has Increased!","バトンのスキルが上昇しました！",ttElectricLevelUp
+"Your Skill In Turrets Has Increased!","タレットのスキルが上昇しました！",ttTurretLevelUp
+"Your Skill In Javelin Weapons Has Increased!","槍武器のスキルが上昇しました！",ttJavelinLevelUp
+"Your Skill In Brawler Has Increased!","殴り合いのスキルが上昇しました！",ttBrawlerLevelUp
+"Your Skill In Blunt Weapons Has Increased!","鈍器のスキルが上昇しました！",ttBluntLevelUp
+"Your Skill In Sledgehammer Weapons Has Increased!","スレッジハンマーのスキルが上昇しました！",ttSledgehammersLevelUp
+"Your Skill In Athletics Has Increased!","アスレチックのスキルが上昇しました！",ttAthleticsLevelUp
 "Mining Tool Crafting","",perkMiningToolCraftingName
 "Learn how to craft mining tools.","",perkMiningToolCraftingDesc
 "Requires Mining Tools Level 10","",reqASMiningToolsLevel10
@@ -4566,14 +4566,14 @@
 "Requires Javelin Weapons Level 20","",reqASJavelinLevel20
 "Requires Javelin Weapons Level 40","",reqASJavelinLevel40
 "Requires Javelin Weapons Level 60","",reqASJavelinLevel60
-"Unlocks the Iron Spear","",perkJavelinCraftingRank1LongDesc
-"Unlocks the Steel Spear","",perkJavelinCraftingRank2LongDesc
-"Unlocks the Halberd","",perkJavelinCraftingRank3LongDesc
-"Requires Athletics Level 20","",reqASAthleticsLevel20
-"Requires Athletics Level 40","",reqASAthleticsLevel40
-"Requires Athletics Level 60","",reqASAthleticsLevel60
-"Requires Athletics Level 80","",reqASAthleticsLevel80
-"Requires Athletics Level 100","",reqASAthleticsLevel100
+"Unlocks the Iron Spear","鉄製槍をアンロック",perkJavelinCraftingRank1LongDesc
+"Unlocks the Steel Spear","鋼鉄製槍をアンロック",perkJavelinCraftingRank2LongDesc
+"Unlocks the Halberd","ハルバードをアンロック",perkJavelinCraftingRank3LongDesc
+"Requires Athletics Level 20","アスレチックレベル20が必要",reqASAthleticsLevel20
+"Requires Athletics Level 40","アスレチックレベル40が必要",reqASAthleticsLevel40
+"Requires Athletics Level 60","アスレチックレベル60が必要",reqASAthleticsLevel60
+"Requires Athletics Level 80","アスレチックレベル80が必要",reqASAthleticsLevel80
+"Requires Athletics Level 100","アスレチックレベル100が必要",reqASAthleticsLevel100
 "+5% stamina recovery while running. Increases at skill level 21. Caps at +25% at level 100. Decrease stamina use from jumping by 4% Increases at skill level 21.","",perkASAthletics1Desc
 "+10% stamina recovery while running. Increases at skill level 41. Caps at +25% at level 100. Decrease stamina use from jumping by 8% Increases at skill level 41.","",perkASAthletics2Desc
 "Perk","",perkASAthletics3Desc
@@ -4581,8 +4581,8 @@
 "+25% stamina recovery while running. Decrease stamina use from jumping by 20%","",perkASAthletics5Desc
 "Athletics","",perkASAthleticsName
 "Better stamina usage for jumping and better stamina regen while running.","",perkASAthleticsDesc
-"Magazine: Construction Tools [e7a729](2 Points)[-]","",magazinePerkASConstructionTools
-"Magazine: Mining Tools [e7a729](2 Points)[-]","",magazinePerkASMiningTools
+"Magazine: Construction Tools [e7a729](2 Points)[-]","雑誌: 建築ツール [e7a729](2 ポイント)[-]",magazinePerkASConstructionTools
+"Magazine: Mining Tools [e7a729](2 Points)[-]","雑誌: 掘削ツール [e7a729](2 ポイント)[-]",magazinePerkASMiningTools
 "Magazine: Blunt Weapons [e7a729](2 Points)[-]","",magazinePerkASBlunt
 "Magazine: Bladed Weapons [e7a729](2 Points)[-]","",magazinePerkASBladed
 "Magazine: Archery Weapons [e7a729](2 Points)[-]","",magazinePerkASArchery
@@ -4732,75 +4732,75 @@
 "Blueberry Preserves Recipe","ブルーベリージャムのレシピ",foodPreservedBlueberriesSchematic
 "Snowberry Preserves Recipe","セッコウボクジャムのレシピ",foodPreservedSnowberriesSchematic
 "Snowberry Preserves and Toast","セッコウボクジャムトースト",foodSnowberryPreservesAndToast
-"A Challenge from the Trader's Network","",qc_FuriousRamsayChallengeDesc
-"Trader Network Challenges","",cntVendingMachineTrader
+"A Challenge from the Trader's Network","トレーダーネットワークからの挑戦",qc_FuriousRamsayChallengeDesc
+"Trader Network Challenges","トレーダーネットワークからの挑戦",cntVendingMachineTrader
 "Horde Trainer","",FuriousRamsayTrainerTier1,FuriousRamsayTrainerTier2,FuriousRamsayTrainerTier3,FuriousRamsayTrainerTier4,FuriousRamsayTrainerTier5
-"Putrid Girl","",zombieArleneTrainer
-"Zombie Biker","",zombieBikerTrainer
-"Infected Survivor","",zombieBoeTrainer
-"Zombie Businessman","",zombieBusinessManTrainer
-"Cheerleader Zombie","",zombieCheerleaderTrainer
+"Putrid Girl","腐敗した少女",zombieArleneTrainer
+"Zombie Biker","ゾンビバイカー",zombieBikerTrainer
+"Infected Survivor","感染した生存者",zombieBoeTrainer
+"Zombie Businessman","ゾンビビジネスマン",zombieBusinessManTrainer
+"Cheerleader Zombie","チアリーダーゾンビ",zombieCheerleaderTrainer
 "Decayed Mother","",zombieDarleneTrainer
-"Zombie Farmer","",zombieFarmerTrainer
-"Infected Policeman","",zombieFatCopTrainer
+"Zombie Farmer","ゾンビ農夫",zombieFarmerTrainer
+"Infected Policeman","感染した警察官",zombieFatCopTrainer
 "Disturbed Tourist","",zombieFatHawaiianTrainer
-"Hungry Zombie","",zombieFemaleFatTrainer
+"Hungry Zombie","腹ペコゾンビ",zombieFemaleFatTrainer
 "Festering Cadaver","",zombieJoeTrainer
 "Departed Woman","",zombieMarleneTrainer
 "Bloated Walker","",zombieMoeTrainer
 "Plagued Nurse","",zombieNurseTrainer
-"Zombie Cowboy","",zombieOldTimerTrainer
+"Zombie Cowboy","ゾンビカウボーイ",zombieOldTimerTrainer
 "Skater Punk Zombie","",zombieSkateboarderTrainer
-"Frozen Lumberjack","",zombieSnowTrainer
+"Frozen Lumberjack","凍結した木こり",zombieSnowTrainer
 "Fallen Soldier","",zombieSoldierTrainer
 "Reanimated Corpse","",zombieSteveTrainer
 "Crawler","",zombieSteveCrawlerTrainer
-"Zombie Stripper","",zombieStripperTrainer
+"Zombie Stripper","ゾンビストリッパー",zombieStripperTrainer
 "Utility Worker Zombie","",zombieUtilityWorkerTrainer
 "Rotting Carcass","",zombieYoTrainer
-"Zombie Janitor","",zombieJanitor
-"Horde Training (Tier 1)","",qc_FuriousRamsayHordeTrainingTier1
-"Horde Training (Tier 2)","",qc_FuriousRamsayHordeTrainingTier2
-"Horde Training (Tier 3)","",qc_FuriousRamsayHordeTrainingTier3
-"Horde Training (Tier 4)","",qc_FuriousRamsayHordeTrainingTier4
-"Horde Training (Tier 5)","",qc_FuriousRamsayHordeTrainingTier5
-"The Hunt (Tier 1)","",qc_FuriousRamsayHuntTier1
-"The Hunt (Tier 2)","",qc_FuriousRamsayHuntTier2
-"The Hunt (Tier 3)","",qc_FuriousRamsayHuntTier3
-"The Hunt (Tier 4)","",qc_FuriousRamsayHuntTier4
-"The Hunt (Tier 5)","",qc_FuriousRamsayHuntTier5
-"Mini Horde (Tier 1)","",qc_FuriousRamsayTier1_minihorde
-"Mini Horde (Tier 2)","",qc_FuriousRamsayTier2_minihorde
-"Mini Horde (Tier 3)","",qc_FuriousRamsayTier3_minihorde
-"Mini Horde (Tier 4)","",qc_FuriousRamsayTier4_minihorde
-"Mini Horde (Tier 5)","",qc_FuriousRamsayTier5_minihorde
-"Hold and Fetch (Tier 1)","",qc_FuriousRamsayTier1_clearhold
-"Hold and Fetch (Tier 2)","",qc_FuriousRamsayTier2_clearhold
-"Hold and Fetch (Tier 3)","",qc_FuriousRamsayTier3_clearhold
-"Hold and Fetch (Tier 4)","",qc_FuriousRamsayTier4_clearhold
-"Hold and Fetch (Tier 5)","",qc_FuriousRamsayTier5_clearhold
-"Mechanical Dog Prototype","",FuriousRamsaySpawnAllyDogTier1
-"Mechanical Wolf Prototype","",FuriousRamsaySpawnAllyWolfTier2
-"Mechanical Lion Prototype","",FuriousRamsaySpawnAllyLionTier3
-"Mechanical Bear Prototype","",FuriousRamsaySpawnAllyBearTier4
-"Mechanical Android Prototype","",FuriousRamsaySpawnAllyNPCTier5
+"Zombie Janitor","ゾンビ清掃員",zombieJanitor
+"Horde Training (Tier 1)","ホードの練習（ティア1）",qc_FuriousRamsayHordeTrainingTier1
+"Horde Training (Tier 2)","ホードの練習（ティア2）",qc_FuriousRamsayHordeTrainingTier2
+"Horde Training (Tier 3)","ホードの練習（ティア3）",qc_FuriousRamsayHordeTrainingTier3
+"Horde Training (Tier 4)","ホードの練習（ティア4）",qc_FuriousRamsayHordeTrainingTier4
+"Horde Training (Tier 5)","ホードの練習（ティア5）",qc_FuriousRamsayHordeTrainingTier5
+"The Hunt (Tier 1)","狩猟（ティア1）",qc_FuriousRamsayHuntTier1
+"The Hunt (Tier 2)","狩猟（ティア2）",qc_FuriousRamsayHuntTier2
+"The Hunt (Tier 3)","狩猟（ティア3）",qc_FuriousRamsayHuntTier3
+"The Hunt (Tier 4)","狩猟（ティア4）",qc_FuriousRamsayHuntTier4
+"The Hunt (Tier 5)","狩猟（ティア5）",qc_FuriousRamsayHuntTier5
+"Mini Horde (Tier 1)","ミニホード（ティア1）",qc_FuriousRamsayTier1_minihorde
+"Mini Horde (Tier 2)","ミニホード（ティア2）",qc_FuriousRamsayTier2_minihorde
+"Mini Horde (Tier 3)","ミニホード（ティア3）",qc_FuriousRamsayTier3_minihorde
+"Mini Horde (Tier 4)","ミニホード（ティア4）",qc_FuriousRamsayTier4_minihorde
+"Mini Horde (Tier 5)","ミニホード（ティア5）",qc_FuriousRamsayTier5_minihorde
+"Hold and Fetch (Tier 1)","掴んで持ってくる（ティア1）",qc_FuriousRamsayTier1_clearhold
+"Hold and Fetch (Tier 2)","掴んで持ってくる（ティア2）",qc_FuriousRamsayTier2_clearhold
+"Hold and Fetch (Tier 3)","掴んで持ってくる（ティア3）",qc_FuriousRamsayTier3_clearhold
+"Hold and Fetch (Tier 4)","掴んで持ってくる（ティア4）",qc_FuriousRamsayTier4_clearhold
+"Hold and Fetch (Tier 5)","掴んで持ってくる（ティア5）",qc_FuriousRamsayTier5_clearhold
+"Mechanical Dog Prototype","機械犬試作品",FuriousRamsaySpawnAllyDogTier1
+"Mechanical Wolf Prototype","機械狼試作品",FuriousRamsaySpawnAllyWolfTier2
+"Mechanical Lion Prototype","機械ライオン試作品",FuriousRamsaySpawnAllyLionTier3
+"Mechanical Bear Prototype","機械熊試作品",FuriousRamsaySpawnAllyBearTier4
+"Mechanical Android Prototype","機械人間試作品",FuriousRamsaySpawnAllyNPCTier5
 "(SINGLE PLAYER ONLY) Chest containing a single Dog prototype that regens your stamina.\n\nHas 3 minutes of power.","",FuriousRamsaySpawnAllyDogTier1Desc
 "(SINGLE PLAYER ONLY) Chest containing a single Wolf prototype that regens your health.\n\nHas 3 minutes of power.","",FuriousRamsaySpawnAllyWolfTier2Desc
 "(SINGLE PLAYER ONLY) Chest containing a single Lion prototype that burns zombies.\n\nHas 3 minutes of power.","",FuriousRamsaySpawnAllyLionTier3Desc
 "(SINGLE PLAYER ONLY) Chest containing a single Bear prototype that knocks ennemies down via explosive damage.\n\nHas 3 minutes of power.","",FuriousRamsaySpawnAllyBearTier4Desc
 "(SINGLE PLAYER ONLY) Chest containing a single Android prototype that stuns ennemies.\n\nHas 3 minutes of power.","",FuriousRamsaySpawnAllyNPCTier5Desc
-"Mechanical Dog Dispatcher","",qc_FuriousRamsaySpawnAllyDogTier1
-"Mechanical Wolf Dispatcher","",qc_FuriousRamsaySpawnAllyWolfTier2
-"Mechanical Lion Dispatcher","",qc_FuriousRamsaySpawnAllyLionTier3
-"Mechanical Bear Dispatcher","",qc_FuriousRamsaySpawnAllyBearTier4
-"Mechanical Android Dispatcher","",qc_FuriousRamsaySpawnAllyNPCTier5
-"A Trader Network Dispatcher to call in a mechanical Dog prototype that regens your stamina.\n\nHas 3 minutes of power.","",qc_FuriousRamsaySpawnAllyDogTier1Desc
-"A Trader Network Dispatcher to call in a mechanical Wolf prototype that regens your health.\n\nHas 3 minutes of power.","",qc_FuriousRamsaySpawnAllyWolfTier2Desc
-"A Trader Network Dispatcher to call in a mechanical Lion that burns zombies.\n\nHas 3 minutes of power.","",qc_FuriousRamsaySpawnAllyLionTier3Desc
-"A Trader Network Dispatcher to call in a mechanical Bear prototype that knocks ennemies down via explosive damage.\n\nHas 3 minutes of power.","",qc_FuriousRamsaySpawnAllyBearTier4Desc
-"A Trader Network Dispatcher to call in a mechanical Android prototype that stuns ennemies.\n\nHas 3 minutes of power.","",qc_FuriousRamsaySpawnAllyNPCTier5Desc
-"Hold and Fetch","",quest_FuriousRamsayClearhold_subtitle,quest_FuriousRamsayClearhold_title
-"The Trader wants me to fetch some supplies with a promise of a good reward.","",quest_FuriousRamsayClearhold_description
+"Mechanical Dog Dispatcher","機械犬呼び出し機",qc_FuriousRamsaySpawnAllyDogTier1
+"Mechanical Wolf Dispatcher","機械狼呼び出し機",qc_FuriousRamsaySpawnAllyWolfTier2
+"Mechanical Lion Dispatcher","機械ライオン呼び出し機",qc_FuriousRamsaySpawnAllyLionTier3
+"Mechanical Bear Dispatcher","機械熊呼び出し機",qc_FuriousRamsaySpawnAllyBearTier4
+"Mechanical Android Dispatcher","機械人間呼び出し機",qc_FuriousRamsaySpawnAllyNPCTier5
+"A Trader Network Dispatcher to call in a mechanical Dog prototype that regens your stamina.\n\nHas 3 minutes of power.","スタミナを回復させる機械犬の試作品を呼び出すトレーダー・ネットワークの呼び出し機です。\n\n3分間動作します。",qc_FuriousRamsaySpawnAllyDogTier1Desc
+"A Trader Network Dispatcher to call in a mechanical Wolf prototype that regens your health.\n\nHas 3 minutes of power.","体力を回復させる機械狼の試作品を呼び出すトレーダー・ネットワークの呼び出し機です。\n\n3分間動作します。",qc_FuriousRamsaySpawnAllyWolfTier2Desc
+"A Trader Network Dispatcher to call in a mechanical Lion that burns zombies.\n\nHas 3 minutes of power.","ゾンビを燃やす機械ライオンの試作品を呼び出すトレーダー・ネットワークの呼び出し機です。\n\n3分間動作します。",qc_FuriousRamsaySpawnAllyLionTier3Desc
+"A Trader Network Dispatcher to call in a mechanical Bear prototype that knocks ennemies down via explosive damage.\n\nHas 3 minutes of power.","爆発的なダメージで敵を倒す機械熊の試作品を呼び出すトレーダーネットワークの呼び出し機です。\n\n3分間動作します。",qc_FuriousRamsaySpawnAllyBearTier4Desc
+"A Trader Network Dispatcher to call in a mechanical Android prototype that stuns ennemies.\n\nHas 3 minutes of power.","敵をスタンさせる機械人間の試作品を呼び出すトレーダーネットワークの呼び出し機です。\n\n3分間動作します。",qc_FuriousRamsaySpawnAllyNPCTier5Desc
+"Hold and Fetch","掴んで持ってくる",quest_FuriousRamsayClearhold_subtitle,quest_FuriousRamsayClearhold_title
+"The Trader wants me to fetch some supplies with a promise of a good reward.","トレーダーは、いくつかの物資を調達してくれれば良い報酬を約束すると言っている。",quest_FuriousRamsayClearhold_description
 "This one is a little tougher than usual. I've had a few courriers attempt it and they've all failed.\n\nI need you to retrieve some supplies from the [DECEA3]{poi.name}[-], but it seems like once the place is cleared out, more will come and you'll have to deal with them before you can fetch the supplies.","",quest_FuriousRamsayClearhold_offer
 "Hold and Fetch ([DECEA3]{poi.distance} {poi.direction}[-])","",quest_FuriousRamsayClearhold_response
 "Bring back the shipment.","",quest_FuriousRamsayClearhold_statement
@@ -4819,32 +4819,32 @@
 "Train to defeat a horde.","",quest_FuriousRamsayHordeTrainingNote_statement
 "Shall we begin your Horde training?\n\nThe number and difficulty of zombies will slowly ramp up over a period of a few minutes.\n\nBeware... once you start this, there's no turning back.\n\nReady when you are...","",quest_FuriousRamsayHordeTraining_offer
 "Train to defeat a Horde.","",quest_FuriousRamsayHordeTraining_statement
-"The Hunt","",quest_FuriousRamsayHunt_subtitle,quest_FuriousRamsayHunt_title,quest_FuriousRamsayHunt_response
-"The Trader wants me to get rid of some mutated animals.","",quest_FuriousRamsayHunt_description
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.","",quest_FuriousRamsayHunt_offer
-"Hunt down some mutated animals.","",quest_FuriousRamsayHunt_statement
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Dog prototypes. If you stand close to them, you'll feel like you have better stamina.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 2 minutes though, make the most of it.","",quest_FuriousRamsayHuntTier1_offer
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Wolf prototypes. If you stand close to them, you'll feel like you are in better health.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsayHuntTier2_offer
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Lion prototypes. Zombies standing close to them will periodically get burned.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 4 minutes though, make the most of it.","",quest_FuriousRamsayHuntTier3_offer
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Bear prototypes. Enemies standing close to them will periodically get knocked down by targetted explosions.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 5 minutes though, make the most of it.","",quest_FuriousRamsayHuntTier4_offer
-"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Android prototypes. Ennemies standing close to them will periodically get stuned.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 6 minutes though, make the most of it.","",quest_FuriousRamsayHuntTier5_offer
-"Trader Network Mechanical Dog","",FuriousRamsayAllyDogTier1,FuriousRamsayAllyDogTier1Biome,FuriousRamsayAllyDogTier1Quest,FuriousRamsayAllyDogTier1Spawn
-"Trader Network Mechanical Wolf","",FuriousRamsayAllyWolfTier2,FuriousRamsayAllyWolfTier2Biome,FuriousRamsayAllyWolfTier2Quest,FuriousRamsayAllyWolfTier2Spawn
-"Trader Network Mechanical Lion","",FuriousRamsayAllyLionTier3,FuriousRamsayAllyLionTier3Biome,FuriousRamsayAllyLionTier3Quest,FuriousRamsayAllyLionTier3Spawn
-"Trader Network Mechanical Bear","",FuriousRamsayAllyBearTier4,FuriousRamsayAllyBearTier4Biome,FuriousRamsayAllyBearTier4Quest,FuriousRamsayAllyBearTier4Spawn
-"Trader Network Mechanical Android","",FuriousRamsayAllyNPCTier5,FuriousRamsayAllyNPCTier5Biome,FuriousRamsayAllyNPCTier5Quest,FuriousRamsayAllyNPCTier5Spawn
-"Dispatch Mechanical Dog","",quest_FuriousRamsaySpawnAllyDogTier1_subtitle,quest_FuriousRamsaySpawnAllyDogTier1_title
-"I want to have the Trader Network dispatch a Mechanical Dog to assist me.","",quest_FuriousRamsaySpawnAllyDogTier1_description
-"We can dispatch one of our mechanical Dog prototypes.\n\nIf you stand close to it, you'll feel like you have better stamina.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsaySpawnAllyDogTier1_offer
-"Dispatch Mechanical Wolf","",quest_FuriousRamsaySpawnAllyWolfTier2_subtitle,quest_FuriousRamsaySpawnAllyWolfTier2_title
-"I want to have the Trader Network dispatch a Mechanical Wolf to assist me.","",quest_FuriousRamsaySpawnAllyWolfTier2_description
-"We can dispatch one of our mechanical Wolf prototypes.\n\nIf you stand close to it, you'll feel like you are in better health.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsaySpawnAllyWolfTier2_offer
-"Dispatch Mechanical Lion","",quest_FuriousRamsaySpawnAllyLionTier3_subtitle,quest_FuriousRamsaySpawnAllyLionTier3_title
-"I want to have the Trader Network dispatch a Mechanical Lion to assist me.","",quest_FuriousRamsaySpawnAllyLionTier3_description
-"We can dispatch one of our mechanical Lion prototypes.\n\nZombies standing close to it will periodically get burned.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsaySpawnAllyLionTier3_offer
-"Dispatch Mechanical Bear","",quest_FuriousRamsaySpawnAllyBearTier4_subtitle,quest_FuriousRamsaySpawnAllyBearTier4_title
-"I want to have the Trader Network dispatch a Mechanical Bear to assist me.","",quest_FuriousRamsaySpawnAllyBearTier4_description
+"The Hunt","狩猟",quest_FuriousRamsayHunt_subtitle,quest_FuriousRamsayHunt_title,quest_FuriousRamsayHunt_response
+"The Trader wants me to get rid of some mutated animals.","トレーダーから、変異した動物を処分してほしいと言われている。",quest_FuriousRamsayHunt_description
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。",quest_FuriousRamsayHunt_offer
+"Hunt down some mutated animals.","変異した動物を処分しろ。",quest_FuriousRamsayHunt_statement
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Dog prototypes. If you stand close to them, you'll feel like you have better stamina.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 2 minutes though, make the most of it.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。\n\n我々の開発したの機械犬の試作品を送ろう。こいつらの近くに立つと、スタミナが増したように感じるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsayHuntTier1_offer
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Wolf prototypes. If you stand close to them, you'll feel like you are in better health.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 3 minutes though, make the most of it.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。\n\n我々の開発したの機械狼の試作品を送ろう。こいつらの近くに立つと、体力が増したように感じるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsayHuntTier2_offer
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Lion prototypes. Zombies standing close to them will periodically get burned.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 4 minutes though, make the most of it.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。\n\n我々の開発したの機械ライオンの試作品を送ろう。こいつらのそばにいるゾンビは一定時間燃え上がるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsayHuntTier3_offer
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Bear prototypes. Enemies standing close to them will periodically get knocked down by targetted explosions.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 5 minutes though, make the most of it.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。\n\n我々の開発したの機械熊の試作品を送ろう。こいつらのそばにいるゾンビは限定的な爆発によりノックダウンされるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsayHuntTier4_offer
+"Would you help us get rid of some mutated animals in the area?\n\nThey keep eating our crops and will attack the locals.\n\nYou keep whatever you kill, we just want them gone.\n\nWe'll send our mechanical Android prototypes. Ennemies standing close to them will periodically get stuned.\n\nDon't be surprised if they don't always cooperate. We're still working on the technology.\n\nThey also only have enough power for 6 minutes though, make the most of it.","変異した動物を駆除するのを手伝ってくれないか？\n\n彼らは我々の農作物を食べ続け、地元の人々を攻撃している。\n\n殺した連中は持っていってくれて構わない。我々はただやつらに消えて欲しいだけだからな。\n\n我々の開発したの機械人間の試作品を送ろう。こいつらのそばにいるゾンビはスタンさせられるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsayHuntTier5_offer
+"Trader Network Mechanical Dog","トレーダーネットワークの機械犬",FuriousRamsayAllyDogTier1,FuriousRamsayAllyDogTier1Biome,FuriousRamsayAllyDogTier1Quest,FuriousRamsayAllyDogTier1Spawn
+"Trader Network Mechanical Wolf","トレーダーネットワークの機械狼",FuriousRamsayAllyWolfTier2,FuriousRamsayAllyWolfTier2Biome,FuriousRamsayAllyWolfTier2Quest,FuriousRamsayAllyWolfTier2Spawn
+"Trader Network Mechanical Lion","トレーダーネットワークの機械ライオン",FuriousRamsayAllyLionTier3,FuriousRamsayAllyLionTier3Biome,FuriousRamsayAllyLionTier3Quest,FuriousRamsayAllyLionTier3Spawn
+"Trader Network Mechanical Bear","トレーダーネットワークの機械熊",FuriousRamsayAllyBearTier4,FuriousRamsayAllyBearTier4Biome,FuriousRamsayAllyBearTier4Quest,FuriousRamsayAllyBearTier4Spawn
+"Trader Network Mechanical Android","トレーダーネットワークの機械人間",FuriousRamsayAllyNPCTier5,FuriousRamsayAllyNPCTier5Biome,FuriousRamsayAllyNPCTier5Quest,FuriousRamsayAllyNPCTier5Spawn
+"Dispatch Mechanical Dog","機械犬を呼び出す",quest_FuriousRamsaySpawnAllyDogTier1_subtitle,quest_FuriousRamsaySpawnAllyDogTier1_title
+"I want to have the Trader Network dispatch a Mechanical Dog to assist me.","トレーダーネットワークから機械犬を送り、助けてほしい。",quest_FuriousRamsaySpawnAllyDogTier1_description
+"We can dispatch one of our mechanical Dog prototypes.\n\nIf you stand close to it, you'll feel like you have better stamina.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","我々の開発したの機械犬の試作品を送ろう。こいつらの近くに立つと、スタミナが増したように感じるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsaySpawnAllyDogTier1_offer
+"Dispatch Mechanical Wolf","機械狼を呼び出す",quest_FuriousRamsaySpawnAllyWolfTier2_subtitle,quest_FuriousRamsaySpawnAllyWolfTier2_title
+"I want to have the Trader Network dispatch a Mechanical Wolf to assist me.","トレーダーネットワークから機械狼を送り、助けてほしい。",quest_FuriousRamsaySpawnAllyWolfTier2_description
+"We can dispatch one of our mechanical Wolf prototypes.\n\nIf you stand close to it, you'll feel like you are in better health.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","我々の開発したの機械狼の試作品を送ろう。こいつらの近くに立つと、体力が増したように感じるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsaySpawnAllyWolfTier2_offer
+"Dispatch Mechanical Lion","機械ライオンを呼び出す",quest_FuriousRamsaySpawnAllyLionTier3_subtitle,quest_FuriousRamsaySpawnAllyLionTier3_title
+"I want to have the Trader Network dispatch a Mechanical Lion to assist me.","トレーダーネットワークから機械ライオンを送り、助けてほしい。",quest_FuriousRamsaySpawnAllyLionTier3_description
+"We can dispatch one of our mechanical Lion prototypes.\n\nZombies standing close to it will periodically get burned.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","我々の開発したの機械ライオンの試作品を送ろう。こいつらのそばにいるゾンビは一定時間燃え上がるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsaySpawnAllyLionTier3_offer
+"Dispatch Mechanical Bear","機械熊を呼び出す",quest_FuriousRamsaySpawnAllyBearTier4_subtitle,quest_FuriousRamsaySpawnAllyBearTier4_title
+"I want to have the Trader Network dispatch a Mechanical Bear to assist me.","トレーダーネットワークから機械熊を送り、助けてほしい。",quest_FuriousRamsaySpawnAllyBearTier4_description
 "We can dispatch one of our mechanical Bear prototypes.\n\nEnemies standing close to it will periodically get knocked down by targetted explosions.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsaySpawnAllyBearTier4_offer
-"Dispatch Mechanical Android","",quest_FuriousRamsaySpawnAllyNPCTier5_subtitle,quest_FuriousRamsaySpawnAllyNPCTier5_title
-"I want to have the Trader Network dispatch a Mechanical Android to assist me.","",quest_FuriousRamsaySpawnAllyNPCTier5_description
-"We can dispatch one of our mechanical Android prototypes.\n\nEnnemies standing close to it will periodically get stuned.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","",quest_FuriousRamsaySpawnAllyNPCTier5_offer
+"Dispatch Mechanical Android","機械人間を呼び出す",quest_FuriousRamsaySpawnAllyNPCTier5_subtitle,quest_FuriousRamsaySpawnAllyNPCTier5_title
+"I want to have the Trader Network dispatch a Mechanical Android to assist me.","トレーダーネットワークから機械人間を送り、助けてほしい。",quest_FuriousRamsaySpawnAllyNPCTier5_description
+"We can dispatch one of our mechanical Android prototypes.\n\nEnnemies standing close to it will periodically get stuned.\n\nDon't be surprised if it doesn't always cooperate. We're still working on the technology.\n\nIt also only has enough power for 3 minutes though, make the most of it.","我々の開発したの機械人間の試作品を送ろう。こいつらのそばにいるゾンビはスタンさせられるだろう。\n\nただうまく動かなかったとしても驚かないでほしい。まだまだ技術的には未熟な試作品だ。また、3分間しか動作しないが、うまく使ってほしい。",quest_FuriousRamsaySpawnAllyNPCTier5_offer
