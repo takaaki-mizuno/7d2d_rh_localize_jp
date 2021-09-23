@@ -844,19 +844,19 @@
 "Retro Cash Register","旧式のキャッシュレジスター",cntCashRegister01,cntCashRegister02,cntCashRegister03
 "Charcoal","木炭",resourceCharcoalRH
 "The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit.","家族の料理の匂いや、かつての長期休暇の匂いがします。長い燃焼時間を誇ります。ただし火をつけたままにすることができればですが",resourceCharcoalRHDesc
-"Christmas Tree (Off)","",christmasTreeRH
-"Stay in the holiday spirits, even after the rest of the world is dead! Use your remote to change the music.","",christmasTreeRHDesc
-"Christmas - Silent Night","",christmasTree01RH,christmasTree01RHDesc
-"Christmas - White Christmas","",christmasTree02RH,christmasTree02RHDesc
-"Christmas - Jingle Bell Rock","",christmasTree03RH,christmasTree03RHDesc
-"Christmas - Holly Jolly Christmas","",christmasTree04RH,christmasTree04RHDesc
-"Christmas - Happy Holidays","",christmasTree05RH,christmasTree05RHDesc
-"Christmas - Little Drummer Boy","",christmasTree06RH,christmasTree06RHDesc
-"Christmas - Most Wonderful Time of the Year","",christmasTree07RH,christmasTree07RHDesc
-"Christmas - Sleigh Ride","",christmasTree08RH,christmasTree08RHDesc
-"Christmas - Let It Snow Let It Snow Let It Snow","",christmasTree09RH,christmasTree09RHDesc
-"Christmas - Rocking Around the Christmas Tree","",christmasTree10RH,christmasTree10RHDesc
-"Christmas - Christmas Time Is Here","",christmasTree11RH,christmasTree11RHDesc
+"Christmas Tree (Off)","クリスマスツリー（オフ）",christmasTreeRH
+"Stay in the holiday spirits, even after the rest of the world is dead! Use your remote to change the music.","世界中の人が死んでしまった後でも、ホリデーシーズンの気分を味わおう。リモコンで音楽を変えることができます。",christmasTreeRHDesc
+"Christmas - Silent Night","クリスマス - きよしこの夜",christmasTree01RH,christmasTree01RHDesc
+"Christmas - White Christmas","クリスマス - ホワイトクリスマス",christmasTree02RH,christmasTree02RHDesc
+"Christmas - Jingle Bell Rock","クリスマス - ジングルベル・ロック",christmasTree03RH,christmasTree03RHDesc
+"Christmas - Holly Jolly Christmas","クリスマス - ホリー・ジョリー・クリスマス",christmasTree04RH,christmasTree04RHDesc
+"Christmas - Happy Holidays","クリスマス - ハッピークリスマス",christmasTree05RH,christmasTree05RHDesc
+"Christmas - Little Drummer Boy","クリスマス - リトル・ドラマー・ボーイ",christmasTree06RH,christmasTree06RHDesc
+"Christmas - Most Wonderful Time of the Year","クリスマス - モスト・ワンダフル・タイム・オブ・ザ・イヤー",christmasTree07RH,christmasTree07RHDesc
+"Christmas - Sleigh Ride","クリスマス - そりすべり",christmasTree08RH,christmasTree08RHDesc
+"Christmas - Let It Snow Let It Snow Let It Snow","クリスマス - レット・イット・スノウ",christmasTree09RH,christmasTree09RHDesc
+"Christmas - Rocking Around the Christmas Tree","クリスマス - ロッキン・アラウンド・ザ・クリスマス・ツリー",christmasTree10RH,christmasTree10RHDesc
+"Christmas - Christmas Time Is Here","クリスマス - クリスマス・タイム・イズ・ヒア",christmasTree11RH,christmasTree11RHDesc
 "Christmas Lights 1","",decoHNXMASLIGHTS1RH
 "Christmas Lights 1A","",decoHNXMASLIGHTS1ARH
 "Christmas Lights 2","",decoHNXMASLIGHTS2RH
@@ -960,9 +960,9 @@
 "You were a trade worker in your former life before all of this. Reading this will give you a Fireaxe and schematics to craft a Fireaxe.","あなたはかつては熟達した労働者でした。これを読むと、消防用斧と消防用斧を作るための設計図が手に入ります。",qLumberjackClassDesc
 "Explosives Class","爆発物クラス",qExplosivesClass,q_ExplosivesClass0a,q_ExplosivesClass
 "Medic Class","医療クラス",qMedicClass,q_MedicClass0a,q_MedicClass
-"あなたはかつて救急隊員をしていました。これを読むと、鎮痛剤2つ、添え木1つ、ハーブ系抗生物質2つ、ハーブ系抗生物質と救急用包帯の設計図が手に入ります。","",qMedicClassDesc
+"You were a paramedic in your former life before all of this. Reading this will give you 2 Painkillers, 1 Splint, 2 Herbal Antibiotics and schematics for the Herbal Antibiotic and First Aid Bandages.","あなたはかつて救急隊員をしていました。これを読むと、鎮痛剤2つ、添え木1つ、ハーブ系抗生物質2つ、ハーブ系抗生物質と救急用包帯の設計図が手に入ります。",qMedicClassDesc
 "Farmer Class","農業クラス",qFarmerClass,q_FarmerClass0a,q_FarmerClass
-"You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.","あなたはかつて農家でした。これを読むと、鍬、種パック2個、堆肥5個、農作業用テーブルを手に入れることができます。",qFarmerClassDesc
+"You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.","あなたはかつて農家でした。これを読むと、鍬、種パック2個、堆肥5個、農業用作業台を手に入れることができます。",qFarmerClassDesc
 "You were a streamer in your former life. Good luck. Kappa. This means you start with nothing and your journey is much more difficult than others.","あなたはかつては放浪者でした。オーケイ、幸運を。つまり、あなたは何もないところからスタートしなければならず、その道のりは他の人よりもはるかに困難なものとなるでしょう。",qHardcoreClassDesc
 "You set out to prove that you can tackle the apocalypse with help from no one. Your only set of skills are your eyes and ears.","あなたは、誰の助けも借りずにこのアポカリプスに立ち向かえることを証明するために出発しました。あなたのスキルは目と耳だけです。",q_HardcoreClass0a_description,q_Class0c_offer
 "Check your inventory. You have been given some items and schematics pertaining to your profession.","インベントリを確認してみましょう。あなたの職業に関連したいくつかのアイテムと設計図が入っています。",q_Class0b_description
@@ -1002,12 +1002,12 @@
 "Sitting in front of this please make sure she doesn't catch you looking at her in the mirror. She is very shy.","この前に座って、鏡を見ているところを彼女に見られないようにしてください。彼女はとても恥ずかしがり屋なのです。",cntOldVanityRHDesc
 "Weathered Bed","風雨にさらされたベッド",decoNewBed01RH
 "Someone probably died in this. But sleep is sleep!","ここでで誰か死んだんだのでしょう。でも寝ることはできますよ。",decoNewBed01RHDesc
-"Jack in the Box","",decoJackintheBoxRH
-"Round and round the handle goes what pops forth no one knows.","",decoJackintheBoxRHDesc
-"Medieval Rug 1","",medievalRug01RH
-"Medieval Rug 2","",medievalRug02RH
-"Medieval Rug 3","",medievalRug03RH
-"Medieval Rug 4","",medievalRug04RH
+"Jack in the Box","びっくり箱",decoJackintheBoxRH
+"Round and round the handle goes what pops forth no one knows.","ハンドルをぐるぐる回します。何が飛び出すのかは誰にもわからない。",decoJackintheBoxRHDesc
+"Medieval Rug 1","中世風ラグ 1",medievalRug01RH
+"Medieval Rug 2","中世風ラグ 2",medievalRug02RH
+"Medieval Rug 3","中世風ラグ 3",medievalRug03RH
+"Medieval Rug 4","中世風ラグ 4",medievalRug04RH
 "Area Rug 1","",areaRug01RH
 "Area Rug 2","",areaRug02RH
 "Area Rug 3","",areaRug03RH
@@ -1066,11 +1066,11 @@
 "Retro Refrigerator (1950)","旧式冷蔵庫（1950年代）",cntRetroFridge02RH
 "Retro Oven","旧式オーブン",cntStoveOldVer01RH
 "Old Armchair","",decoOldArmchairRH
-"Classic Couch","",decoClassicCouchRH
+"Classic Couch","クラシックなソファ",decoClassicCouchRH
 "Classic Lounge Chair","",decoClassicChairRH
-"Victorian Clock","",decoVictorianClockRH
-"Victorian Couch 01","",decoVictorianCouch1RH
-"Victorian Couch 02","",decoVictorianCouch2RH
+"Victorian Clock","ヴィクトリア風時計",decoVictorianClockRH
+"Victorian Couch 01","ヴィクトリア風ソファ 01",decoVictorianCouch1RH
+"Victorian Couch 02","ヴィクトリア風ソファ 02",decoVictorianCouch2RH
 "1980s Atari","1980年代のアタリゲーム機",deco80sAtariRH
 "Fun for the entire family. As long as you are not the one holding controller 2.","",80sAtariDesc
 "1980s Computer","1980年代のコンピュータ",deco80sComputerRH
@@ -1217,11 +1217,11 @@
 "Your irrigation system has no water flowing through it. Please check your pump and connections.","",irrigationSystemEmptyDesc
 "Your pump is full and providing water to your crops.","",irrigationPumpFullDesc
 "Your pump is empty. Please place it next to or over a water source to provide it with water so it may begin to flow through your irrigation system.","",irrigationPumpEmptyDesc
-"Wheat (Seed)","",plantedWheat1RH
+"Wheat (Seed)","小麦（種）",plantedWheat1RH
 "Plant yucca seeds in fertile dirt to grow yucca plants.","ナッツの木を育てるために、ナッツの種を肥沃な土に植えましょう",plantedWheat1RHDesc,plantedLettuce1RHDesc,plantedTomato1RHDesc,plantedCarrot1RHDesc,plantedCabbage1RHDesc,plantedCucumber1RHDesc,plantedMarijuana1RHDesc,plantedPotato1FertilizedRHDesc,plantedAloe1FertilizedRHDesc,plantedBlueberry1FertilizedRHDesc,plantedCabbage1FertilizedRHDesc,plantedCarrot1FertilizedRHDesc,plantedChrysanthemum1FertilizedRHDesc,plantedCoffee1FertilizedRHDesc,plantedCorn1FertilizedRHDesc,plantedCotton1FertilizedRHDesc,plantedCucumber1FertilizedRHDesc,plantedGoldenrod1FertilizedRHDesc,plantedGraceCorn1FertilizedRHDesc,plantedHop1FertilizedRHDesc,plantedLettuce1FertilizedRHDesc,plantedMushroom1FertilizedRHDesc,plantedOnion1FertilizedRHDesc,plantedPumpkin1FertilizedRHDesc,plantedSnowberry1FertilizedRHDesc,plantedStrawberry1FertilizedRHDesc,plantedTomato1FertilizedRHDesc,plantedWheat1FertilizedRHDesc,plantedYucca1FertilizedRHDesc,plantedNuts1RHDesc
-"Wheat (Growing)","",plantedWheat2RH,plantedWheat2RHDesc
-"Wheat Plant 3 (POI)","",plantedWheat3HarvestRH,plantedWheat3HarvestFertilizedRH
-"Wheat Plant","",plantedWheat3HarvestRHDesc,plantedWheat3HarvestPlayerRHDesc,plantedWheat3HarvestPlayerRH
+"Wheat (Growing)","小麦（生育中）",plantedWheat2RH,plantedWheat2RHDesc
+"Wheat Plant 3 (POI)","小麦の苗 3（POI）",plantedWheat3HarvestRH,plantedWheat3HarvestFertilizedRH
+"Wheat Plant","小麦の苗",plantedWheat3HarvestRHDesc,plantedWheat3HarvestPlayerRHDesc,plantedWheat3HarvestPlayerRH
 "Lettuce (Seed)","レタス（種）",plantedLettuce1RH
 "Lettuce (Growing)","レタス（生育中）",plantedLettuce2RH
 "Lettuce Plant 3 (POI)","レタスの苗 3（POI）",plantedLettuce3HarvestRH,plantedLettuce3HarvestFertilizedRH
@@ -1251,26 +1251,26 @@
 "Marijuana (Growing)","マリファナ（生育中）",plantedMarijuana2RH
 "Marijuana Plant 3 (POI)","マリファナの苗 3（POI）",plantedMarijuana3HarvestRH
 "Marijuana Plant","マリファナの苗",plantedMarijuana3HarvestRHDesc,plantedMarijuana3HarvestPlayerRHDesc,plantedMarijuana3HarvestPlayerRH
-"Strawberry (Seed)","",plantedStrawberry1RH
-"Plant strawberry seeds in fertile dirt to grow strawberry plants.","",plantedStrawberry1RHDesc
-"Strawberry (Growing)","",plantedStrawberry2RH
-"Strawberry Plant 3 (POI)","",plantedStrawberry3HarvestRH,plantedStrawberry3HarvestFertilizedRH
-"Strawberry Plant","",plantedStrawberry3HarvestRHDesc,plantedStrawberry3HarvestPlayerRHDesc,plantedStrawberry3HarvestPlayerRH
-"Strawberry","",foodCropStrawberryRH
-"Strawberry can be eaten or turned into strawberry seeds.","",foodCropStrawberryRHDesc
-"Wheat","",foodCropWheatRH
-"Wheat can be eaten or turned into wheat seeds.","",foodCropWheatRHDesc
+"Strawberry (Seed)","いちご（種）",plantedStrawberry1RH
+"Plant strawberry seeds in fertile dirt to grow strawberry plants.","いちごの種を肥えた土に植えると、いちごの苗が育ちます。",plantedStrawberry1RHDesc
+"Strawberry (Growing)","いちご（生育中）",plantedStrawberry2RH
+"Strawberry Plant 3 (POI)","いちごの苗 3（POI）",plantedStrawberry3HarvestRH,plantedStrawberry3HarvestFertilizedRH
+"Strawberry Plant","いちごの苗",plantedStrawberry3HarvestRHDesc,plantedStrawberry3HarvestPlayerRHDesc,plantedStrawberry3HarvestPlayerRH
+"Strawberry","いちご",foodCropStrawberryRH
+"Strawberry can be eaten or turned into strawberry seeds.","いちごは食べることもできるし、いちごの種にもなります。",foodCropStrawberryRHDesc
+"Wheat","小麦",foodCropWheatRH
+"Wheat can be eaten or turned into wheat seeds.","小麦は食べることもできるし、小麦の種にもなります。",foodCropWheatRHDesc
 "Lettuce","レタス",foodCropLettuceRH
 "Lettuce can be eaten or turned into lettuce seeds.","レタスは食べることもできるし、レタスの種にもなります。",foodCropLettuceRHDesc
 "Tomato","トマト",foodCropTomatoRH
 "Tomato can be eaten or turned into tomato seeds.","トマトは食べることもできるし、トマトの種にもなります。",foodCropTomatoRHDesc
 "Cabbage","キャベツ",foodCropCabbageRH
-"Cabbage can be eaten or turned into cabbage seeds.","",foodCropCabbageRHDesc
+"Cabbage can be eaten or turned into cabbage seeds.","キャベツは食べることもできるし、キャベツの種にもなります。",foodCropCabbageRHDesc
 "Carrot","人参",foodCropCarrotRH
-"Carrot can be eaten or turned into carrot seeds.","",foodCropCarrotRHDesc
+"Carrot can be eaten or turned into carrot seeds.","人参は食べることもできるし、人参の種にもなります。",foodCropCarrotRHDesc
 "Cucumber","きゅうり",foodCropCucumberRH
-"Cucumber can be eaten or turned into cucumber seeds.","",foodCropCucumberRHDesc
-"Onion can be eaten or turned into onion seeds.","",foodCropOnionRHDesc
+"Cucumber can be eaten or turned into cucumber seeds.","きゅうりは食べることもできるし、きゅうりの種にもなります。",foodCropCucumberRHDesc
+"Onion can be eaten or turned into onion seeds.","タマネギは食べることもできるし、タマネギの種にもなります。",foodCropOnionRHDesc
 "Onion","玉ねぎ",foodCropOnionRH
 "Hemp","麻",resourceHempRH
 "Hemp can be used in the making of clothing and paper.","麻は、衣類や紙の原料として使うことができます。",resourceHempRHDesc
@@ -1286,34 +1286,34 @@
 "Lettuce (Seed) Recipe","レタス（種）のレシピ",plantedLettuce1RHSchematic
 "Cucumber (Seed) Recipe","きゅうり（種）のレシピ",plantedCucumber1RHSchematic
 "Cabbage (Seed) Recipe","キャベツ（種）のレシピ",plantedCabbage1RHSchematic
-"Wheat (Seed) Recipe","",plantedWheat1RHSchematic
+"Wheat (Seed) Recipe","小麦（種）のレシピ",plantedWheat1RHSchematic
 "Carrot (Seed) Recipe","人参（種）のレシピ",plantedCarrot1RHSchematic
 "Tomato (Seed) Recipe","トマト（種）のレシピ",plantedTomato1RHSchematic
 "Onion (Seed) Recipe","玉ねぎ（種）のレシピ",plantedOnion1RHSchematic
 "Strawberry (Seed) Recipe","いちご（種）のレシピ",plantedStrawberry1RHSchematic
 "Marijuana (Seed) Recipe","マリファナ（種）のレシピ",plantedMarijuana1RHSchematic
 "Fertilizer","肥料",resourceFertilizerRH
-"Using ferilizer on planted seeds will yield more crops in return and also will allow an unfertilized seed to be left behind.","",resourceFertilizerRHDesc
+"Using ferilizer on planted seeds will yield more crops in return and also will allow an unfertilized seed to be left behind.","植えた種に肥料を与えると、より多くの作物が収穫でき、肥料を与えられていない種を残すこともできます。",resourceFertilizerRHDesc
 "Strawberry Pie","ストロベリーパイ",foodStrawberryPieRH
 "If there is one thing to be thankful for in the apocalypse, it's strawberry pie.","アポカリプスで感謝すべきことがあるとすれば、それはストロベリーパイです。",foodStrawberryPieRHDesc
 "Strawberry Pie Recipe","ストロベリーパイのレシピ",foodStrawberryPieRHSchematic
 "Garden Salad","ガーデンサラダ",foodSaladRH
-"A healthy salad is a good use for those leftover veggies.","",foodSaladRHDesc
+"A healthy salad is a good use for those leftover veggies.","残り物の野菜を有効に使ってできるヘルシーなサラダです。",foodSaladRHDesc
 "Shorty Stew","",foodShortyStewRH
 "The perfect stew to keep you warm on a cold apocalyptic day. Just do not add hot sauce.","",foodShortyStewRHDesc
 "Shorty Stew Recipe","",foodShortyStewRHSchematic
 "Flour","小麦粉",foodFlourRH
 "Used for making bread and pies. NOT what you thought it was. Better wipe your nose before the gang suspects something.","",foodFlourRHDesc
 "Bowl of Fruit","フルーツボウル",foodBowlFruitRH
-"Perfect and simple to make and healthy too. A great way to get by if you have some spare fruit laying around.","",foodBowlFruitRHDesc
+"Perfect and simple to make and healthy too. A great way to get by if you have some spare fruit laying around.","完璧で簡単に作れて、しかもヘルシー。フルーツが余っているときにはもってこいの方法です。",foodBowlFruitRHDesc
 "Bowl of Veggies","野菜ボウル",foodBowlVeggiesRH
-"Perfect and simple to make and healthy too. A great way to get by if you have some spare veggies laying around.","",foodBowlVeggiesRHDesc
-"Iron Hoe","",meleeToolFarmT1IronHoeRH
-"Indispensable tool for Plowing the land for farming.","",meleeToolFarmT1IronHoeRHDesc
-"Iron Hoe Schematic","",meleeToolFarmT1IronHoeRHSchematic
-"Seeds can be planted on tilled terrain soil. They must be placed next to water to grow. This water will deplete every harvest unless you have an irrigation system. When your plant is ready punch to harvest it. You will then need to plant a new seed.\n\nAs you unlock Living off the Land you will be able to make Farm Plots, which allow underground farming and Irrigation Pipes which allow you to run water from larger bodies of water.","",plantedCropsGroupDesc
+"Perfect and simple to make and healthy too. A great way to get by if you have some spare veggies laying around.","完璧で簡単に作れて、しかもヘルシー。野菜が余っているときにはもってこいの方法です。",foodBowlVeggiesRHDesc
+"Iron Hoe","鉄製鍬",meleeToolFarmT1IronHoeRH
+"Indispensable tool for Plowing the land for farming.","農作業のための耕作に欠かせないツールです。",meleeToolFarmT1IronHoeRHDesc
+"Iron Hoe Schematic","鉄製鍬の設計図",meleeToolFarmT1IronHoeRHSchematic
+"Seeds can be planted on tilled terrain soil. They must be placed next to water to grow. This water will deplete every harvest unless you have an irrigation system. When your plant is ready punch to harvest it. You will then need to plant a new seed.\n\nAs you unlock Living off the Land you will be able to make Farm Plots, which allow underground farming and Irrigation Pipes which allow you to run water from larger bodies of water.","種は耕された地表の土に植えることができます。ただし水のそばに置かないと種は育ちません。この水は、灌漑システムがない限り、収穫のたびに枯渇してしまいます。苗ができたらパンチして収穫することができます。その後、新たな種を植える必要があります。\n\n「自給自足」をアンロックすると、地下農業を可能にする耕作区画や、大きな水域から水を流すことができる灌漑用パイプを作ることができるようになります。",plantedCropsGroupDesc
 "Seed Pack","種パック",resourceSeedPackRH
-"You can use this seed pack to create a new set of crop seeds that you can use to grow and create better foods.","",resourceSeedPackRHDesc
+"You can use this seed pack to create a new set of crop seeds that you can use to grow and create better foods.","この種パックを使って、新しい作物の種を作り、より良い食材を育てていくことができます。",resourceSeedPackRHDesc
 "Composter (Collecting)","",trapsComposterFillingRH
 "Composting in Progress","",trapsComposterFillingRHDesc
 "Composter","コンポスター",trapsEmptyComposterRH
@@ -1470,7 +1470,7 @@
 "Handgun Frame","",partsPistolFrameRH
 ".44 Magnum Frame","",partsMagnumFrameRH
 "Rifle Parts","ライフルパーツ",partsRiflePartsRH
-"Rifle Barrel","",partsRifleBarrelRH
+"Rifle Barrel","ライフルバレル",partsRifleBarrelRH
 "Rifle Stock","",partsRifleStockRH
 "Hunting Rifle Receiver","",partsHuntingRifleReceiverRH
 "Sniper Rifle Receiver","",partsSniperRifleReceiverRH
@@ -1676,14 +1676,14 @@
 "The decorating table is where you can go crazy with inspiration and use RH exclusive blocks to decorate your home.","",decorTableRHTip
 "An ammunition press is vital to making ammunition for your firearms. Without one you will need to survive off scavenged ammo. It can be used to disassemble ammo. Ammunition presses can be located in certain POIs.","",ammunitionTableRHTip
 "Ammunition Press","",ammunitionTableRHTip_title,ammoTableRH
-"Now that you have found some bees you can put them to work in a beehive. \n\nCraft a beehive and use the bees to populate it. Over time the bees will produce honeycombs for you to turn into honey. \n\nYou can repeat this process as many times as you like by refilling the beehive with bees.","",beeHiveRHTip
-"Producing Honey","",beeHiveRHTip_title
-"Turds can be quite valuable as a resource in farming. When you use turds along with spoiled food and other ingredients you can create compost. Compost is used in Composters and will create fertilizer over time. \nFertilizer is used as a second way to create farm plots. When your composter is ready you will receive various amounts of fertilizer and turds back. Using the fertilizer and composter you can create a renewable resource for your farm plots to grow your crops in. \n\nDon't forget that farm plots need to be within one block length of water in order to grow successfully.","",TurdRHTip
-"Compost and Fertilizer","",TurdRHTip_title
+"Now that you have found some bees you can put them to work in a beehive. \n\nCraft a beehive and use the bees to populate it. Over time the bees will produce honeycombs for you to turn into honey. \n\nYou can repeat this process as many times as you like by refilling the beehive with bees.","蜜蜂が見つかったので、蜂の巣で彼女らを働かせることができます。\n\n蜂の巣を作り、蜜蜂を働かせます。蜜蜂はやがて蜂蜜の塊を作り、あなたはそれから蜂蜜を作ることができます。\n\nこのプロセスは、蜂の巣に蜜蜂を補充することで何度でも繰り返すことができます。",beeHiveRHTip
+"Producing Honey","蜂蜜の生産",beeHiveRHTip_title
+"Turds can be quite valuable as a resource in farming. When you use turds along with spoiled food and other ingredients you can create compost. Compost is used in Composters and will create fertilizer over time. \nFertilizer is used as a second way to create farm plots. When your composter is ready you will receive various amounts of fertilizer and turds back. Using the fertilizer and composter you can create a renewable resource for your farm plots to grow your crops in. \n\nDon't forget that farm plots need to be within one block length of water in order to grow successfully.","糞は農業用の資源として非常に価値があります。糞を腐敗した食品や他の材料と一緒に使うと、堆肥を作ることができます。堆肥はコンポスターに入れると、時間の経過とともに肥料になります。\n肥料は、耕作区画を作成する二番めの方法です。コンポスターが完成すると、様々な量の肥料が得られ、同時に糞が戻ってきます。肥料とコンポスターを使うことで、再生可能な資源として耕作区画を作り、作物を育てることができます。\n\nなお、農地をうまく育てるためには、水辺が1ブロック以内にあることが必要です。",TurdRHTip
+"Compost and Fertilizer","堆肥と肥料",TurdRHTip_title
 "All spoilage times are for in your backpack. Toolbelt spoils fastest. Containers take longer. Blue Coolers are next, followed by Refrigerators. The Preservation Barrel has slowest spoilage time. \n\nAll spoilage times are for backpacks. Minutes are in world minutes, it is calculated using real world time. \n\nRaw Meat and Fish \nSpoilage Time: 1 Piece every 60 minutes \n\nEggs and Cooked Dishes \nSpoilage Time: 1 Piece every 90 minutes \n\nBread, Baked Goods \nSpoilage Time: 1 piece every 120 minutes \n\nCrops and Fruit \nSpoilage Time: 1 piece every 120 minutes \n\nCanned Food and Ingredients \nNo Spoilage Time \n\nYou can loot cling wrap that you can use to seal raw meat and vegetables using a food processor. Sealed meat has no expiration time. Calculations are done at the time of opening a container. You may see multiple pieces expire at once.","",foodSpoilageRHTip
 "Food Spoilage","食品の腐敗",foodSpoilageRHTip_title,loadingTipFoodSpoilage_title
-"As you venture in the world you will notice many of the workstations you come across may be broken. Fear not because there is a way to fix them and restore their use. All stations have an upgrade kit that can be crafted. The materials to make them are usually similar to the station itself. Using a hammer and the appropriate kit you can take a broken station and make it function again.","",brokenStationRHTip
-"Upgrading Broken Stations","",brokenStationRHTip_title
+"As you venture in the world you will notice many of the workstations you come across may be broken. Fear not because there is a way to fix them and restore their use. All stations have an upgrade kit that can be crafted. The materials to make them are usually similar to the station itself. Using a hammer and the appropriate kit you can take a broken station and make it function again.","世界を旅していると、出会った作業台の多くが壊れていることに気づくでしょう。しかし、修理して元通りに使えるようにする方法があります。すべての作業台には修理キットがあり、それを作ることができます。修理キットを作るための材料は、たいてい作業台本体と同じです。ハンマーと適切なキットを使えば、壊れた作業台を再び機能させることができます。",brokenStationRHTip
+"Upgrading Broken Stations","壊れた作業台を修理する",brokenStationRHTip_title
 "Gas is an essential resource in the apocalypse but it can be tough to get your hands on it. You will find empty gas cans in vehicles and auto shops. You can even craft them yourself. These empty gas cans can be taken to a working gas pump. There you will use 50 cans on it to initiate gas production. In a few hours you will be able to loot the gas pump and take the gas that was left behind home with you. \n\nYou may also produce gas by digging for shale in the desert.","",gasRHTip
 "Gas Production","ガソリンの生産",gasRHTip_title
 "You will notice that all items have a durability. This is a numbered range from 1-1000. The higher the durability the longer the item will last and the better the stats will be. You can raise the quality at which you craft these items by using the item and levelling the Action Skill associated with it. \n\nRepairing an item will cost you 100 points in durability unless you use a workbench to combine two items for repair. Doing this will combine both items durability numbers to create a new one. \n\nYou can lessen the point hit on Quality by raising your respective Action Skill. For every 20 levels of that skill you gain you minimize the point reduction on Quality by 10 points. \n\nAction Skills 19 and below = 100 point loss \nAction Skills 20 = 90 point loss \nAction Skills 30 = 80 point loss\nAction Skills 40 = 70 point loss \nAction Skills 50 = 60 point loss \nAnd so on until you hit 100 for a 10 point loss \n\nPlease note that items that are under 11 Quality will break when you try to repair them and you must make another one.","",qualityRHTip
@@ -1699,18 +1699,18 @@
 "Here is a guide to elevators.\n\nChoose a floor number to travel to using the numpad. 999 will take you straight to the control floor without knowing its number, no power is required if its inside your landclaim.\nFloor numbers are assigned from the bottom up.\nTarget floor will be displayed in activation text, press e to travel to that floor.\nIf you press R while the select floor text is showing you get the floor count at the bottom of the screen.\nControl floor requires power.\nFloors can be placed both above and bellow the control floor.\nFloors can be added or removed at any time and can be placed before or after the control floor is placed. Floor numbers will automatically adjust when a floor is added or removed.\nControl floors are limited to one per position, if one is alrealy in that positions elevator you wont be able to place one until the other is removed.\nElevator will move up or down to the next floor when the floor it's at or heading for is removed.","",elevatorRHTip
 "Guide to Elevators","",elevatorRHTip_title
 "Press E to mount glider and the glider catches the wind so to speak and takes off.\n\nWhen airbourne C becomes tilt forward and spacebar is tiltback. Whilst airbourne you can let go of W and use the A and D controls (strafe) and mouse to steer down to earth or for sustaining longer flights you need to use the spacebar to tiltback and maintain height.\n\nWhen landing press E to dismount near desired landing position and then pickup the glider for your next adventure.\n\nIf you hit another building or perhaps a tree during descent the glider may stick and leave you stranded. I put the exit for the glider at the top for now. When exiting the glider and standing on top the glider it will slowly descend to the ground without you having to plunge to your death. So stay still and don't walk off.","",hangGliderRHTip
-"Hang Gliders","",hangGliderRHTip_title
-"The wood cutter is a powerful tool that can efficiently chop you up sticks and split wood into planks.","",treeSplitterRHTip
-"Wood Cutter","",treeSplitterRHTip_title
+"Hang Gliders","ハンググライダー",hangGliderRHTip_title
+"The wood cutter is a powerful tool that can efficiently chop you up sticks and split wood into planks.","ウッドカッターは、棒を効率的に切り刻んだり、木を板状に割ったりできる強力なツールです。",treeSplitterRHTip
+"Wood Cutter","ウッドカッター",treeSplitterRHTip_title
 "You will notice that as you gain skills in Living Off The Land you will be able to use an Irrigation System on your crops. The Irrigation system is a series of connected pipes you can attach to a water source and run back to your planter boxes. Using irrigation water will NOT be consumed. Plants will check for irrigation pipes within 4 blocks.\n\nTo begin place an Irrigation Pump within 4 meters of a water source. Once the pump is full it will remain full. Next you will connect your pipes and joints and run them to your planter box. They can be underneath your boxes but all pipes MUST remain connected. They will fill every 60 minutes and water your crops. After the watering process the pipes will need to fill again and will be empty. This process will keep repeating.\n\nIrrigation does NOT consume any water. It only needs to be connected to a pump that is alongside a water source.","",IrrigationRHTip
-"Irrigation System","",IrrigationRHTip_title
+"Irrigation System","灌漑システム",IrrigationRHTip_title
 "Boats MUST be placed on water, helps if you are standing in the shallows to place it. Works best if you have a level land mass, under about one block deep water.\n\nWhen the boat places properly, it will float evenly to the surface, if it goes slanty and sinks, pick it up and try again. Building a dock in the shallows is a great idea.\n\nIf you try to place them on land, they will sink! They are also finicky, as anything with water in this game, so there is a bit of use at your own risk, for FUN.\n\nControls\n\nOnce you get in the boat, pressing the Turbo key will propel you forward (not W, for now). Be aware using c and spacebar (gyro-like controls), they could cause you to sink, but may be necessary to even yourself out at times.","",BoatsRHTip
-"Boats and Rafts","",BoatsRHTip_title
+"Boats and Rafts","ボートと筏",BoatsRHTip_title
 "High value scavenging sites like Tier 5 buildings are washed in radiation and will kill you if you try to enter them early on. Find Hazmat Suits in order to venture into them. You need all 5 pieces. These buildings house special military crates with special loot in them!","",RadiationRHTip
 "Radiation","放射能汚染",RadiationRHTip_title,loadingTipRadiationRH_title
 "When you harvest an animal like a Pig or Chcken you may receive a male or female baby. You'll use the male and female you get to craft a male or female and can then place them in an enclosure. They have a home block. Right now its hay bale. Place hay and surround them in a 4 high fence or wall or they will wander. Place a trough and craft animal feed. Fill the trough with feed. Pour water out in a hole for them to drink out of. They will poop. You can place a toilet to catch their poop. Eventually they will have babies and the cycle repeats.","",BreedingRHTip
-"Animal Breeding","",BreedingRHTip_title
-"Chopping up Tree Stumps will sometimes give you Honey Comb - Which in turn can be used with an empty Jar to make a jar of Honey which has a 5% cure of infection.","",HoneyRHTip
+"Animal Breeding","動物の飼育",BreedingRHTip_title
+"Chopping up Tree Stumps will sometimes give you Honey Comb - Which in turn can be used with an empty Jar to make a jar of Honey which has a 5% cure of infection.","木の切り株を切り刻むと、ときどき「蜂蜜の塊」が手に入ります。これを空の瓶と一緒に組み合わせて、感染症を5％予防する効果のある「蜂蜜の瓶」を作ることができます。",HoneyRHTip
 "Early Game Honey","ゲーム序盤の蜂蜜",HoneyRHTip_title,loadingTipHoneyRH_title
 "If you notice there is a little small icon of a book  in the corner of every book and schematic - If the book is closed you need to read it if the book is open you have already read it.","",KnownBooksRHTip
 "Known Schematics","既知の設計図",KnownBooksRHTip_title,loadingTipKnownBooksRH_title
@@ -2340,7 +2340,7 @@
 "Blacksmith Forge","鍛冶屋の炉",blacksmithForgeRH,blacksmithForgeRH
 "Farm Table","農業用作業台",farmTableRH
 "Legendary Bow Schematic","",LegendaryBowSchematic
-"Hatchet Schematic","",HatchetSchematic
+"Hatchet Schematic","手斧の設計図",HatchetSchematic
 "War Hammer Schematic","",WarHammerSchematic
 "Battle Maul Schematic","",BattleMaulSchematic
 "Gate Crasher Schematic","",GateCrasherSchematic
@@ -2348,10 +2348,10 @@
 "War Mace Schematic","",WarMaceSchematic
 "Crown Splitter Schematic","",CrownSplitterSchematic
 "Dane Schematic","",DaneSchematic
-"Battle Axe Schematic","",BattleAxeSchematic
+"Battle Axe Schematic","バトルアックスの設計図",BattleAxeSchematic
 "Corpse Maker Schematic","",CorpseMakerSchematic
 "Claymore Schematic","",ClaymoreSchematic
-"Dragon Slayer Schematic","",DragonSlayerSchematic
+"Dragon Slayer Schematic","ドラゴンスレイヤーの設計図",DragonSlayerSchematic
 "Javelin Schematic","",JavelinSchematic
 "Spear Schematic","",SpearSchematic
 "Halberd Schematic","",HalberdSchematic
@@ -2361,19 +2361,19 @@
 "A barbaric and vicious throwing weapon. Repair with Forged Chromium","",JavelinDesc
 "A barbaric and vicious throwing weapon. Repair with Forged Aluminum","",SpearDesc
 "A barbaric and vicious throwing weapon. Repair with Forged Tungsten","",HalberdDesc
-"Legendary Bow","",LegendaryBow
-"Hatchet","",Hatchet
-"War Hammer","",WarHammer
+"Legendary Bow","伝説の弓",LegendaryBow
+"Hatchet","手斧",Hatchet
+"War Hammer","ウォーハンマー",WarHammer
 "Battle Maul","",BattleMaul
 "Gate Crasher","",GateCrasher
 "Mace","",Mace
 "War Mace","",WarMace
 "Crown Splitter","",CrownSplitter
 "Dane","",Dane
-"Battle Axe","",BattleAxe
+"Battle Axe","バトルアックス",BattleAxe
 "Corpse Maker","",CorpseMaker
 "Claymore","",Claymore
-"Dragon Slayer","",DragonSlayer
+"Dragon Slayer","ドラゴンスレイヤー",DragonSlayer
 "Javelin","",Javelin
 "Spear","",Spear
 "Halberd","",Halberd
@@ -2475,7 +2475,7 @@
 "Fletchers Bow","",gunBowFletcher
 "Good for hunting and killing zombies. Uses Wooden and Aluminium Arrows for ammunition.\nHold reload to use alternate ammo.\n\nRepair with Primitive Repair Kit.\nScrap to Wood.","",gunBowFletcherDesc
 "Recurve Bow","",gunBowRecurve
-"Good for hunting and killing zombies. Uses Steel and Carbon Steel tipped Wooden","",gunBowRecurveDesc
+"Good for hunting and killing zombies. Uses Steel and Carbon Steel tipped Wooden","狩猟やゾンビ退治に最適です。木製で鋼鉄と炭素鋼の先端がついています",gunBowRecurveDesc
 "Hybrid Cam Compound Bow","",gunBowHybridCamCompound
 "A compound bow does more damage and arrows fly straighter which makes it easier to aim. Uses Aluminium and Carbon Fiber Arrows for ammunition.\nHold reload to use alternate ammo.\n\nRepair with an Advanced Repair Kit.\nScrap to Iron.","",gunBowHybridCamCompoundDesc
 "Primitive Crossbow","",gunBowPrimitiveCrossbow

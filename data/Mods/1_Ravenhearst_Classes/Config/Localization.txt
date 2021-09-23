@@ -362,7 +362,7 @@ qExplosivesClass,items,Quest - Note,Explosives Class,,,,,,"爆発物クラス"
 qExplosivesClassDesc,items,Quest - Note,"You were a chef in your former life before all of this. Reading this will give you a Cooking Grill, a Cooking Pot, 2 Chili Dogs and 3 Berry Teas along with schematics for both.",,,,,
 
 qMedicClass,items,Quest - Note,Medic Class,,,,,,"医療クラス"
-qMedicClassDesc,items,Quest - Note,"あなたはかつて救急隊員をしていました。これを読むと、鎮痛剤2つ、添え木1つ、ハーブ系抗生物質2つ、ハーブ系抗生物質と救急用包帯の設計図が手に入ります。",,,,,
+qMedicClassDesc,items,Quest - Note,"You were a paramedic in your former life before all of this. Reading this will give you 2 Painkillers, 1 Splint, 2 Herbal Antibiotics and schematics for the Herbal Antibiotic and First Aid Bandages.",,,,,,"あなたはかつて救急隊員をしていました。これを読むと、鎮痛剤2つ、添え木1つ、ハーブ系抗生物質2つ、ハーブ系抗生物質と救急用包帯の設計図が手に入ります。"
 
 qFarmerClass,items,Quest - Note,Farmer Class,,,,,,"農業クラス"
 qFarmerClassDesc,items,Quest - Note,"You were a farmer in your former life before all of this. Reading this will give you a Hoe, 2 Seed Packs, 5 Compost and a Farm Table.",,,,,,,"あなたはかつては農業を営んでいました。これを読むと、鍬、種パック2個、堆肥5個、農作業用テーブルが手に入ります。"
